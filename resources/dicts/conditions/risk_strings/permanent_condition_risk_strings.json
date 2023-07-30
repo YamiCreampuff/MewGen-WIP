@@ -162,7 +162,7 @@
     	"headache": [
     		"m_c wakes up with an incredibly painful headache, so painful in fact, they become disorientated and unable to focus properly."
     	],
-    	"phantom pain" [
+    	"phantom pain": [
     		"m_c thumps {PRONOUN/m_c/poss} tail on the ground in annoyance, it feels like {PRONOUN/m_c/poss} entire body is set alight, and a growing need to relieve some tension is becoming overwhelming."
     	]
     }
