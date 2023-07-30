@@ -408,11 +408,11 @@
 		"Sasuke", "Sakura", "Naruto",
 		"Bakura", "Marik",
 		"Mr. Sir", "Mr. Sor of Himb",
-		"Lullaby", "Varon", "Amala", "Halim", "Charlie", "Skye", "Pan"
+		"Lullaby", "Varon", "Amala", "Halim", "Charlie", "Skye", "Pan",
 		"Scarfy", "Newt", "Indigo", "Peach",
 		"Billy", "Steve", "Fred",
-    "Pikachutwo", "Charmandertwo", "Bulbasaurtwo", "Squirtletwo", "Joltictwo", "Tynamotwo", "Eeveetwo", "Magikarptwo", "Silcoontwo", "Cascoontwo", "Gastlytwo",
-    "Meowthtwo", "Shuppettwo", "Mewtwo"
+		"Pikachutwo", "Charmandertwo", "Bulbasaurtwo", "Squirtletwo", "Joltictwo", "Tynamotwo", "Eeveetwo", "Magikarptwo", "Silcoontwo", "Cascoontwo", "Gastlytwo",
+		"Meowthtwo", "Shuppettwo", "Mewtwo"
 	],
 	"animal_suffixes": [""],
 	"animal_prefixes": [""],
