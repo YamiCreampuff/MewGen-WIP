@@ -2,7 +2,7 @@
     "Berserk Gene": {
         "severity": "minor",
         "congenital": "always",
-        "moons_until": 0,
+        "moons_until": 3,
         "mortality": {
             "kitten": 0,
             "adolescent": 0,
