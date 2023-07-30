@@ -1,6 +1,6 @@
 {
     "Berserk Gene": {
-        "severity": "major",
+        "severity": "minor",
         "congenital": "always",
         "moons_until": 0,
         "mortality": {
