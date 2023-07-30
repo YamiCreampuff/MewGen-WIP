@@ -396,7 +396,7 @@
 		"Ulyssa", "Umbriel", "Uncle Butter", "Undyne", "Union", "Uriel", "Ursala", "Valente", "Valentino", "Van Pelt", "Vanilla", "Vaxx", "Vega",
 		"Venti", "Venture", "Venus", "Vervain", "Vesper", "Vesta", "Via", "Victor", "Victoria", "Vida", "Viktor", "Vinnie",
 		"Vinyl", "Violet", "Virgo", "Vivian", "Vivienne", "Void", "Void Worm", "Volkswagen", "Voltage",
-		"Vox", "Vulpix", "Wade", "Waffle", "Wagyu", "Wally", "Walnut", "Wanda", "Wanderer", "Warren Peace", "Wasabi", "Webby", "Wednesday",
+		"Vox", "Wade", "Waffle", "Wagyu", "Wally", "Walnut", "Wanda", "Wanderer", "Warren Peace", "Wasabi", "Webby", "Wednesday",
 		"Wendy", "Whiskers", "Whiskey", "Whisper", "Whitney", "Whiz Kid", "Wiggity Wacks", "Wigglebutt", "Willow", "Windy",
 		"Winry", "Wishbone", "Wisp", "Wisteria", "Wolfgang", "Wonder",
 		"Worm", "Wrath", "X'ek", "Xelle", "Xhosa", "Xiao", "Xola", "Yaoyao", "Yazhu", "Yeet", "Yeeted", "Yen", "Yeobo", "Yeza",
@@ -408,9 +408,11 @@
 		"Sasuke", "Sakura", "Naruto",
 		"Bakura", "Marik",
 		"Mr. Sir", "Mr. Sor of Himb",
-		"Lullaby", "Varon", "Amala", "Halim", "Charlie",
+		"Lullaby", "Varon", "Amala", "Halim", "Charlie", "Skye", "Pan"
 		"Scarfy", "Newt", "Indigo", "Peach",
-		"Billy", "Steve", "Fred"
+		"Billy", "Steve", "Fred",
+    "Pikachutwo", "Charmandertwo", "Bulbasaurtwo", "Squirtletwo", "Joltictwo", "Tynamotwo", "Eeveetwo", "Magikarptwo", "Silcoontwo", "Cascoontwo", "Gastlytwo",
+    "Meowthtwo", "Shuppettwo", "Mewtwo"
 	],
 	"animal_suffixes": [""],
 	"animal_prefixes": [""],
