@@ -368,8 +368,8 @@
 		"newborns_can_patrol": false
 	},
 	"theme": {
-		"dark_mode_background": [57, 50, 36],
-		"light_mode_background": [206, 194, 168]
+		"dark_mode_background": [73, 53, 74],
+		"light_mode_background": [220, 211, 221]
 	},
 	"lock_season": false, 
 	"comment": "Forces the season to be locked at the Clan's starting_season"
