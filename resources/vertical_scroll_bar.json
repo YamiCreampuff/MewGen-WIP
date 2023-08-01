@@ -16,7 +16,7 @@
          "colours":
          {
             "normal_bg": "#9e789a",
-            "hovered_bg": "#99789a",
+            "hovered_bg": "#552d57",
             "selected_bg": "#ab92ac",
             "active_bg": "#ab92ac"
          },
@@ -31,7 +31,7 @@
         "colours":
          {
             "normal_bg": "#9e789a",
-            "hovered_bg": "#99789a",
+            "hovered_bg": "#552d57",
             "selected_bg": "#ab92ac",
             "active_bg": "#ab92ac"
          },
@@ -46,7 +46,7 @@
         "colours":
          {
             "normal_bg": "#9e789a",
-            "hovered_bg": "#99789a",
+            "hovered_bg": "#552d57",
             "selected_bg": "#ab92ac",
             "active_bg": "#ab92ac"
          },
