@@ -2,8 +2,8 @@
      "vertical_scroll_bar":
      {
         "colours": {
-          "dark_bg": "#2F2918",
-          "normal_border": "#2F2918"
+          "dark_bg": "#442645",
+          "normal_border": "#442645"
         },
          "misc":
          {
@@ -15,10 +15,10 @@
      {
          "colours":
          {
-            "normal_bg": "#735B41",
-            "hovered_bg": "#826657",
-            "selected_bg": "#826657",
-            "active_bg": "#826657"
+            "normal_bg": "#9e789a",
+            "hovered_bg": "#552d57",
+            "selected_bg": "#ab92ac",
+            "active_bg": "#ab92ac"
          },
          "misc":
          {
@@ -30,10 +30,10 @@
      {
         "colours":
          {
-            "normal_bg": "#735B41",
-            "hovered_bg": "#826657",
-            "selected_bg": "#826657",
-            "active_bg": "#826657"
+            "normal_bg": "#9e789a",
+            "hovered_bg": "#552d57",
+            "selected_bg": "#ab92ac",
+            "active_bg": "#ab92ac"
          },
          "misc":
          {
@@ -45,10 +45,10 @@
     {
         "colours":
          {
-            "normal_bg": "#735B41",
-            "hovered_bg": "#826657",
-            "selected_bg": "#826657",
-            "active_bg": "#826657"
+            "normal_bg": "#9e789a",
+            "hovered_bg": "#552d57",
+            "selected_bg": "#ab92ac",
+            "active_bg": "#ab92ac"
          },
          "misc":
          {
