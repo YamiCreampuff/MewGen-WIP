@@ -12,21 +12,21 @@
             "death",
             "huge_prey2"
         ],
-        "intro_text": "r_c encounters a porcupine, bristling with quills.",
-        "decline_text": "The patrol steers clear of the porcupine.",
+        "intro_text": "r_c encounters a Shiftry, bristling with quills.",
+        "decline_text": "The patrol steers clear of the Shiftry.",
         "chance_of_success": 10,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
-            "unscathed_rare": "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
-            "stat_skill": "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
-            "stat_trait": "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Clan's defenses to strengthen them."
+            "unscathed_common": "The patrol examines the Shiftry, eventually deciding that they shouldn't risk the potential injury it could cause.",
+            "unscathed_rare": "The Shiftry rattles its fans viciously, the patrol heeds its warning and gives it space.",
+            "stat_skill": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+            "stat_trait": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Clan's defenses to strengthen them."
         },
         "fail_text": {
-            "unscathed_common": "r_c leaps back just as the porcupine whips its tail towards them! That was close! The patrol gives the porcupine a wide berth.",
-            "unscathed_stat": "s_c gets closer to the porcupine, intending to impress the rest of the patrol with their bravery. All the cats recoil as a horrible smell comes from the porcupine and they back off before it can charge at them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
-            "death": "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
-            "injury": "The porcupine whips around, digging the quills of its tail into r_c! The patrol bolts away and returns to camp, r_c with a nose full of quills."
+            "unscathed_common": "r_c leaps back just as the Shiftry whips its mane towards them! That was close! The patrol gives the Shiftry a wide berth.",
+            "unscathed_stat": "s_c gets closer to the Shiftry, intending to impress the rest of the patrol with their bravery. All the 'Twos recoil as a horrible smell comes from the Shiftry and they back off before it can charge at them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
+            "death": "r_c doesn't react quickly enough to the Shiftry's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
+            "injury": "The Shiftry whips around, digging the quills of its mane into r_c! The patrol bolts away and returns to camp, r_c with a nose full of quills."
         },
         "win_skills": [
             "HUNTER,2",
@@ -48,9 +48,9 @@
         "min_cats": 3,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c was scarred by a porcupine while on patrol.",
-            "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-            "lead_death": "killed by a porcupine"
+            "scar": "m_c was scarred by a Shiftry while on patrol.",
+            "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+            "lead_death": "killed by a Shiftry"
         },
         "antagonize_text": null,
         "antagonize_fail_text": null
@@ -68,20 +68,20 @@
             "death",
             "huge_prey2"
         ],
-        "intro_text": "r_c encounters a porcupine, bristling with quills.",
-        "decline_text": "The patrol steers clear of the porcupine, they don't have enough cats to confront this creature safely.",
+        "intro_text": "r_c encounters a Shiftry, bristling with quills.",
+        "decline_text": "The patrol steers clear of the Shiftry, they don't have enough cats to confront this creature safely.",
         "chance_of_success": 10,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
-            "unscathed_rare": "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
-            "stat_skill": "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
-            "stat_trait": "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them."
+            "unscathed_common": "The patrol examines the Shiftry, eventually deciding that they shouldn't risk the potential injury it could cause.",
+            "unscathed_rare": "The Shiftry rattles its fans viciously, the patrol heeds its warning and gives it space.",
+            "stat_skill": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+            "stat_trait": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them."
         },
         "fail_text": {
-            "unscathed_common": "r_c leaps back just as the porcupine whips its tail towards them! That was close! They decide to give the porcupine a wide berth.",
-            "death": "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
-            "injury": "The porcupine whips around, digging the quills of its tail into r_c! r_c returns to camp with a nose full of quills and a wounded pride."
+            "unscathed_common": "r_c leaps back just as the Shiftry whips its mane towards them! That was close! They decide to give the porcupine a wide berth.",
+            "death": "r_c doesn't react quickly enough to the Shiftry's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
+            "injury": "The Shiftry whips around, digging the quills of its mane into r_c! r_c returns to camp with a nose full of quills and a wounded pride."
         },
         "win_skills": [
             "HUNTER,3",
@@ -99,9 +99,9 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c was scarred by a porcupine while on patrol.",
-            "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-            "lead_death": "killed by a porcupine"
+            "scar": "m_c was scarred by a Shiftry while on patrol.",
+            "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+            "lead_death": "killed by a Shiftry"
         }
     },
     {
@@ -113,9 +113,9 @@
             "large_prey",
             "no_fail_prey"
         ],
-        "intro_text": "While hunting, r_c comes across a rabbit burrow.",
+        "intro_text": "While hunting, r_c comes across a Raichu burrow.",
         "success_text": {
-            "unscathed_common": "r_c catches the rabbit hiding in its burrow."
+            "unscathed_common": "r_c catches the Raichu hiding in its burrow."
         },
         "fail_text": {
             "unscathed_common": "The burrow is abandoned, with no prey to be found in there."
@@ -140,21 +140,21 @@
             "medium_prey0",
             "large_prey1"
         ],
-        "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+        "intro_text": "The patrol approaches a Human nest in the woods while hunting.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol has a successful hunt, avoiding any Twolegs.",
-            "unscathed_rare": "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to one."
+            "unscathed_common": "The patrol has a successful hunt, avoiding any Humans.",
+            "unscathed_rare": "The patrol finds some astonishingly fat Torchic running around the nest, and helps themselves to one."
         },
         "fail_text": {
-            "unscathed_common": "Twoleg kits scare the patrol away."
+            "unscathed_common": "Human trainers scare the patrol away."
         },
         "min_cats": 1,
         "max_cats": 3,
-        "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with it's blood on their claws.",
-        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
+        "antagonize_text": "A Trainer approaches the patrol, and they send it away squawking with it's blood on their claws.",
+        "antagonize_fail_text": "The Trainers wandering around are surprised by the patrol and chase the 'Twos, spouting something about a 'Dex' and 'catching'."
     },
     {
         "patrol_id": "fst_hunt_twolegplace2",
@@ -165,21 +165,21 @@
             "medium_prey0",
             "large_prey1"
         ],
-        "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+        "intro_text": "The patrol approaches a Human nest in the woods while hunting.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 10,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol cats split up, using sentries to ensure that the Twolegs don't disturb their hunts.",
-            "unscathed_rare": "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to as many as they can carry."
+            "unscathed_common": "The patrol 'Twos split up, using sentries to ensure that the Humans don't disturb their hunts.",
+            "unscathed_rare": "The patrol finds some astonishingly fat Torchic running around the garden, and helps themselves to as many as they can carry."
         },
         "fail_text": {
-            "unscathed_common": "Twoleg kits stomp through the woods, scaring away prey and ruining the hunt."
+            "unscathed_common": "Trainers stomp through the woods, scaring away prey and ruining the hunt."
         },
         "min_cats": 4,
         "max_cats": 6,
-        "antagonize_text": "Finding a Twoleg kit wandering alone, the cats harass it until it flees squawking, it's blood on their claws.",
-        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
+        "antagonize_text": "Finding a Trainer wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
+        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the 'Twos for fun."
     },
     {
         "patrol_id": "fst_hunt_squirrelchase1",
@@ -195,18 +195,18 @@
             "medium_prey1",
             "large_prey2"
         ],
-        "intro_text": "The patrol notices a commotion and finds two squirrels chasing each other across the forest floor.",
+        "intro_text": "The patrol notices a commotion and finds a Plusle and MInun chasing each other across the forest floor.",
         "decline_text": "The patrol decides there's probably easier prey to find elsewhere.",
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The squirrels are so distracted that the patrol is able to quickly catch them both.",
-            "unscathed_rare": "The patrol springs onto the squirrels without a second thought, easily dispatching them.",
-            "stat_skill": "s_c is quick on the jump! Though the squirrels notice the cats and begin scampering away, s_c easily cuts them off and kills both squirrels."
+            "unscathed_common": "The duo are so distracted that the patrol is able to quickly catch them both.",
+            "unscathed_rare": "The patrol springs onto the little guys without a second thought, easily dispatching them.",
+            "stat_skill": "s_c is quick on the jump! Though the Plusle quickly notices the 'Twos and alerts the Minun before they start to scamper away, s_c easily cuts them off and kills both of them."
         },
         "fail_text": {
-            "unscathed_common": "The squirrels are far too excited and quick - they slip right out from between the patrol's claws.",
-            "unscathed_stat": "s_c runs at the squirrels before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The squirrels scatter away at the disturbance and disappear into the canopy.",
+            "unscathed_common": "The Plusle and Minun are far too excited and quick - they slip right out from between the patrol's claws.",
+            "unscathed_stat": "s_c runs at the duo before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The Plule and MInun scatter away at the disturbance and disappear into the canopy.",
             "injury": "r_c tries to climb up after them but slips and falls, twisting their paw."
         },
         "win_skills": [
@@ -220,7 +220,7 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c gained a scar after trying to chase some squirrels up a tree."
+            "scar": "m_c gained a scar after trying to chase the Plusle and Minun up a tree."
         },
         "antagonize_text": null,
         "antagonize_fail_text": null
@@ -242,13 +242,13 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol flushes a gopher out of the burrow! More fresh-kill!",
-            "unscathed_rare": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now."
+            "unscathed_common": "The patrol flushes a Nincada out of the burrow! More fresh-kill!",
+            "unscathed_rare": "Inside the burrow is a Whismur, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Whismur will feed the Clan now."
         },
         "fail_text": {
             "unscathed_common": "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now. Checking the burrow was a waste of time.",
-            "unscathed_stat": "s_c sticks their nose into the hole only to come face to face with a skunk! The whole patrol is sprayed!",
-            "injury": "Oh no! The burrow was home to a wolverine, now angry at the disturbance. The patrol bolts away to escape its wrath, but r_c doesn't quite move fast enough and is caught in its claws until another cat turns back to help."
+            "unscathed_stat": "s_c sticks their nose into the hole only to come face to face with a Shroomish! The whole patrol is sprayed with its spores!",
+            "injury": "Oh no! The burrow was home to a Zangoose, now angry at the disturbance. The patrol bolts away to escape its wrath, but r_c doesn't quite move fast enough and is caught in its claws until another cat turns back to help."
         },
         "fail_trait": [
             "bold",
@@ -261,7 +261,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c was scarred after an unfortunate encounter with a wolverine."
+            "scar": "m_c was scarred after an unfortunate encounter with a Zangoose."
         }
     },
     {
@@ -279,13 +279,13 @@
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c flushes a gopher out of the burrow! More fresh-kill!",
-            "unscathed_rare": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now."
+            "unscathed_common": "r_c flushes a Nincada out of the burrow! More fresh-kill!",
+            "unscathed_rare": "Inside the burrow is a Whismur, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Whismur will feed the Clan now."
         },
         "fail_text": {
             "unscathed_common": "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now. Checking the burrow was a waste of time.",
-            "unscathed_stat": "s_c sticks their nose into the hole only to come face to face with a skunk! The whole patrol is sprayed!",
-            "death": "Oh no! The burrow was home to a wolverine, now angry at the disturbance. r_c bolts away to escape its wrath, but doesn't quite move fast enough and is caught in its claws.  With no other cats around to help, r_c is quickly killed by the predator."
+            "unscathed_stat": "s_c sticks their nose into the hole only to come face to face with a Shroomish! The whole patrol is sprayed with its spores!",
+            "death": "Oh no! The burrow was home to a Zangoose, now angry at the disturbance. r_c bolts away to escape its wrath, but doesn't quite move fast enough and is caught in its claws.  With no other 'Twos around to help, r_c is quickly killed by the predator."
         },
         "fail_trait": [
             "bold",
@@ -298,8 +298,8 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "reg_death": "m_c was killed after an unfortunate experience with a wolverine.",
-            "lead_death": "killed by a wolverine"
+            "reg_death": "m_c was killed after an unfortunate experience with a Zangoose.",
+            "lead_death": "killed by a Zangoose"
         }
     },
     {

@@ -7,15 +7,15 @@
             "hunting",
             "small_prey"
         ],
-        "intro_text": "Your patrol catches scent of a mouse nearby.",
+        "intro_text": "Your patrol catches scent of a Pikachu nearby.",
         "success_text": {
-            "unscathed_common": "r_c locates the mouse and begins to stalk. The mouse nibbles on a seed, unaware of the hunting cat. r_c waggles {PRONOUN/r_c/poss} haunches and leaps, pinning the mouse beneath a paw as {PRONOUN/r_c/subject} {VERB/r_c/make/makes} the killing bite.",
-            "unscathed_rare": "r_c pinpoints the location of the prey and begins creeping forward. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} almost within pouncing distance when the mouse suddenly bolts. With a lash of {PRONOUN/r_c/poss} tail, r_c leaps after the mouse, barely snagging it before it reaches a burrow. {PRONOUN/r_c/subject/CAP} {VERB/r_c/purr/purrs} in satisfaction as prey-blood hits {PRONOUN/r_c/poss} tongue."
+            "unscathed_common": "r_c locates the Pikachu and begins to stalk. The Pikachu nibbles on a seed, unaware of the hunting 'Two. r_c waggles {PRONOUN/r_c/poss} haunches and leaps, pinning the Pikachu beneath a paw as {PRONOUN/r_c/subject} {VERB/r_c/make/makes} the killing bite.",
+            "unscathed_rare": "r_c pinpoints the location of the prey and begins creeping forward. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} almost within pouncing distance when the Pikachu suddenly bolts. With a lash of {PRONOUN/r_c/poss} tail, r_c leaps after it, barely snagging it before it reaches a burrow. {PRONOUN/r_c/subject/CAP} {VERB/r_c/purr/purrs} in satisfaction as prey-blood hits {PRONOUN/r_c/poss} tongue."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the mouse."
+            "unscathed_common": "Your patrol narrowly misses the Pikachu."
         },
-        "decline_text": "Your patrol ignores the mouse.",
+        "decline_text": "Your patrol ignores the Pikachu.",
         "chance_of_success": 50,
         "exp": 10,
         "win_skills": [
@@ -34,16 +34,16 @@
             "small_prey",
             "warrior"
         ],
-        "intro_text": "Your patrol comes across a mouse.",
-        "decline_text": "Your patrol ignores the mouse.",
+        "intro_text": "Your patrol comes across a Plusle.",
+        "decline_text": "Your patrol ignores the Plusle.",
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c pounces on the mouse, with a squeak of surprise from both prey and apprentice.",
-            "unscathed_rare": "app1 leaps onto the mouse, an easy kill! {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} really getting the hang of hunting!"
+            "unscathed_common": "r_c pounces on the Plusle, with a squeak of surprise from both prey and apprentice.",
+            "unscathed_rare": "app1 leaps onto the Plusle, an easy kill! {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} really getting the hang of hunting!"
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the mouse."
+            "unscathed_common": "Your patrol narrowly misses the Plusle."
         },
         "min_cats": 1,
         "max_cats": 3,
@@ -61,16 +61,16 @@
             "large_prey2",
             "no_fail_prey"
         ],
-        "intro_text": "Your patrol comes across a large rat.",
+        "intro_text": "Your patrol comes across a large Rattata.",
         "success_text": {
-            "unscathed_common": "Your patrol catches the rat! More fresh-kill!",
-            "unscathed_rare": "The rat rears up and hisses at r_c, but while it's distracted, p_l takes it out with a quick strike.",
-            "stat_skill": "The rat is huge and quick, but s_c is quicker, bringing it down just before it scurries out of reach. Everyone gathers around {PRONOUN/s_c/object} in congratulations of the skillful kill."
+            "unscathed_common": "Your patrol catches the Rattata! More fresh-kill!",
+            "unscathed_rare": "The Rattata rears up and hisses at r_c, but while it's distracted, p_l takes it out with a quick strike.",
+            "stat_skill": "The Rattata is huge and quick, but s_c is quicker, bringing it down just before it scurries out of reach. Everyone gathers around {PRONOUN/s_c/object} in congratulations of the skillful kill."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol misses the rat, and their confidence is shaken."
+            "unscathed_common": "Your patrol misses the Rattata, and their confidence is shaken."
         },
-        "decline_text": "Your patrol ignores the rat.",
+        "decline_text": "Your patrol ignores the Rattata.",
         "chance_of_success": 50,
         "exp": 20,
         "win_skills": [
@@ -89,15 +89,15 @@
             "hunting",
             "large_prey"
         ],
-        "intro_text": "Your patrol comes across a large hare.",
+        "intro_text": "Your patrol comes across a large Linoone.",
         "success_text": {
-            "unscathed_common": "Your patrol catches the hare!",
-            "stat_skill": "s_c runs the hare down in a huge display of athleticism and skill."
+            "unscathed_common": "Your patrol catches the Linoone!",
+            "stat_skill": "s_c runs the Linoone down in a huge display of athleticism and skill."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the hare."
+            "unscathed_common": "Your patrol narrowly misses the Linoone."
         },
-        "decline_text": "Your patrol ignores the hare.",
+        "decline_text": "Your patrol ignores the Linoone.",
         "chance_of_success": 20,
         "exp": 10,
         "win_skills": [
@@ -116,15 +116,15 @@
             "hunting",
             "small_prey"
         ],
-        "intro_text": "Your patrol comes across a bird that's occupied scratching at the ground for insects.",
+        "intro_text": "Your patrol comes across a Taillow that's occupied scratching at the ground for any sign of Wurmple.",
         "success_text": {
-            "unscathed_common": "Your patrol catches the bird before it flies away!",
-            "unscathed_rare": "r_c creeps towards the bird, setting {PRONOUN/r_c/poss} paws down gently. The bird notices the cat sneaking towards it and attempts to take off. r_c bounds forward and smacks the bird to the ground with an outstretched paw. Outstanding!"
+            "unscathed_common": "Your patrol catches the Taillow before it flies away!",
+            "unscathed_rare": "r_c creeps towards the Taillow, setting {PRONOUN/r_c/poss} paws down gently. The Taillow notices the 'Two sneaking towards it and attempts to take off. r_c bounds forward and smacks the Taillow to the ground with an outstretched paw. Outstanding!"
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the bird."
+            "unscathed_common": "Your patrol narrowly misses the Taillow."
         },
-        "decline_text": "Your patrol ignores the bird.",
+        "decline_text": "Your patrol ignores the Taillow.",
         "chance_of_success": 50,
         "exp": 15,
         "win_skills": [
@@ -143,15 +143,15 @@
             "hunting",
             "medium_prey"
         ],
-        "intro_text": "Your patrol comes across a squirrel. It's engrossed in nibbling at a morsel beneath a tree.",
+        "intro_text": "Your patrol comes across a Minun. It's engrossed in nibbling at a morsel beneath a tree.",
         "success_text": {
-            "unscathed_common": "Stealthily, r_c stalks forward. The squirrel has no idea what's coming as the cat pounces on it and breaks its neck. r_c sends a silent thanks to StarClan for this prey.",
-            "unscathed_rare": "r_c rapidly pads towards the squirrel, {PRONOUN/r_c/poss} tailtip twitching in excitement. The squirrel is alerted to their presence with a bird's alarm call, but r_c launches {PRONOUN/r_c/self} forward and cuts off its escape with a bite to the back of the head."
+            "unscathed_common": "Stealthily, r_c stalks forward. The Minun has no idea what's coming as the 'Two pounces on it and breaks its neck. r_c sends a silent thanks to Arceus for this prey.",
+            "unscathed_rare": "r_c rapidly pads towards the Minun, {PRONOUN/r_c/poss} tailtip twitching in excitement. The Minun is alerted to their presence with a Swellow's alarm call, but r_c launches {PRONOUN/r_c/self} forward and cuts off its escape with a bite to the back of the head."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the squirrel as it's alerted by a bird's alarm call."
+            "unscathed_common": "Your patrol narrowly misses the Minun as it's alerted by a Swellow's alarm call."
         },
-        "decline_text": "Your patrol ignores the squirrel.",
+        "decline_text": "Your patrol ignores the Minun.",
         "chance_of_success": 50,
         "exp": 10,
         "win_skills": [
@@ -170,15 +170,15 @@
             "hunting",
             "medium_prey"
         ],
-        "intro_text": "Your patrol glimpses the shadow of a fish as they pad past a stream.",
+        "intro_text": "Your patrol glimpses the shadow of a Magikarp as they pad past a stream.",
         "success_text": {
-            "unscathed_common": "r_c very carefully walks to the water's edge and waits for {PRONOUN/r_c/poss} chance. When the fish is near, {PRONOUN/r_c/subject} {VERB/r_c/hook/hooks} it out of the water with {PRONOUN/r_c/poss} claws. More fresh-kill!",
-            "unscathed_rare": "r_c pads closer to the water's edge, careful to keep {PRONOUN/r_c/poss} shadow away from the water. The fish doesn't seem to notice {PRONOUN/r_c/object} and darts too close. r_c's paw flashes into the water and the fish flops onto the bank. {PRONOUN/r_c/subject/CAP} {VERB/r_c/kill/kills} it and happily {VERB/r_c/carry/carries} it back to camp."
+            "unscathed_common": "r_c very carefully walks to the water's edge and waits for {PRONOUN/r_c/poss} chance. When the Magikarp is near, {PRONOUN/r_c/subject} {VERB/r_c/hook/hooks} it out of the water with {PRONOUN/r_c/poss} claws. More fresh-kill!",
+            "unscathed_rare": "r_c pads closer to the water's edge, careful to keep {PRONOUN/r_c/poss} shadow away from the water. The Magikarp doesn't seem to notice {PRONOUN/r_c/object} and darts too close. r_c's paw flashes into the water and the Magikarp flops pathetically onto the bank. {PRONOUN/r_c/subject/CAP} {VERB/r_c/kill/kills} it and happily {VERB/r_c/carry/carries} it back to camp."
         },
         "fail_text": {
-            "unscathed_common": "The patrol moves too suddenly. The flickering shadow causes the fish to quickly vanish into murkier water."
+            "unscathed_common": "The patrol moves too suddenly. The flickering shadow causes the Magikarp to quickly vanish into murkier water."
         },
-        "decline_text": "Your patrol ignores the fish.",
+        "decline_text": "Your patrol ignores the Magikarp.",
         "chance_of_success": 50,
         "exp": 10,
         "win_skills": [
@@ -197,8 +197,8 @@
             "hunting",
             "large_prey"
         ],
-        "intro_text": "Your patrol sees the shadow of a school of fish in the river.",
-        "decline_text": "Your patrol ignores the fish.",
+        "intro_text": "Your patrol sees the shadow of a school of Feebas in the river.",
+        "decline_text": "Your patrol ignores the Feebas.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
@@ -206,7 +206,7 @@
             "stat_skill": "s_c makes fishing look easy, giving out tips to any interested cats."
         },
         "fail_text": {
-            "unscathed_common": "The patrol moves too suddenly. The flickering shadow causes the fish to quickly vanish into murkier water."
+            "unscathed_common": "The patrol moves too suddenly. The flickering shadow causes the Feebas to quickly vanish into murkier water."
         },
         "win_skills": [
             "HUNTER,1"
@@ -227,19 +227,19 @@
             "injury",
             "poisoned"
         ],
-        "intro_text": "r_c spots a rabbit up ahead but it seems to be acting strange. The patrol can see its tremors from a few fox-lengths away.",
+        "intro_text": "r_c spots a Spinda up ahead but it seems to be acting strange. Well, stranger than usual. The patrol can see its tremors from a few fox-lengths away.",
         "success_text": {
-            "unscathed_common": "r_c catches the rabbit and it is eaten as normal.",
-            "unscathed_rare": "r_c catches the rabbit, but when {PRONOUN/r_c/subject} {VERB/r_c/report/reports} about the strange incident at camp, the dead rabbit is taken far away and buried.",
-            "stat_skill": "s_c stops the patrol from catching the rabbit and takes the opportunity to teach them about illnesses that can pass from prey to cat."
+            "unscathed_common": "r_c catches the Spinda and it is eaten as normal.",
+            "unscathed_rare": "r_c catches the Spinda, but when {PRONOUN/r_c/subject} {VERB/r_c/report/reports} about the strange incident at camp, the dead Spinda is taken far away and buried.",
+            "stat_skill": "s_c stops the patrol from catching the Spinda and takes the opportunity to teach them about illnesses that can pass from prey to 'Two."
         },
         "fail_text": {
-            "unscathed_common": "r_c leaps for the rabbit but it still manages to slip away, despite its obvious illness.",
-            "injury": "r_c catches the rabbit, but later {PRONOUN/r_c/subject} and the cats who eat it become violently ill."
+            "unscathed_common": "r_c leaps for the Spinda but it still manages to slip away, despite its obvious illness.",
+            "injury": "r_c catches the Spinda, but later {PRONOUN/r_c/subject} and the 'Twos who eat it become violently ill."
         },
-        "decline_text": "r_c avoids catching the rabbit and looks for other prey.",
+        "decline_text": "r_c avoids catching the Spinda and looks for other prey.",
         "history_text": {
-            "reg_death": "This cat died after eating tainted prey.",
+            "reg_death": "This 'Two died after eating tainted prey.",
             "lead_death": "after eating tainted prey"
         },
         "chance_of_success": 30,
@@ -262,17 +262,17 @@
             "minor_injury",
             "large_prey"
         ],
-        "intro_text": "A rabbit bursts out from cover, startled by the patrol.",
+        "intro_text": "A Zigzagoon bursts out from cover, startled by the patrol.",
         "decline_text": "They watch it go, just as startled.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol rallies almost instantly, and manages to corner and catch the rabbit!",
-            "stat_skill": "s_c reacts quickly, tearing off after the rabbit and slamming a paw on its head to bring it down."
+            "unscathed_common": "The patrol rallies almost instantly, and manages to corner and catch the Zigzagoon!",
+            "stat_skill": "s_c reacts quickly, tearing off after the Zigzagoon and slamming a paw on its head to bring it down."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol jumps after it, but the rabbit has too great of a head start.",
-            "unscathed_stat": "s_c is quicker than anyone else, tearing after the rabbit, but in {PRONOUN/s_c/poss} haste {PRONOUN/s_c/subject} {VERB/s_c/put/puts} a paw wrong and {VERB/s_c/stop/stops} as a sharp twinge of pain shoots up {PRONOUN/s_c/poss} leg."
+            "unscathed_common": "Your patrol jumps after it, but the Zigzagoon has too great of a head start.",
+            "unscathed_stat": "s_c is quicker than anyone else, tearing after the Zigzagoon, but in {PRONOUN/s_c/poss} haste {PRONOUN/s_c/subject} {VERB/s_c/put/puts} a paw wrong and {VERB/s_c/stop/stops} as a sharp twinge of pain shoots up {PRONOUN/s_c/poss} leg."
         },
         "win_skills": [
             "HUNTER,2"
@@ -291,17 +291,17 @@
             "minor_injury",
             "large_prey"
         ],
-        "intro_text": "A rabbit bursts out from cover, startled by r_c.",
+        "intro_text": "A Zigzagoon bursts out from cover, startled by r_c.",
         "decline_text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/watch/watches} it go, just as startled.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c manages to corner and catch the rabbit!",
-            "stat_skill": "s_c reacts quickly, tearing off after the rabbit and slamming a paw on its head to bring it down."
+            "unscathed_common": "r_c manages to corner and catch the Zigzagoon!",
+            "stat_skill": "s_c reacts quickly, tearing off after the Zigzagoon and slamming a paw on its head to bring it down."
         },
         "fail_text": {
-            "unscathed_common": "r_c jumps after it, but the rabbit has too great of a head start.",
-            "unscathed_stat": "s_c reacts quickly, tearing after the rabbit, but in {PRONOUN/s_c/poss} haste {PRONOUN/s_c/subject} {VERB/s_c/put/puts} a paw wrong and {VERB/s_c/stop/stops} as a sharp twinge of pain shoots up {PRONOUN/s_c/poss} leg."
+            "unscathed_common": "r_c jumps after it, but the Zigzagoon has too great of a head start.",
+            "unscathed_stat": "s_c reacts quickly, tearing after the Zigzagoon, but in {PRONOUN/s_c/poss} haste {PRONOUN/s_c/subject} {VERB/s_c/put/puts} a paw wrong and {VERB/s_c/stop/stops} as a sharp twinge of pain shoots up {PRONOUN/s_c/poss} leg."
         },
         "win_skills": [
             "HUNTER,2"
