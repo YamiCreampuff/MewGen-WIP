@@ -34,16 +34,16 @@
             "small_prey",
             "warrior"
         ],
-        "intro_text": "Your patrol comes across a Plusle.",
-        "decline_text": "Your patrol ignores the Plusle.",
+        "intro_text": "Your patrol comes across a Pikachu.",
+        "decline_text": "Your patrol ignores the Pikachu.",
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c pounces on the Plusle, with a squeak of surprise from both prey and apprentice.",
-            "unscathed_rare": "app1 leaps onto the Plusle, an easy kill! {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} really getting the hang of hunting!"
+            "unscathed_common": "r_c pounces on the Pikachu, with a squeak of surprise from both prey and apprentice.",
+            "unscathed_rare": "app1 leaps onto the Pikachu, an easy kill! {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} really getting the hang of hunting!"
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the Plusle."
+            "unscathed_common": "Your patrol narrowly misses the Pikachu."
         },
         "min_cats": 1,
         "max_cats": 3,
@@ -517,11 +517,11 @@
         "chance_of_success": 25,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol silently creeps towards the noise. They discover several dogs gnawing on a deer carcass with their Twolegs shouting at them in apparent anger. The Twolegs grab the dogs and drag them away, their whines softly disappearing in the distance. p_l can't help but feel thankful to the dogs; c_n will eat well for several days to come.",
-            "unscathed_rare": "p_l and the patrol pause and snicker when they see some Twolegs' attempt to catch several dogs gnawing on a deer carcass. As the Twolegs catch the dogs and leave, the patrol begins snacking on the carcass. A soft bleating noise nearby notifies them of the presence of the deer's still nursing fawn. They return to c_n with the fawn's carcass, proud and tall."
+            "unscathed_common": "The patrol silently creeps towards the noise. They discover several Mightyena gnawing on a Dodrio carcass with their Trainer shouting at them in apparent anger. The Trainer return the mutts back into their Pokeballs, and the trainers hastily escaping from the mess they made. p_l can't help but feel thankful to the Mightyena; c_n will eat well for several days to come.",
+            "unscathed_rare": "p_l and the patrol pause and snicker when they see some Trainers' attempt to drive away several Mightyena gnawing on a Dodrio carcass. As the Trainers catch the dogs and leave, the patrol begins snacking on the carcass. A soft chirping noise nearby notifies them of the presence of the Dodrio's chick. They return to c_n with the Doduo's carcass, proud and tall."
         },
         "fail_text": {
-            "unscathed_common": "Following the noises, they see dogs eating a deer and Twolegs trying to catch them. Soon, the beasts are caught and the patrol goes to check out the deer. Suddenly, the sound of barking reaches their ears and as the dogs come back into view, the patrol scatters! p_l has to spend the whole day gathering the patrol rather than hunting."
+            "unscathed_common": "Following the noises, they see Mightyena eating a Dodrio and Trainers trying to drive them away. Soon, the beasts are caught and the patrol goes to check out the Dodrio. Suddenly, the sound of barking reaches their ears and as the Mightyena come back into view, the patrol scatters! p_l has to spend the whole day gathering the patrol rather than hunting."
         },
         "win_skills": [
             "HUNTER,1"

@@ -243,7 +243,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "The patrol flushes a Nincada out of the burrow! More fresh-kill!",
-            "unscathed_rare": "Inside the burrow is a Whismur, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Whismur will feed the Clan now."
+            "unscathed_rare": "Inside the burrow is a Zigzagoon, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Zigzagoon will feed the Clan now."
         },
         "fail_text": {
             "unscathed_common": "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now. Checking the burrow was a waste of time.",
@@ -280,7 +280,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "r_c flushes a Nincada out of the burrow! More fresh-kill!",
-            "unscathed_rare": "Inside the burrow is a Whismur, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Whismur will feed the Clan now."
+            "unscathed_rare": "Inside the burrow is a Zigzagoon, curled up and alone. Perhaps a it got seperated from its family? Whatever the case, this Zigzagoon will feed the Clan now."
         },
         "fail_text": {
             "unscathed_common": "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now. Checking the burrow was a waste of time.",
