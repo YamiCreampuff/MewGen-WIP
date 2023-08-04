@@ -61,16 +61,16 @@
             "large_prey2",
             "no_fail_prey"
         ],
-        "intro_text": "Your patrol comes across a large Rattata.",
+        "intro_text": "Your patrol comes across a large Zigzagoon.",
         "success_text": {
-            "unscathed_common": "Your patrol catches the Rattata! More fresh-kill!",
-            "unscathed_rare": "The Rattata rears up and hisses at r_c, but while it's distracted, p_l takes it out with a quick strike.",
-            "stat_skill": "The Rattata is huge and quick, but s_c is quicker, bringing it down just before it scurries out of reach. Everyone gathers around {PRONOUN/s_c/object} in congratulations of the skillful kill."
+            "unscathed_common": "Your patrol catches the Zigzagoon! More fresh-kill!",
+            "unscathed_rare": "The Zigzagoon rears up and hisses at r_c, but while it's distracted, p_l takes it out with a quick strike.",
+            "stat_skill": "The Zigzagoon is huge and quick, but s_c is quicker, bringing it down just before it scurries out of reach. Everyone gathers around {PRONOUN/s_c/object} in congratulations of the skillful kill."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol misses the Rattata, and their confidence is shaken."
+            "unscathed_common": "Your patrol misses the Zigzagoon, and their confidence is shaken."
         },
-        "decline_text": "Your patrol ignores the Rattata.",
+        "decline_text": "Your patrol ignores the Zigzagoon.",
         "chance_of_success": 50,
         "exp": 20,
         "win_skills": [
