@@ -195,7 +195,7 @@
             "medium_prey1",
             "large_prey2"
         ],
-        "intro_text": "The patrol notices a commotion and finds a Plusle and MInun chasing each other across the forest floor.",
+        "intro_text": "The patrol notices a commotion and finds a Plusle and Minun chasing each other across the forest floor.",
         "decline_text": "The patrol decides there's probably easier prey to find elsewhere.",
         "chance_of_success": 50,
         "exp": 10,
