@@ -178,8 +178,8 @@
         },
         "min_cats": 4,
         "max_cats": 6,
-        "antagonize_text": "Finding a Trainer wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
-        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the 'Twos for fun."
+        "antagonize_text": "Finding a Hunter wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
+        "antagonize_fail_text": "The children wandering around are unimpressed by the patrol and chase the 'Twos for fun."
     },
     {
         "patrol_id": "fst_hunt_squirrelchase1",
