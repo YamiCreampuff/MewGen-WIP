@@ -205,7 +205,7 @@
             "stat_skill": "s_c is quick on the jump! Though the Plusle quickly notices the 'Twos and alerts the Minun before they start to scamper away, s_c easily cuts them off and kills both of them."
         },
         "fail_text": {
-            "unscathed_common": "The Plusle and Minun are far too excited and quick - they slip right out from between the patrol's claws.",
+            "unscathed_common": "The Plusle and Minun are far too excited and quick - they slip right out from between the patrol's claws with excited sparks.",
             "unscathed_stat": "s_c runs at the duo before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The Plule and MInun scatter away at the disturbance and disappear into the canopy.",
             "injury": "r_c tries to climb up after them but slips and falls, twisting their paw."
         },
@@ -220,7 +220,7 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c gained a scar after trying to chase the Plusle and Minun up a tree."
+            "scar": "m_c gained a scar after trying to chase the Plusle and Minun up a tree. What a loser."
         },
         "antagonize_text": null,
         "antagonize_fail_text": null
