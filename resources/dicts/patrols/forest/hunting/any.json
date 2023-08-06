@@ -149,11 +149,11 @@
             "unscathed_rare": "The patrol finds some astonishingly fat Torchic running around the nest, and helps themselves to one."
         },
         "fail_text": {
-            "unscathed_common": "Human trainers scare the patrol away."
+            "unscathed_common": "Rangers scare the patrol away."
         },
         "min_cats": 1,
         "max_cats": 3,
-        "antagonize_text": "A Trainer approaches the patrol, and they send it away squawking with it's blood on their claws.",
+        "antagonize_text": "A Hunter approaches the patrol, and they send it away squawking with it's blood on their claws.",
         "antagonize_fail_text": "The Trainers wandering around are surprised by the patrol and chase the 'Twos, spouting something about a 'Dex' and 'catching'."
     },
     {
@@ -178,8 +178,8 @@
         },
         "min_cats": 4,
         "max_cats": 6,
-        "antagonize_text": "Finding a Hunter wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
-        "antagonize_fail_text": "The children wandering around are unimpressed by the patrol and chase the 'Twos for fun."
+        "antagonize_text": "Finding a Trainer wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
+        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the 'Twos for fun."
     },
     {
         "patrol_id": "fst_hunt_squirrelchase1",
@@ -205,8 +205,8 @@
             "stat_skill": "s_c is quick on the jump! Though the Plusle quickly notices the 'Twos and alerts the Minun before they start to scamper away, s_c easily cuts them off and kills both of them."
         },
         "fail_text": {
-            "unscathed_common": "The Plusle and Minun are far too excited and quick - they slip right out from between the patrol's claws with excited sparks.",
-            "unscathed_stat": "s_c runs at the duo before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The Plule and MInun scatter away at the disturbance and disappear into the canopy.",
+            "unscathed_common": "The Plusle and Minun are far too excited and quick - they slip right out from between the patrol's claws.",
+            "unscathed_stat": "s_c runs at the duo before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The Plusle and Minun scatter away at the disturbance and disappear into the canopy.",
             "injury": "r_c tries to climb up after them but slips and falls, twisting their paw."
         },
         "win_skills": [
@@ -220,7 +220,7 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c gained a scar after trying to chase the Plusle and Minun up a tree. What a loser."
+            "scar": "m_c gained a scar after trying to chase the Plusle and Minun up a tree."
         },
         "antagonize_text": null,
         "antagonize_fail_text": null
@@ -949,7 +949,7 @@
         "chance_of_success": 20,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c drops down into a hunting crouch, certain that a Pikachu must be the source of the noise.  They find themselves to be correct when they pounce into the bush and return to the patrol with the tasty morsel dangling from their mouth. One more for the fresh-kill pile!",
+            "unscathed_common": "r_c drops down into a hunting crouch, certain that a Pikachu must be the source of the noise. They find themselves to be correct when they pounce into the bush and return to the patrol with the tasty morsel dangling from their mouth. One more for the fresh-kill pile!",
             "stat_skill": "p_l pads towards the bush to check on the noise when a Zigzagoon suddenly bursts out! s_c is quick to react and manages to snag the Zigzagoon before it can disappear."
         },
         "fail_text": {
@@ -1144,13 +1144,13 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "They continue hunting undetected.",
-            "unscathed_rare": "Slyly, r_c uses the chance to get food, practicing their best kittypet impression until just the right moment, before darting forward and making off with a sandwich in their mouth.",
+            "unscathed_rare": "Slyly, r_c uses the chance to get food, practicing their best Skitty impression until just the right moment, before darting forward and making off with a sandwich in their mouth.",
             "stat_skill": "s_c spots the Humans with white coats unloading metal boxes from their vans, and abruptly tells the patrol to leave. Now.",
-            "stat_trait": "A child spots s_c and crouches down, clicking softly. s_c hisses and flees."
+            "stat_trait": "A child spots s_c and crouches down, clicking softly. s_c hesitantly approaches them, and is soon rewarded with some good head scritchies."
         },
         "fail_text": {
-            "death": "The patrol mostly ignores the Humans. But as they hunt, the cats encounter appealing, delicious smelling mush in little burrows. Some of the patrol investigates, and doors slam down behind them. There's nothing they or the rest of the patrol can do to get them out - eventually the Hunters notice, and the trapped 'Twos are taken back to their facility.",
-            "stat_death": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? They wander closer, drawing more of the patrol in with them. Before they can decide whether to step away, there's a swoosh, and a net falls around the cats. They fight desperately, but the Twolegs take them away in the monster."
+            "death": "The patrol mostly ignores the Humans. But as they hunt, the 'Twos encounter appealing, delicious smelling mush in little burrows. Some of the patrol investigates, and doors slam down behind them. There's nothing they or the rest of the patrol can do to get them out - eventually the Hunters notice, and the trapped 'Twos are taken back to their facility.",
+            "stat_death": "A Human spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? They wander closer, drawing more of the patrol in with them. Before they can decide whether to step away, there's a swoosh, and a net falls around the 'Twos, shocking them. They fight desperately, but the Hunters take them away in their van."
         },
         "win_skills": [
             "CLEVER,3"
@@ -1192,20 +1192,20 @@
             "medium_prey2",
             "large_prey3"
         ],
-        "intro_text": "r_c decides to hunt out near the Twoleg dens.",
-        "decline_text": "On second thought, they decide to reline their nest today instead.",
+        "intro_text": "r_c decides to hunt out near the Human dens.",
+        "decline_text": "On second thought, they decide to re-line their nest today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
-            "unscathed_rare": "A friendly Twoleg makes a psspsspss noise, and pours kittypet food on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
-            "stat_skill": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
-            "stat_trait": "Calmly, s_c weaves around the Twoleg dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt."
+            "unscathed_common": "They're interrupted by Rangers wandering through the woods a couple times, but it's a successful hunt.",
+            "unscathed_rare": "A friendly Human makes a psspsspss noise, and pours Pokechow on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
+            "stat_skill": "s_c gets distracted from hunting by strange Human activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big van. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
+            "stat_trait": "Calmly, s_c weaves around the Human dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt."
         },
         "fail_text": {
-            "unscathed_stat": "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "death": "Carelessly, r_c is seen by Twolegs, and taken from c_n.",
-            "injury": "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n."
+            "unscathed_stat": "The Humans here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "death": "Carelessly, r_c is seen by Rangers, and taken from c_n.",
+            "injury": "Carelessly, r_c is seen by Hunters, and is taken hissing and spitting to be locked in the back of a van. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1248,19 +1248,19 @@
             "medium_prey2",
             "large_prey3"
         ],
-        "intro_text": "app1 decides to hunt out near the Twoleg dens.",
-        "decline_text": "On second thought, they decide to reline their nest today instead.",
+        "intro_text": "app1 decides to hunt out near the Human dens.",
+        "decline_text": "On second thought, they decide to re-line their nest today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
-            "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app1. They've always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
+            "unscathed_common": "They're interrupted by Trainers wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_rare": "A friendly Ranger makes a psspsspss noise, and pours Pokechow on the ground for app1. They've always wondered what it might taste like... Spicy, is the answer. It's strangely appealing.",
             "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. A successful, sneaky hunt."
         },
         "fail_text": {
-            "unscathed_stat": "A little carelessly, s_c jumps a fence to hunt in a den's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "death": "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
-            "injury": "Carelessly, app1 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n."
+            "unscathed_stat": "A little carelessly, s_c jumps a fence to hunt in somebody's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "death": "Carelessly, app1 is seen by a new Trainer, and is promptly knocked out and captured, app1 has been taken from c_n.",
+            "injury": "Carelessly, app1 is seen by Hunters, and is taken hissing and spitting to be locked in their van. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n."
         },
         "win_trait": [
             "calm",
@@ -1300,20 +1300,20 @@
             "no_app",
             "medium_prey0"
         ],
-        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the Twoleg dens.",
-        "decline_text": "On second thought, they decide to reline their nests today instead.",
+        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the Human dens.",
+        "decline_text": "On second thought, they decide to re-line their nests today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
-            "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for r_c. They fetch p_l, and both cats investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
-            "stat_skill": "s_c shows the other cat all around the outskirts of the Twoleg dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
+            "unscathed_common": "They're interrupted by Trainers wandering through the woods a couple times, but it's a successful hunt.",
+            "unscathed_rare": "A friendly Ranger makes a psspsspss noise, and pours Pokechow on the ground for r_c. They fetch p_l, and both 'Twos investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
+            "stat_skill": "s_c shows the other 'Two all around the outskirts of the Twoleg dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
             "stat_trait": "It's a strange adventure, odd and weird and a little thrilling. s_c takes the lead, but both s_c and r_c are wide eyed and a little scared, in a fun way."
         },
         "fail_text": {
-            "unscathed_common": "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear p_l yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, r_c presses their pelt against p_l on the way back to c_n.",
-            "unscathed_stat": "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "death": "Carelessly, r_c is seen by Twolegs, and taken from c_n."
+            "unscathed_common": "Carelessly, r_c is seen by Ranger, and is taken hissing and spitting to be locked in a van. Overnight, they hear p_l yowling from outside, and the 'Twos manage to craft an escape plan through a broken window. Shivering, r_c presses their pelt against p_l on the way back to c_n, promising to keep this to themselves.",
+            "unscathed_stat": "The Humans here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "death": "Carelessly, r_c is seen by Hunters, and taken from c_n."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1358,17 +1358,17 @@
             "rel_two_apps",
             "medium_prey0"
         ],
-        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the Twoleg dens. Where apprentices are definitely not allowed.",
-        "decline_text": "On second thought, they decide to reline their nests today instead.",
+        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the Human dens. Where apprentices are definitely not allowed.",
+        "decline_text": "On second thought, they decide to re-line their nests today instead.",
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
-            "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
-            "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. app2 tries to be even sneakier, and so app1 ups their game, until they're both probably the most obvious pair of cats in the neighborhood."
+            "unscathed_common": "They're interrupted by Trainers wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_rare": "A friendly Ranger makes a psspsspss noise, and pours Pokechowon the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
+            "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. app2 tries to be even sneakier, and so app1 ups their game, until they're both probably the most obvious pair of 'Twos in the neighborhood."
         },
         "fail_text": {
-            "unscathed_common": "Carelessly, app2 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses their pelt against app1 as they pad home.",
+            "unscathed_common": "Carelessly, app2 is seen by Rangers, and is taken hissing and spitting to be locked in a hastily put together box. Overnight, they hear app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses their pelt against app1 as they pad home.",
             "unscathed_stat": "A little carelessly, s_c jumps a fence to hunt in a den's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
             "death": "Carelessly, app1 is seen by Twolegs, and taken from c_n."
         },
@@ -1409,14 +1409,14 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Darting through quickly, they see that the lovely smell is Twoleg mush, and keep running.",
-            "unscathed_rare": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
-            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the bushes away from a Twoleg trap underneath.",
+            "unscathed_common": "Darting through quickly, they see that the lovely smell is Pokechow, and keep running.",
+            "unscathed_rare": "The lovely smell leads to some kind of mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Human restocked the bait might still be around. They leave quickly.",
+            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the bushes away from a Hunters trap underneath.",
             "stat_trait": "Something isn't right. Nervously pawing at the bushes, s_c thinks that the smell is too good to be true. They leave it, deciding to return to camp and report it to the deputy instead."
         },
         "fail_text": {
-            "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy for it they never expected to feel for a fox, as well as the heart stopping realization that it could easily have been them.",
-            "death": "r_c is caught in a trap hidden in the bushes and is taken by Twolegs shortly after."
+            "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young Vulpix starts up a distressed wail, and s_c feels sympathy for it. They never expected to feel for a Vulpix, as well as the heart stopping realization that it could easily have been them.",
+            "death": "r_c is caught in a trap hidden in the bushes and is taken by Rangers shortly after."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1454,14 +1454,14 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Darting through quickly, r_c sees that the lovely smell is Twoleg mush, and keeps running.",
-            "unscathed_rare": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
-            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the bushes away from a Twoleg trap underneath.",
+            "unscathed_common": "Darting through quickly, r_c sees that the lovely smell is Pokechow, and keeps running.",
+            "unscathed_rare": "The lovely smell leads to some strange mush..? Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Human restocked the bait might still be around. They leave quickly.",
+            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the bushes away from a trap underneath.",
             "stat_trait": "Something isn't right. Nervously pawing at the bushes, s_c thinks that the smell is too good to be true. They leave it, convincing the patrol to return to camp and report it to the deputy instead."
         },
         "fail_text": {
-            "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy for it they never expected to feel for a fox, as well as the heart stopping realization that it could easily have been them.",
-            "death": "r_c is caught in a trap hidden in the bushes! There's nothing the patrol is able to do to help them, and r_c is taken by Twolegs shortly after."
+            "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young Vulpix starts up a distressed wail, and s_c feels sympathy for it they never expected to feel for a Vulpix, as well as the heart stopping realization that it could easily have been them.",
+            "death": "r_c is caught in a trap hidden in the bushes! There's nothing the patrol is able to do to help them, and r_c is taken by Rangers shortly after."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1499,20 +1499,20 @@
             "hunting",
             "large_prey"
         ],
-        "intro_text": "The patrol comes across a Thunderpath running through the forest.",
+        "intro_text": "The patrol comes across a road running through the forest.",
         "decline_text": "They decide it is better not to cross.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "unscathed_rare": "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
-            "stat_skill": "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "stat_trait": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly to hunt on the other side."
+            "unscathed_common": "Your patrol crosses the road and can hunt on the other side.",
+            "unscathed_rare": "Your patrol finds a pipe running under the road and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
+            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds a flattened Pikachu. It's a reminder of the danger of the roads, and a good source of scavenged meat.",
+            "stat_trait": "s_c is patient enough to wait until the road is completely clear, then trots across calmly to hunt on the other side."
         },
         "fail_text": {
-            "unscathed_common": "r_c hears a monster thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
-            "death": "r_c is hit by a monster while crossing and dies instantly.",
-            "injury": "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "unscathed_common": "r_c hears a car thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+            "death": "r_c is hit by a car while crossing and dies instantly.",
+            "injury": "r_c is hit by a car and seems quite injured, but miraculously still alive."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1532,9 +1532,9 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-            "reg_death": "m_c was hit by a monster and killed.",
-            "lead_death": "{VERB/m_c/were/was} hit by a monster"
+            "scar": "m_c was heavily injured by a car, and carries the scars from it.",
+            "reg_death": "m_c was hit by a car and killed.",
+            "lead_death": "{VERB/m_c/were/was} hit by a car"
         }
     },
     {
@@ -1551,20 +1551,20 @@
             "cruel_season",
             "large_prey"
         ],
-        "intro_text": "The patrol comes across a Thunderpath running through the forest.",
+        "intro_text": "The patrol comes across a road running through the forest.",
         "decline_text": "They decide it is better not to cross.",
         "chance_of_success": 30,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "unscathed_rare": "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
-            "stat_skill": "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "stat_trait": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly to hunt on the other side."
+            "unscathed_common": "Your patrol crosses the road and can hunt on the other side.",
+            "unscathed_rare": "Your patrol finds a pipe running under the road and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
+            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds a flattened Raichu. It's a reminder of the danger of the roads, and a good source of scavenged meat.",
+            "stat_trait": "s_c is patient enough to wait until the road is completely clear, then trots across calmly to hunt on the other side."
         },
         "fail_text": {
-            "unscathed_common": "r_c hears a monster thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
-            "death": "r_c is crossing the Thunderpath and hears a monster thundering towards them. They freeze, and the monster swerves to hit them deliberately, killing them instantly.",
-            "injury": "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "unscathed_common": "r_c hears a car thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+            "death": "r_c is crossing the road and hears a car thundering towards them. They freeze, and the car swerves to hit them deliberately, killing them instantly.",
+            "injury": "r_c is hit by a car and seems quite injured, but miraculously still alive."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1584,9 +1584,9 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-            "reg_death": "m_c was hit by a monster and killed.",
-            "lead_death": "{VERB/m_c/were/was} hit by a monster"
+            "scar": "m_c was heavily injured by a car, and carries the scars from it.",
+            "reg_death": "m_c was hit by a car and killed.",
+            "lead_death": "{VERB/m_c/were/was} hit by a car"
         }
     },
     {
@@ -1605,19 +1605,19 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "The patrol comes across a Thunderpath running through the forest.",
+        "intro_text": "The patrol comes across a road running through the forest.",
         "decline_text": "They decide it is better not to cross.",
         "chance_of_success": 10,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "unscathed_rare": "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
-            "stat_skill": "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds several flattened pieces of roadkill. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "stat_trait": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly with the patrol to hunt on the other side."
+            "unscathed_common": "Your patrol crosses the road and can hunt on the other side.",
+            "unscathed_rare": "Your patrol finds a pipe running under the road and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
+            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds several flattened pieces of roadkill. It's a reminder of the danger of the road, and a good source of scavenged meat.",
+            "stat_trait": "s_c is patient enough to wait until the road is completely clear, then trots across calmly with the patrol to hunt on the other side."
         },
         "fail_text": {
-            "death": "As the group crosses the Thunderpath, a speeding monster appears out of nowhere. The cats run panicked in all directions, and several of them get hit and die.",
-            "injury": "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "death": "As the group crosses the road, a speeding car appears out of nowhere. The cats run panicked in all directions, and several of them get hit and die.",
+            "injury": "r_c is hit by a car and seems quite injured, but miraculously still alive."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1637,9 +1637,9 @@
         "min_cats": 5,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-            "reg_death": "This cat was hit by a monster and killed.",
-            "lead_death": "{VERB/m_c/were/was} hit by a monster"
+            "scar": "m_c was heavily injured by a car, and carries the scars from it.",
+            "reg_death": "This 'Two was hit by a car and killed.",
+            "lead_death": "{VERB/m_c/were/was} hit by a car"
         }
     },
     {
@@ -1656,20 +1656,20 @@
             "cruel_season",
             "large_prey"
         ],
-        "intro_text": "The patrol comes across a Thunderpath running through the forest.",
+        "intro_text": "The patrol comes across a road running through the forest.",
         "decline_text": "They decide it is better not to cross.",
         "chance_of_success": 10,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "unscathed_rare": "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
-            "stat_skill": "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "stat_trait": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly with the patrol to hunt on the other side."
+            "unscathed_common": "Your patrol crosses the road and can hunt on the other side.",
+            "unscathed_rare": "Your patrol finds a pipe running under the road and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
+            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the road, and a good source of scavenged meat.",
+            "stat_trait": "s_c is patient enough to wait until the road is completely clear, then trots across calmly with the patrol to hunt on the other side."
         },
         "fail_text": {
-            "unscathed_common": "r_c hears a monster thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
-            "death": "As the group crosses the Thunderpath, a speeding monster appears out of nowhere. The cats run panicked in all directions, and several of them get hit as the monster swerves to hit them deliberately, killing them instantly.",
-            "injury": "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "unscathed_common": "r_c hears a car thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+            "death": "As the group crosses the road, a speeding car appears out of nowhere. The cats run panicked in all directions, and several of them get hit as the car swerves to hit them deliberately, killing them instantly.",
+            "injury": "r_c is hit by a car and seems quite injured, but miraculously still alive."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1689,9 +1689,9 @@
         "min_cats": 5,
         "max_cats": 6,
         "history_text": {
-            "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-            "reg_death": "m_c was hit by a monster and killed.",
-            "lead_death": "{VERB/m_c/were/was} hit by a monster"
+            "scar": "m_c was heavily injured by a car, and carries the scars from it.",
+            "reg_death": "m_c was hit by a car and killed.",
+            "lead_death": "{VERB/m_c/were/was} hit by a car"
         }
     },
     {
@@ -1707,12 +1707,12 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "With a huge leap, they dart sideways and pull a blackbird out of the air. What a great catch!",
-            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised mouse.",
-            "stat_skill": "Nothing's going to escape their claws! r_c skids to a halt and then leaps into action, claw just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and trot back to camp with their prize."
+            "unscathed_common": "With a huge leap, they dart sideways and pull a Taillow out of the air. What a great catch!",
+            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised Wurmple.",
+            "stat_skill": "Nothing's going to escape their claws! r_c skids to a halt and then leaps into action, claw just barely catching in the tail of the Vulpix they saw and bringing it down. They purr with satisfaction and trot back to camp with their prize."
         },
         "fail_text": {
-            "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the bird they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life."
+            "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the Taillow they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life."
         },
         "win_skills": [
             "HUNTER,1"
@@ -1734,8 +1734,8 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "With a huge leap, they dart sideways and pull the tail off a taking flight into blackbird the air. A missed catch, but new nest lining?",
-            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk. It redirects their momentum far better than they were expecting, and it's difficult to say who's more surprised - the mouse, or the apprentice slamming into it! Not a very clean catch, but one they're proud of anyway."
+            "unscathed_common": "With a huge leap, they dart sideways and pulls the tail feathers off of a Taillow taking off. A missed catch, but new nest lining?",
+            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk. It redirects their momentum far better than they were expecting, and it's difficult to say who's more surprised - the Spoink, or the apprentice slamming into it! Not a very clean catch, but one they're proud of anyway."
         },
         "fail_text": {
             "unscathed_common": "app1 darts to the side, but wherever made the flash of movement is long gone. How frustrating!"
@@ -1760,12 +1760,12 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "With a huge leap, r_c darts sideways and pulls a blackbird out of the air. p_l trots over to congratulate them on the fantastic catch, purring.",
-            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised mouse. p_l skids to a halt, gasping over their beautiful catch with their eyes shining.",
-            "stat_skill": "Nothing's going to escape their claws! s_c skids to a halt and then leaps into action, claw just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and pad back to r_c, sharing in the excitement of the hunt with them."
+            "unscathed_common": "With a huge leap, r_c darts sideways and pulls a Swablu out of the air. p_l trots over to congratulate them on the fantastic catch, purring.",
+            "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised Kecleon. p_l skids to a halt, gasping over their beautiful catch with their eyes shining.",
+            "stat_skill": "Nothing's going to escape their claws! s_c skids to a halt and then leaps into action, claw just barely catching in the tail of the Natu they saw and bringing it down. They purr with satisfaction and pad back to r_c, sharing in the excitement of the hunt with them."
         },
         "fail_text": {
-            "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the bird they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life. p_l snickers at them a bit too, but it's all in good fun."
+            "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the Natu they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life. p_l snickers at them a bit too, but it's all in good fun."
         },
         "win_skills": [
             "HUNTER,1"
@@ -1791,11 +1791,11 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "With a huge leap, app1 darts sideways and pulls the tail off a blackbird taking flight into the air. A missed catch, but new nest lining? They toss some of the feathers at app2, and the two apprentices end up scuffling like kits.",
-            "unscathed_rare": "Laughing, app1 bounces gleefully off a tree trunk. It redirects their momentum far better than they were expecting, and it's difficult to say who's more surprised - the mouse, or the apprentice slamming into it! Not a very clean catch, but the look on app2's face, so shocked and impressed, makes them blush."
+            "unscathed_common": "With a huge leap, app1 darts sideways and pulls the tail off a Dodrio taking flight into the air. A missed catch, but new nest lining? They toss some of the feathers at app2, and the two apprentices end up scuffling like kits.",
+            "unscathed_rare": "Laughing, app1 bounces gleefully off a tree trunk. It redirects their momentum far better than they were expecting, and it's difficult to say who's more surprised - the Chingling, or the apprentice slamming into it! Not a very clean catch, but the look on app2's face, so shocked and impressed, makes them blush."
         },
         "fail_text": {
-            "unscathed_common": "app1 skids to a halt and tries to sprint after it, but the bird they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life. app2 snickers at them too, but in a lighthearted way, and soon both apprentices are giggling about it as they continue their run."
+            "unscathed_common": "app1 skids to a halt and tries to sprint after it, but the Swellow they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life. app2 snickers at them too, but in a lighthearted way, and soon both apprentices are giggling about it as they continue their run."
         },
         "min_cats": 2,
         "max_cats": 2
@@ -1810,17 +1810,17 @@
             "comfort",
             "small_prey"
         ],
-        "intro_text": "Something skitters across the leaf litter, catching the patrol's eyes. A little lizard!",
-        "decline_text": "Startled by the lizard, the patrol watches it scurry away.",
+        "intro_text": "Something skitters across the leaf litter, catching the patrol's eyes. An Kecleon!",
+        "decline_text": "Startled by the Kecleon, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "r_c pounces on the little creature and carries the nice mouthful home.",
-            "unscathed_rare": "The lizard drops its tail, and r_c dives for it, while p_l pounces for the lizard. Surely this counts for two catches? Neither of them cares much, and it's a happy afternoon hunting together.",
-            "stat_skill": "s_c is basically on top of the skittering lizard, and ends up doing a ridiculous hop to come down on it with claws extended. r_c compliments them on the catch with a laugh in their meow, and s_c has to agree with them, purring with laughter."
+            "unscathed_common": "r_c pounces on the creature while it's still visable, and carries the nice mouthful home.",
+            "unscathed_rare": "The Kecleon drops its tail, and r_c dives for it, while p_l pounces for the Kecleon. Surely this counts for two catches? Neither of them cares much, and it's a happy afternoon hunting together.",
+            "stat_skill": "s_c is basically on top of the skittering Kecleon, and ends up doing a ridiculous hop to come down on it with claws extended. r_c compliments them on the catch with a laugh in their meow, and s_c has to agree with them, purring with laughter."
         },
         "fail_text": {
-            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little lizard lives another day.",
+            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the Kecleon lives another day.",
             "unscathed_stat": "r_c and p_l go for the prey at the same time, bonking their heads together. Not a bad collision, and both of them are mature enough to let it go, but neither is pleased to have missed an easy catch."
         },
         "win_skills": [
@@ -1843,16 +1843,16 @@
             "apprentice",
             "small_prey"
         ],
-        "intro_text": "Something skitters across the leaf litter, catching the patrol's eyes. A little lizard!",
-        "decline_text": "Startled by the lizard, the patrol watches it scurry away.",
+        "intro_text": "Something skitters across the leaf litter, catching the patrol's eyes. A purple Kecleon!",
+        "decline_text": "Startled by the Kecleon, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "app1 pounces on the little creature and misses, but they don't seem overly concerned, stopping nearly every step to chat to app2, who's just as keen to talk.",
+            "unscathed_common": "app1 pounces on the funny creature and misses, but they don't seem overly concerned, stopping nearly every step to chat to app2, who's just as keen to talk.",
             "unscathed_rare": "app1 and app2 go for the prey at the same time, bonking their heads together. It makes both of them laugh while apologizing, and they don't leave each other's side for the rest of the patrol, apologies turning to chatting turning to whispered conversations."
         },
         "fail_text": {
-            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little lizard lives another day."
+            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the purple Kecleon lives another day."
         },
         "min_cats": 2,
         "max_cats": 3
@@ -1865,14 +1865,14 @@
             "hunting",
             "medium_prey"
         ],
-        "intro_text": "Your patrol comes across a vole nibbling at a seed.",
+        "intro_text": "Your patrol comes across a Wynaut nibbling at a seed.",
         "success_text": {
-            "unscathed_common": "r_c drops into a crouch and lightly stalks towards the vole. They pause, waggling their haunches before pouncing. They catch the vole easily and deliver a killing bite to the back of its head.",
-            "unscathed_rare": "r_c drops into a crouch and begins stalking forward. When they get close, the vole suddenly stops chewing and r_c takes the opportunity to pounce. They kill the prey quickly and lick the blood from their lips with satisfaction.",
-            "stat_skill": "s_c drops into a crouch and has to consciously stop their tail from swaying in excitement as they stalk the prey. Once they think they're close enough, they give their haunches a little wiggle and leap. They catch the vole squarely between their paws and kill it quickly."
+            "unscathed_common": "r_c drops into a crouch and lightly stalks towards the Wynaut. They pause, waggling their haunches before pouncing. They catch the Wynaut easily and deliver a killing bite to the back of its head.",
+            "unscathed_rare": "r_c drops into a crouch and begins stalking forward. When they get close, the Wynaut suddenly stops chewing and r_c takes the opportunity to pounce. They kill the prey quickly and lick the blood from their lips with satisfaction.",
+            "stat_skill": "s_c drops into a crouch and has to consciously stop their tail from swaying in excitement as they stalk the prey. Once they think they're close enough, they give their haunches a little wiggle and leap. They catch the Wynaut squarely between their paws and kill it quickly."
         },
         "fail_text": {
-            "unscathed_common": "r_c drops into a crouch and begins to stalk forward. They're preparing to pounce when their paw lightly brushes a twig and the vole immediately takes off. They give chase, but the critter disappears into a burrow. Mousedung!"
+            "unscathed_common": "r_c drops into a crouch and begins to stalk forward. They're preparing to pounce when their paw lightly brushes a twig and the Wynaut immediately takes off. They give chase, but the critter disappears into a burrow. Mousedung!"
         },
         "decline_text": "Your patrol decides to look for other prey.",
         "chance_of_success": 50,
