@@ -1,6 +1,6 @@
 [
     {
-        "patrol_id": "fst_hunt_porcupine1",
+        "patrol_id": "fst_hunt_shiftry1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -56,13 +56,13 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_porcupine2",
+        "patrol_id": "fst_hunt_shiftry2",
         "biome": "forest",
         "season": "Any",
         "tags": [
             "hunting",
             "injury",
-            "quilled by a porcupine",
+            "quilled by a Shiftry",
             "scar",
             "QUILLSCRATCH",
             "death",
