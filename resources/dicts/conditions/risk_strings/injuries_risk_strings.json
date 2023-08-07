@@ -184,10 +184,10 @@
 
         ]
     },
-    "quilled by a porcupine": {
+    "quilled by a Shiftry": {
         "an infected wound": [
             "r_c was careful when removing the quills from m_c's face, but unfortunately infection still found it's way in.",
-            "The wounds left behind on m_c by the porcupine quills have become infected.",
+            "The wounds left behind on m_c by the Shiftry quills have become infected.",
             "m_c is distraught to find that infection has set in on {PRONOUN/m_c/poss} quill wounds."
         ]
     },
