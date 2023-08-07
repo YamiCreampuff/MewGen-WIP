@@ -1550,16 +1550,16 @@
             "trust",
             "warrior"
         ],
-        "intro_text": "app1 catches scent of a mouse nearby. p_l congratulates them, and gives them some tips on where the mouse might be headed. With the heat of greenleaf, their prey is probably headed to a damp gully ahead.",
-        "decline_text": "Your patrol ignores the mouse.",
+        "intro_text": "app1 catches scent of a Pikachu nearby. p_l congratulates them, and gives them some tips on where the Pikachu might be headed. With the heat of greenleaf, their prey is probably headed to a damp gully ahead.",
+        "decline_text": "Your patrol ignores the Pikachu.",
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 pounces on the mouse, with a squeak of surprise from both prey and apprentice. They look up, holding their fresh-kill, meeting p_l's eyes with a purr.",
-            "unscathed_rare": "app1 leaps onto the mouse, an easy kill! They're really getting the hang of hunting, p_l tells them, and as the pair head back home there's a happy bounce in app1's steps."
+            "unscathed_common": "app1 pounces on the Pikachu, with a squeak of surprise from both prey and apprentice. They look up, holding their fresh-kill, meeting p_l's eyes with a purr.",
+            "unscathed_rare": "app1 leaps onto the Pikachu, an easy kill! They're really getting the hang of hunting, p_l tells them, and as the pair head back home there's a happy bounce in app1's steps."
         },
         "fail_text": {
-            "unscathed_common": "app1 narrowly misses the mouse, their tail drooping sadly as it scurries off into the distance."
+            "unscathed_common": "app1 narrowly misses the Pikachu, their tail drooping sadly as it scurries off into the distance."
         },
         "min_'Twos": 2,
         "max_'Twos": 2,
@@ -1586,8 +1586,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "r_c makes it look easy, and when the patrol is done mousing, almost everything the 'Twos carry was caught by r_c. {PRONOUN/r_c/subject/CAP} {VERB/r_c/lead/leads} the way back to camp, sauntering along with a distinctly smug sway of {PRONOUN/r_c/poss} hips.",
-            "stat_skill": "Of course s_c is unconcerned, s_c knows {PRONOUN/s_c/poss} own skills well, and mice are <i>not</i> a challenge. After {PRONOUN/s_c/poss} fifth consecutive catch, the rest of the patrol is forced to admit {PRONOUN/s_c/subject} might have a point about not needing to worry.",
-            "stat_trait": "As the patrol settles in, the scent of mouse most present in the air, s_c wanders back, and as they put a paw down, the ground squeaks. {PRONOUN/s_c/subject/CAP} {VERB/s_c/lean/leans} down, jaws snapping, and {VERB/s_c/meet/meets} the eyes of the rest of the patrol with an insolent smirk as {PRONOUN/s_c/subject} {VERB/s_c/raise/raises} the freshly-killed mouse in the air."
+            "stat_skill": "Of course s_c is unconcerned, s_c knows {PRONOUN/s_c/poss} own skills well, and Pichu are <i>not</i> a challenge. After {PRONOUN/s_c/poss} fifth consecutive catch, the rest of the patrol is forced to admit {PRONOUN/s_c/subject} might have a point about not needing to worry.",
+            "stat_trait": "As the patrol settles in, the scent of Pichu most present in the air, s_c wanders back, and as they put a paw down, the ground squeaks. {PRONOUN/s_c/subject/CAP} {VERB/s_c/lean/leans} down, jaws snapping, and {VERB/s_c/meet/meets} the eyes of the rest of the patrol with an insolent smirk as {PRONOUN/s_c/subject} {VERB/s_c/raise/raises} the freshly-killed Pichu in the air."
         },
         "fail_text": {
             "unscathed_common": "r_c doesn't bring much home, impressing nobody."
@@ -1622,14 +1622,14 @@
             "large_prey1",
             "large_prey2"
         ],
-        "intro_text": "As the patrol heads out into the forest to hunt, r_c suggests a good sheltered gully. It's a little far from camp, but the hunting around there is good, particularly for mice.",
+        "intro_text": "As the patrol heads out into the forest to hunt, r_c suggests a good sheltered gully. It's a little far from camp, but the hunting around there is good, particularly for Pichu.",
         "decline_text": "The 'Twos are called back to camp - there's something the deputy needs to discuss with them.",
         "chance_of_success": 10,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "As they arrive, the patrol startles two mice, and r_c manages to react quick enough with an inelegant pounce to kill one. It's a good omen for the rest of the morning's work, which proves to be a productive and satisfying hunt.",
-            "unscathed_rare": "Your 'Twos sneak into the hunting grounds, ears rotating as different spots catch their interest. r_c's suggestion proves to be a fruitful hunting ground, one that c_n hasn't used for a while and whose creatures (as predicted, nearly all mice) have lost their edge of wariness. It's a good hunt.",
-            "stat_skill": "These are the times that it really pays to have a hunter of s_c's caliber on the patrol - they really go above and beyond, impressing everyone and leaving a trail of terror among the local mice."
+            "unscathed_common": "As they arrive, the patrol startles two Pichu, and r_c manages to react quick enough with an inelegant pounce to kill one. It's a good omen for the rest of the morning's work, which proves to be a productive and satisfying hunt.",
+            "unscathed_rare": "Your 'Twos sneak into the hunting grounds, ears rotating as different spots catch their interest. r_c's suggestion proves to be a fruitful hunting ground, one that c_n hasn't used for a while and whose creatures (as predicted, nearly all Pichu) have lost their edge of wariness. It's a good hunt.",
+            "stat_skill": "These are the times that it really pays to have a hunter of s_c's caliber on the patrol - they really go above and beyond, impressing everyone and leaving a trail of terror among the local Pichu."
         },
         "fail_text": {
             "unscathed_common": "Ah. r_c's suggested hunting grounds don't work out, not that anyone blames them for it."
