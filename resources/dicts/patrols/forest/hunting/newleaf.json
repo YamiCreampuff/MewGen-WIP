@@ -8,12 +8,12 @@
             "no_app",
             "medium_prey"
         ],
-        "intro_text": "r_c tastes the air and perks up - there's a squirrel nearby, nibbling the delicate new plant growth near the base of a tree!",
+        "intro_text": "r_c tastes the air and perks up - there's a Minun nearby, nibbling the delicate new plant growth near the base of a tree!",
         "decline_text": "After a moment's deliberation, r_c decides to move on.",
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The wind suddenly shifts, and the squirrel jerks its head up in alarm. r_c thinks fast, bolting to cut off its escape before delivering the killing blow.",
+            "unscathed_common": "The wind suddenly shifts, and the Minun jerks its head up in alarm. r_c thinks fast, bolting to cut off its escape before delivering the killing blow.",
             "unscathed_rare": "Though it tries to escape, r_c is faster and smarter - {PRONOUN/r_c/subject} {VERB/m_c/slam/slams} a paw down on the squirrel's tail before it can go very far, and kills it with ease.",
             "stat_skill": "s_c silently slinks through the underbrush, going undetected until {PRONOUN/s_c/subject}{VERB/s_c/'ve/'s} pounced - and by then it's far too late for the squirrel to do anything about it."
         },
