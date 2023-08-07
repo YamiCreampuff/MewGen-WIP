@@ -23,8 +23,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -48,8 +48,8 @@
         "fail_text": {
             "unscathed_common": "Poor app1 focuses too hard on making sure their hunting crouch is correct - by the time they feel ready, the Treecko is long gone."
         },
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -76,8 +76,8 @@
         "fail_text": {
             "unscathed_common": "A too-high tail brushing against the bushes is all that's needed to scare the Treecko away, and app1 watches in disappointment as it scampers away."
         },
-        "min_'Twos": 2,
-        "max_'Twos": 2,
+        "min_cats": 2,
+        "max_cats": 2,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -113,8 +113,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -145,8 +145,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -189,8 +189,8 @@
         "fail_trait": [
             "nervous"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -216,8 +216,8 @@
         "fail_text": {
             "unscathed_common": "app1 pounces on the Natu, but lands on empty paws as it flies away before they even hit the ground. Sneezing dust, app1 looks up to find the Natu sitting in a tree branch, mocking them. Oh well."
         },
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -243,8 +243,8 @@
         "fail_text": {
             "unscathed_common": "app1 ignores p_l's instructions on how to properly hunt a Natu, and leaps a heartbeat too late, the bird having been startled into flight by app1's noisy approach. app1 sulks the whole way back to camp."
         },
-        "min_'Twos": 2,
-        "max_'Twos": 2,
+        "min_cats": 2,
+        "max_cats": 2,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -297,8 +297,8 @@
             "unscathed_stat": "r_c tries to distract the Swellow so that p_l can lead the rest of the patrol in a flanking maneuver, but the Swellow lashes out. With a yowl of fright, r_c dashes back into the undergrowth. p_l calls off the attempt: it's clear this Swellow is still too strong to kill, especially without the entire patrol working as one.",
             "injury": "r_c tries to distract the Swellow so that p_l can lead the rest of the patrol in a flanking maneuver, but the Swellow lashes out and slashes them ferociously. They dash back into the undergrowth, and p_l calls off the attempt, not wanting to risk more injury - or death - just for some extra meat."
         },
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -325,8 +325,8 @@
         "fail_text": {
             "unscathed_common": "p_l is about to pounce on their prey when the Xatu lifts its head and squawks to the trees, 'Cat! Cat!'. Instantly, an entire unkindness of Xatus begin to dive-bomb p_l, who, tail fluffed in fear, is forced to sprint back to camp, preyless and followed by the mob of angry birds. Embarrassing..."
         },
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -352,8 +352,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 3,
+        "min_cats": 1,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -399,8 +399,8 @@
             "playful",
             "righteous"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 6,
+        "min_cats": 2,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -426,8 +426,8 @@
         "decline_text": "One Electrike? p_l could do way better than just a single Electrike in greenleaf. They continue on to find more suitable prey.",
         "chance_of_success": 60,
         "exp": 20,
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -450,8 +450,8 @@
         "decline_text": "p_l decides that one Electrike isn't worth missing out on some fun! They instead chase after leaves for the rest of the hunting patrol.",
         "chance_of_success": 60,
         "exp": 20,
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -476,8 +476,8 @@
         "chance_of_success": 60,
         "exp": 20,
         "win_skills": [],
-        "min_'Twos": 2,
-        "max_'Twos": 2,
+        "min_cats": 2,
+        "max_cats": 2,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -509,8 +509,8 @@
         "win_skills": [
             "HUNTER,2"
         ],
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -546,8 +546,8 @@
         "win_skills": [
             "HUNTER,3"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -583,8 +583,8 @@
         "win_skills": [
             "HUNTER,3"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -617,8 +617,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -648,8 +648,8 @@
             "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little Kecleon lives another day."
         },
         "win_skills": [],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -676,8 +676,8 @@
         "win_skills": [
             "HUNTER,2"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 3,
+        "min_cats": 1,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -716,8 +716,8 @@
             "childish",
             "playful"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 6,
+        "min_cats": 1,
+        "max_cats": 6,
         "history_text": {
             "scar": "m_c gained a scar after trying to chase a Plusle and Minun up a tree."
         },
@@ -746,8 +746,8 @@
             "unscathed_common": "No way, it's too hot for this. They can try to hunt again later.",
             "injury": "r_c collapses from the unbearable heat. p_l carries them back to camp."
         },
-        "min_'Twos": 2,
-        "max_'Twos": 6,
+        "min_cats": 2,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -780,8 +780,8 @@
         "win_skills": [
             "CLEVER,1"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 6,
+        "min_cats": 1,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -837,8 +837,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -897,8 +897,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -958,8 +958,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1020,8 +1020,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1078,8 +1078,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1138,8 +1138,8 @@
             "bloodthirsty",
             "bold"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1199,8 +1199,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1257,8 +1257,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1313,8 +1313,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1370,8 +1370,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 2,
-        "max_'Twos": 3,
+        "min_cats": 2,
+        "max_cats": 3,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1423,8 +1423,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 4,
-        "max_'Twos": 6,
+        "min_cats": 4,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1476,8 +1476,8 @@
             "troublesome",
             "vengeful"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
@@ -1508,8 +1508,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1533,8 +1533,8 @@
         "fail_text": {
             "unscathed_common": "Your patrol narrowly misses the Pikachu."
         },
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1561,8 +1561,8 @@
         "fail_text": {
             "unscathed_common": "app1 narrowly misses the Pikachu, their tail drooping sadly as it scurries off into the distance."
         },
-        "min_'Twos": 2,
-        "max_'Twos": 2,
+        "min_cats": 2,
+        "max_cats": 2,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1605,8 +1605,8 @@
             "shameless",
             "troublesome"
         ],
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1637,8 +1637,8 @@
         "win_skills": [
             "HUNTER,1"
         ],
-        "min_'Twos": 3,
-        "max_'Twos": 6,
+        "min_cats": 3,
+        "max_cats": 6,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1684,8 +1684,8 @@
             "bold",
             "daring"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     },
@@ -1723,8 +1723,8 @@
             "bold",
             "daring"
         ],
-        "min_'Twos": 1,
-        "max_'Twos": 1,
+        "min_cats": 1,
+        "max_cats": 1,
         "antagonize_text": null,
         "antagonize_fail_text": null
     }
