@@ -1,6 +1,6 @@
 [
     {
-        "patrol_id": "gen_hunt_mouse2",
+        "patrol_id": "gen_hunt_pikachu2",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -25,7 +25,7 @@
         "max_cats": 3
     },
     {
-        "patrol_id": "gen_hunt_mouse3",
+        "patrol_id": "gen_hunt_pikachu3",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -51,7 +51,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_rat1",
+        "patrol_id": "gen_hunt_electrike1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -82,7 +82,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_hare1",
+        "patrol_id": "gen_hunt_linoone1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -109,7 +109,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_bird1",
+        "patrol_id": "gen_hunt_taillow1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -136,7 +136,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_squirrel1",
+        "patrol_id": "gen_hunt_minun1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -163,7 +163,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_fish1",
+        "patrol_id": "gen_hunt_magikarp1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -190,7 +190,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_fish2",
+        "patrol_id": "gen_hunt_feebas1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -217,7 +217,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_strangerabbit1",
+        "patrol_id": "gen_hunt_strangespinda1",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -253,7 +253,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_rabbit2",
+        "patrol_id": "gen_hunt_zigzagoon2",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -283,7 +283,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_rabbit3",
+        "patrol_id": "gen_hunt_zigzagoon3",
         "biome": "Any",
         "season": "Any",
         "tags": [
@@ -322,7 +322,7 @@
             "jealousy",
             "medium_prey"
         ],
-        "intro_text": "As the patrol spreads out to hunt, r_c admits {PRONOUN/r_c/subject} {VERB/r_c/think/thinks} {PRONOUN/r_c/subject} had a vision from StarClan last night.",
+        "intro_text": "As the patrol spreads out to hunt, r_c admits {PRONOUN/r_c/subject} {VERB/r_c/think/thinks} {PRONOUN/r_c/subject} had a vision from Arceus last night.",
         "decline_text": "The patrol doesn't talk about the vision.",
         "chance_of_success": 40,
         "exp": 20,
@@ -350,14 +350,14 @@
             "large_prey1",
             "large_prey2"
         ],
-        "intro_text": "As {PRONOUN/r_c/subject} {VERB/r_c/head/heads} out to hunt, r_c thinks about the dream {PRONOUN/r_c/subject} had last night... was it sent by StarClan?",
+        "intro_text": "As {PRONOUN/r_c/subject} {VERB/r_c/head/heads} out to hunt, r_c thinks about the dream {PRONOUN/r_c/subject} had last night... was it sent by Arceus?",
         "decline_text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/push/pushes} it from {PRONOUN/r_c/poss} mind.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
             "unscathed_common": "It definitely distracts {PRONOUN/r_c/object} from the hunt, but r_c uses the time by {PRONOUN/r_c/self} to put {PRONOUN/r_c/poss} thoughts in order. It was a sign from {PRONOUN/r_c/poss} ancestors. Now {PRONOUN/r_c/subject} {VERB/r_c/need/needs} to figure out what to do next.",
             "unscathed_rare": "Somehow hunting brings r_c to almost a meditative state, and not only {VERB/r_c/are/is} {PRONOUN/r_c/subject} fairly confident of {PRONOUN/r_c/poss} next steps having been given this vision, but {PRONOUN/r_c/subject} also {VERB/r_c/bring/brings} back a good haul to the prey pile.",
-            "stat_skill": "s_c often feels like StarClan walks with {PRONOUN/s_c/object}, and this is just another instance on the path. {PRONOUN/s_c/subject/CAP} {VERB/s_c/use/uses} the solo patrol to collect {PRONOUN/s_c/poss} thoughts, and by the time {PRONOUN/s_c/subject} {VERB/s_c/pad/pads} home with a good catch, {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} ready for the next step {PRONOUN/s_c/poss} vision hinted at."
+            "stat_skill": "s_c often feels like Arceus walks with {PRONOUN/s_c/object}, and this is just another instance on the path. {PRONOUN/s_c/subject/CAP} {VERB/s_c/use/uses} the solo patrol to collect {PRONOUN/s_c/poss} thoughts, and by the time {PRONOUN/s_c/subject} {VERB/s_c/pad/pads} home with a good catch, {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} ready for the next step {PRONOUN/s_c/poss} vision hinted at."
         },
         "fail_text": {
             "unscathed_common": "r_c can't make sense of the vision."
@@ -499,7 +499,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_twolegdogsdeer1",
+        "patrol_id": "gen_hunt_humanmightyenadodrio1",
         "biome": "Any",
         "season": "newleaf",
         "tags": [
