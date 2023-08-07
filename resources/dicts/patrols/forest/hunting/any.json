@@ -1663,7 +1663,7 @@
         "success_text": {
             "unscathed_common": "Your patrol crosses the road and can hunt on the other side.",
             "unscathed_rare": "Your patrol finds a pipe running under the road and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
-            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the road, and a good source of scavenged meat.",
+            "stat_skill": "Your patrol stops on the edge of the road, and s_c organizes a thorough search that finds a flattened Treecko. It's a reminder of the danger of the road, and a good source of scavenged meat.",
             "stat_trait": "s_c is patient enough to wait until the road is completely clear, then trots across calmly with the patrol to hunt on the other side."
         },
         "fail_text": {

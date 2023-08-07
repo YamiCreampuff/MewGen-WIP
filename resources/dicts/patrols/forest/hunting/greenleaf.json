@@ -601,8 +601,8 @@
             "comfort",
             "medium_prey"
         ],
-        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A little Kecleon!",
-        "decline_text": "Startled by the Kecleon's pattern, the patrol watches it scurry away.",
+        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A purple Kecleon!",
+        "decline_text": "Startled by the Kecleon's odd colouration, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
@@ -611,7 +611,7 @@
             "stat_skill": "s_c is basically on top of the skittering Kecleon, and ends up doing a ridiculous hop to come down on it with claws extended. r_c compliments them on the catch with a laugh in their meow, and s_c has to agree with them, purring with amusement."
         },
         "fail_text": {
-            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little Kecleon lives another day.",
+            "unscathed_common": "The patrol is unable to catch the reptile quick enough and the purple Kecleon lives another day.",
             "unscathed_stat": "r_c and p_l go for the prey at the same time, bonking their heads together. Not a bad collision, and both of them are mature enough to let it go, but neither is pleased to have missed an easy catch."
         },
         "win_skills": [
@@ -637,7 +637,7 @@
             "no_fail_prey"
         ],
         "intro_text": "Something skitters across the grass, catching the patrol's eyes. A purple Kecleon!",
-        "decline_text": "Startled by the Kecleon's odd colouration, the patrol watches it scurry away.",
+        "decline_text": "Startled by the Kecleon's odd pattern, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
