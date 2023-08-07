@@ -1,6 +1,6 @@
 [
     {
-        "patrol_id": "fst_hunt_greenleaf_solosquirrel1",
+        "patrol_id": "fst_hunt_greenleaf_solotreecko1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -29,7 +29,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_soloappsquirrel1",
+        "patrol_id": "fst_hunt_greenleaf_soloapptreecko1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -54,7 +54,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_mentorsquirrel1",
+        "patrol_id": "fst_hunt_greenleaf_mentortreecko1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -82,7 +82,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_squirrel_treetoptumble1",
+        "patrol_id": "fst_hunt_greenleaf_treecko_treetoptumble1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -97,7 +97,7 @@
             "injury",
             "broken bone"
         ],
-        "intro_text": "As the patrol walks through the forest, a loud chittering from above interrupts them. One cat looks up just in time to get a shower of twigs and leaves to the face, while another exclaims aloud as they spot a Treecko darting through the branches above.",
+        "intro_text": "As the patrol walks through the forest, a loud chittering from above interrupts them. One 'Two looks up just in time to get a shower of twigs and leaves to the face, while another exclaims aloud as they spot a Treecko darting through the branches above.",
         "decline_text": "Though they snort in amusement, the patrol decides to move on to easier prey, rather than waste their energy amongst the trees.",
         "chance_of_success": 60,
         "exp": 40,
@@ -119,7 +119,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_groupsquirrel1",
+        "patrol_id": "fst_hunt_greenleaf_grouptreecko1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -151,7 +151,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_solobirdl",
+        "patrol_id": "fst_hunt_greenleaf_solonatul",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -195,7 +195,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_soloappbirdl",
+        "patrol_id": "fst_hunt_greenleaf_soloappnatul",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -222,7 +222,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_mentorbirdl",
+        "patrol_id": "fst_hunt_greenleaf_mentornatul",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -249,7 +249,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_groupbirdl",
+        "patrol_id": "fst_hunt_greenleaf_groupswellowl",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -306,7 +306,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_bird_odd1",
+        "patrol_id": "fst_hunt_greenleaf_xatu_odd1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -323,7 +323,7 @@
             "unscathed_rare": "p_l pounces on the Xatu and kills it easily, but as they turn to leave, an entire unkindness swoops down at their head from the trees above, crying 'Murder! Murder! Mew! Mew!'. Pelt bristling, p_l sprints for camp, chased by the angry, screeching corvids the entire way."
         },
         "fail_text": {
-            "unscathed_common": "p_l is about to pounce on their prey when the Xatu lifts its head and squawks to the trees, 'Cat! Cat!'. Instantly, an entire unkindness of Xatus begin to dive-bomb p_l, who, tail fluffed in fear, is forced to sprint back to camp, preyless and followed by the mob of angry birds. Embarrassing..."
+            "unscathed_common": "p_l is about to pounce on their prey when the Xatu lifts its head and squawks to the trees, 'Mew! Mew!'. Instantly, an entire unkindness of Xatus begin to dive-bomb p_l, who, tail fluffed in fear, is forced to sprint back to camp, preyless and followed by the mob of angry Xatu and Natu. Embarrassing..."
         },
         "min_cats": 1,
         "max_cats": 1,
@@ -331,7 +331,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_formergensquirrel1",
+        "patrol_id": "fst_hunt_greenleaf_formergentreecko1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -408,7 +408,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_solorat1",
+        "patrol_id": "fst_hunt_greenleaf_soloelectrike1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -432,7 +432,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_soloapprat1",
+        "patrol_id": "fst_hunt_greenleaf_soloappelectrike1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -456,7 +456,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_mentorrat1",
+        "patrol_id": "fst_hunt_greenleaf_mentorelectrike1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -482,7 +482,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_ratswarm1",
+        "patrol_id": "fst_hunt_greenleaf_pikachuswarm1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -518,7 +518,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_ratking1",
+        "patrol_id": "fst_hunt_greenleaf_eonduo1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -555,7 +555,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_ratking2",
+        "patrol_id": "fst_hunt_greenleaf_eonduo2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -592,7 +592,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_lillizard1",
+        "patrol_id": "fst_hunt_greenleaf_purplekecleon1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -623,7 +623,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_lillizard2",
+        "patrol_id": "fst_hunt_greenleaf_purplekecleon2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -654,7 +654,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_vole_formerany1",
+        "patrol_id": "fst_hunt_greenleaf_wynaut_formerany1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -682,7 +682,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_greenleaf_squirrel_formerany1",
+        "patrol_id": "fst_hunt_greenleaf_plusleminun_formerany1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -757,7 +757,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_twolegsobject1",
+        "patrol_id": "fst_hunt_humanobject1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -786,7 +786,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_fox_greenleafscavenge1",
+        "patrol_id": "fst_hunt_ninetsalesdoduo_greenleafscavenge1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -846,7 +846,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_fox_greenleafscavenge2",
+        "patrol_id": "fst_hunt_ninetsalesdodrio_greenleafscavenge2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -906,7 +906,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_fox_greenleafscavenge3",
+        "patrol_id": "fst_hunt_ninetsalesgirafarig_greenleafscavenge3",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -963,13 +963,13 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a solo fox fight.",
-            "reg_death": "m_c fell in a solo battle with a fox.",
-            "lead_death": "died while fighting a fox"
+            "scar": "m_c carries a scar from a solo Ninetales fight.",
+            "reg_death": "m_c fell in a solo battle with a Ninetales.",
+            "lead_death": "died while fighting a Ninetales"
         }
     },
     {
-        "patrol_id": "fst_hunt_foxgray_greenleafscavenge1",
+        "patrol_id": "fst_hunt_vulpixphanpy_greenleafscavenge1",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1029,7 +1029,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_foxgray_greenleafscavenge2",
+        "patrol_id": "fst_hunt_vulpixdonphan_greenleafscavenge2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1087,7 +1087,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_foxgray_greenleafscavenge3",
+        "patrol_id": "fst_hunt_vulpixzangoosecub_greenleafscavenge3",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1149,7 +1149,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_redvixen4",
+        "patrol_id": "fst_hunt_ninetalesvixen4",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1210,7 +1210,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_redvixen5",
+        "patrol_id": "fst_hunt_ninetalesvixen5",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1266,7 +1266,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_redvixen6",
+        "patrol_id": "fst_hunt_ninetalesvixen6",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1324,7 +1324,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_grayvixen4",
+        "patrol_id": "fst_hunt_vulpixvixen4",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1379,7 +1379,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_grayvixen5",
+        "patrol_id": "fst_hunt_vulpixvixen5",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1432,7 +1432,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_grayvixen6",
+        "patrol_id": "fst_hunt_vulpixvixen6",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_mouse2",
+        "patrol_id": "fst_hunt_pikachu2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1514,7 +1514,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_genappmouse2",
+        "patrol_id": "fst_hunt_genapppikachu2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1539,7 +1539,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "gen_hunt_genmentormouse2",
+        "patrol_id": "gen_hunt_genmentorpikachu2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1567,7 +1567,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_mice_ohnotheyrehot2",
+        "patrol_id": "fst_hunt_pichu_ohnotheyrehot2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1611,7 +1611,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_mice2",
+        "patrol_id": "fst_hunt_pichu2",
         "biome": "forest",
         "season": "greenleaf",
         "tags": [
@@ -1662,7 +1662,7 @@
             "unscathed_common": "They're not the only creature taking advantage of the light rain to find food - though for the f_tp_p and the single f_tp_s they're bringing back to camp, that descision was a mistake.",
             "unscathed_rare": "Some of the forest's plants, particularly the short-rooted undergrowth, will definitely appreciate the drink the sky is providing. r_c thanks the sky for a different reason, giving thanks to Arceus as they bring home a f_tp_s, a f_tp_s they found limping, and a old f_tp_s for the fresh-kill pile.",
             "stat_skill": "The thick undergrowth of the forest is perfect for stalking - s_c doesn't know why 'Twos would ever live elsewhere. They bring back a f_mp_s and a couple f_tp_p for good measure, pleased with the satisfying hunt.",
-            "stat_trait": "With the sky gray and intermittently scattering water through c_n's territory, any Twolegs will be huddled in their strange dens. s_c doesn't know why, but the behaviour is obvious. It makes it far safer to hunt near Twoleg paths and dens, and s_c brings a nice f_mp_s and a very dumb f_tp_s that wandered in front of their nose back for the fresh-kill pile."
+            "stat_trait": "With the sky gray and intermittently scattering water through c_n's territory, any human will be huddled in their strange dens. s_c doesn't know why, but the behaviour is obvious. It makes it far safer to hunt near Twoleg paths and dens, and s_c brings a nice f_mp_s and a very dumb f_tp_s that wandered in front of their nose back for the fresh-kill pile."
         },
         "fail_text": {
             "unscathed_common": "The skies clear, and though r_c keeps hunting, the heat of the sun makes them sluggish and slow to react",
