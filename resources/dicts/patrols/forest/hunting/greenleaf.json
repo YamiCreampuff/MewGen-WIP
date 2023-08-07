@@ -740,7 +740,7 @@
         "exp": 15,
         "success_text": {
             "unscathed_common": "They decide to power through the weather and the patrol eventually has a successful, if exhausting, hunt.",
-            "unscathed_rare": "The patrol stops to cool off in the shade of a tree for a heartbeat before continuing on their way. As they do, they notice a half-grown deer fawn tottering about in the distance. It's confused by the heat and underweight, and by working together the 'Twos manage to bring it down, a huge prize for the Clan."
+            "unscathed_rare": "The patrol stops to cool off in the shade of a tree for a heartbeat before continuing on their way. As they do, they notice a Doduo tottering about in the distance. It's confused by the heat and underweight, and by working together the 'Twos manage to bring it down, a huge prize for the Clan."
         },
         "fail_text": {
             "unscathed_common": "No way, it's too hot for this. They can try to hunt again later.",
@@ -765,16 +765,16 @@
             "injury",
             "burn"
         ],
-        "intro_text": "The patrol comes across a strange Twolegs object smelling slightly of smoke and prey. Intriguing, but also sort of terrifying. Don't the Twolegs know the danger of fire?",
-        "decline_text": "The patrol decides to avoid the Twoleg object.",
+        "intro_text": "The patrol comes across a strange Human object smelling slightly of smoke and prey. Intriguing, but also sort of terrifying. Don't the Humans know the danger of fire?",
+        "decline_text": "The patrol decides to avoid the strange object.",
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The patrol interprets the purpose of the object. It seems like Twolegs light their fresh-kill on fire before eating it! How strange.",
-            "stat_skill": "s_c looks closely at the Twoleg object, studying it, wondering how specifically the Twolegs harness and contain the power of fire without it escaping. Wouldn't it be wonderful if c_n could do that?"
+            "unscathed_common": "The patrol interprets the purpose of the object. It seems like Humans light their fresh-kill on fire before eating it! How strange. Maybe they could learn from this..",
+            "stat_skill": "s_c looks closely at the strange object, studying it, wondering how specifically the Humans harness and contain the power of fire without it escaping. Wouldn't it be wonderful if c_n could do that without learning any fire moves?"
         },
         "fail_text": {
-            "unscathed_common": "The patrol can't seem to interpret the purpose of the object. Twolegs are just mystifying.",
+            "unscathed_common": "The patrol can't seem to interpret the purpose of the object. Humans are just mystifying.",
             "injury": "As r_c pokes around the strange smelling whatever-it-is, they poke a piece of metal still holding the heat of fire in it, and skitter backwards with a yelp."
         },
         "win_skills": [
@@ -804,19 +804,19 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray? Tracking it, they find their red enemy feeding on a deer fawn carcass. It's impossible to say whether the fox killed it or found it.",
-        "decline_text": "Your patrol decides not to quarrel with the fox and to find prey elsewhere.",
+        "intro_text": "Your patrol catches the scent of a fox - but is it a Vulpix, or Ninetales? Tracking it, they find their blonde enemy feeding on a Doduo chick carcass.",
+        "decline_text": "Your patrol decides not to quarrel with the Ninetales and to find prey elsewhere.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your 'Twos are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
-            "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the 'Twos harry and harass the fox until it gives up and runs.",
-            "stat_trait": "The patrol launches into battle, but with so few 'Twos it's exhausting trying to keep the fox and it's snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
+            "unscathed_common": "Your 'Twos are smaller but they outnumber the Ninetales, if only by a little, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the Ninetales, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "stat_skill": "s_c shows their strength, leading the fight against the Ninetales. By working together and keeping it distracted, the 'Twos harry and harass the Ninetales until it gives up and runs.",
+            "stat_trait": "The patrol launches into battle, but with so few 'Twos it's exhausting trying to keep the Ninetales and it's snapping fiery jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Ninetales' throat. It's only one bite, but the Ninetales has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
-            "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the 'Twos give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
-            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
+            "unscathed_common": "Your patrol fails to drive away the Ninetales, which keeps possession of the food. However there were no injuries.",
+            "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the 'Twos give up on challenging for the food in favor of quickly helping r_c back to the healers den.",
+            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the Ninetales manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
         "win_skills": [
             "FIGHTER,1"
@@ -842,7 +842,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Ninetales fight."
         }
     },
     {
@@ -864,19 +864,19 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray? Tracking it, they find their red enemy feeding on a deer fawn carcass. It's impossible to say whether the fox killed it or found it.",
-        "decline_text": "Your patrol decides not to quarrel with the fox and to find prey elsewhere.",
+        "intro_text": "Your patrol catches the scent of a fox - but is it a Ninetales, or Vulpix? Tracking it, they find their blonde enemy feeding on a Dodrio carcass. It's impossible to say whether the Ninetales killed it or found it.",
+        "decline_text": "Your patrol decides not to quarrel with the Ninetales and to find prey elsewhere.",
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your 'Twos are smaller but heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
-            "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the 'Twos harry and harass the fox until s_c lands a crucial blow, snapping a tendon in one of the fox's hindlegs. The fox runs, but there's no way it'll live long with such a crippling injury.",
-            "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
+            "unscathed_common": "Your 'Twos are smaller but heavily outnumber the Ninetales, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the Ninetales, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "stat_skill": "s_c shows their strength, leading the fight against the Ninetales. By working together and keeping it distracted, the 'Twos harry and harass the Ninetales until s_c lands a crucial blow, snapping a tendon in one of the Ninetales' hindlegs. The Ninetales runs, but there's no way it'll live long with such a crippling injury.",
+            "stat_trait": "The patrol launches into battle, keeping the Ninetales on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Ninetales' throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the Ninetales down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many 'Twos to protect each other, there were no injuries.",
-            "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the 'Twos give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
-            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
+            "unscathed_common": "Your patrol fails to drive away the Ninetales, which keeps possession of the food. However with so many 'Twos to protect each other, there were no injuries.",
+            "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the 'Twos give up on challenging for the food in favor of quickly helping r_c back to the healers den.",
+            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the Ninetales manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
         "win_skills": [
             "FIGHTER,1"
@@ -902,7 +902,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Ninetales fight."
         }
     },
     {
@@ -924,20 +924,20 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "r_c catches the scent of a fox - but is it red, or gray? Tracking it, {PRONOUN/r_c/subject} find their red enemy feeding on a deer fawn carcass. It's impossible to say whether the fox killed it or found it.",
-        "decline_text": "r_c decides not to quarrel with the fox and to find prey elsewhere.",
+        "intro_text": "r_c catches the scent of a fox - but is it Ninetales, or Vulpix? Tracking it, {PRONOUN/r_c/subject} find their blonde enemy feeding on a Girafarig calf carcass. It's impossible to say whether the Ninetales killed it or found it.",
+        "decline_text": "r_c decides not to quarrel with the Ninetales and to find prey elsewhere.",
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
-            "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the fawn carcass.",
-            "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fawn."
+            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the Ninetales has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to Arceus, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The Ninetales, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the Ninetaleswith no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the Ninetales' back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the Ninetales bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the fawn carcass.",
+            "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Ninetales' throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the Ninetales finally collapses and the battered s_c goes back to proudly claim the calf."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
-            "death": "Fiercely, r_c throws {PRONOUN/r_c/self} at the fox, determined to win the fawn prize. But the fox values it just as dearly, and manages to get a good grip on r_c, shaking {PRONOUN/r_c/object} to pieces and killing {PRONOUN/r_c/object}.",
-            "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The fox doesn't follow, happy enough to eat the fawn instead of the foolish cat.",
-            "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the fox settles back down to its meal."
+            "unscathed_common": "Your patrol fails to drive away the Ninetales, which keeps possession of the food. However there were no injuries.",
+            "death": "Fiercely, r_c throws {PRONOUN/r_c/self} at the Ninetales, determined to win the calf prize. But the Ninetales values it just as dearly, and manages to get a good grip on r_c, shaking {PRONOUN/r_c/object} to pieces and killing {PRONOUN/r_c/object}.",
+            "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The Ninetales doesn't follow, happy enough to eat the calf instead of the foolish 'Two.",
+            "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the Ninetales manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the Ninetales settles back down to its meal."
         },
         "win_skills": [
             "FIGHTER,2"
@@ -987,19 +987,19 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray? Tracking it, they find a stocky gray fox feeding on a deer fawn carcass. A gray fox is unlikely to have killed a fawn this size.",
-        "decline_text": "Your patrol decides not to quarrel with the fox and to find prey elsewhere.",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix? Tracking it, they find a stocky Vulpix feeding on a Phanpy carcass. A Vulpix is unlikely to have killed a calf this size.",
+        "decline_text": "Your patrol decides not to quarrel with the Vulpix and to find prey elsewhere.",
         "chance_of_success": 70,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "The 'Twos are only just smaller and outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
-            "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the 'Twos harry and harass the fox until it gives up and runs.",
-            "stat_trait": "The patrol launches into battle, but with so few 'Twos it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
+            "unscathed_common": "The 'Twos are only just smaller and outnumber the Vulpix, if only by a little, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the Vulpix, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "stat_skill": "s_c shows their strength, leading the fight against the Vulpix. By working together and keeping it distracted, the 'Twos harry and harass the Vulpix until it gives up and runs.",
+            "stat_trait": "The patrol launches into battle, but with so few 'Twos it's exhausting trying to keep the Vulpix and its snapping fiery jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Vulpix's throat. It's only one bite, but the Vulpix has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
-            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
+            "unscathed_common": "Your patrol fails to drive away the Vulpix, which keeps possession of the food. However there were no injuries.",
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the Vulpix leaves of its own accord.",
+            "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the Vulpix manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
         "win_skills": [
             "FIGHTER,1"
@@ -1025,7 +1025,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Vulpix fight."
         }
     },
     {
@@ -1046,18 +1046,18 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray? Tracking it, they find a stocky gray fox feeding on a deer fawn carcass. A gray fox is unlikely to have killed a fawn this size.",
-        "decline_text": "Your patrol decides not to quarrel with the fox and to find prey elsewhere.",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix? Tracking it, they find a stocky Vulpix feeding on a Donphan carcass. A Vulpix is unlikely to have killed a beast this size.",
+        "decline_text": "Your patrol decides not to quarrel with the Vulpix and to find prey elsewhere.",
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your 'Twos are only just smaller and heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
-            "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the 'Twos harry and harass the fox until s_c lands a crucial blow, snapping a tendon in one of the fox's hindlegs. The fox runs, but there's no way it'll live long with such a crippling injury.",
-            "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
+            "unscathed_common": "Your 'Twos are only just smaller and heavily outnumber the Vulpix, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the Vulpix, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "stat_skill": "s_c shows their strength, leading the fight against the Vulpix. By working together and keeping it distracted, the 'Twos harry and harass the Vulpix until s_c lands a crucial blow, snapping a tendon in one of the Vulpix's hindlegs. The Vulpix runs, but there's no way it'll live long with such a crippling injury.",
+            "stat_trait": "The patrol launches into battle, keeping the Vulpix on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Vulpix's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the Vulpix down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many 'Twos to protect each other, there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's only being janked back by the tail that saves them from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
+            "unscathed_common": "Your patrol fails to drive away the Vulpix, which keeps possession of the food. However with so many 'Twos to protect each other, there were no injuries.",
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's only being janked back by the tail that saves them from injury. The patrol gives up, and settles down to wait a safe distance away until the Vulpix leaves of its own accord."
         },
         "win_skills": [
             "FIGHTER,1"
@@ -1083,7 +1083,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Vulpix fight."
         }
     },
     {
@@ -1104,20 +1104,20 @@
             "large_prey2",
             "large_prey3"
         ],
-        "intro_text": "r_c catches the scent of a fox - but is it red, or gray? Tracking it, {PRONOUN/r_c/subject} find a stocky gray fox feeding on a deer fawn carcass. A gray fox is unlikely to have killed a fawn this size.",
+        "intro_text": "r_c catches the scent of a fox - but is it Ninetales, or Vulpix? Tracking it, {PRONOUN/r_c/subject} find a stocky Vulpix feeding on a Zangoose cub carcass. A Vulpix is unlikely to have killed a Zangoose this size.",
         "decline_text": "r_c decides not to quarrel with the fox and to find prey elsewhere.",
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
-            "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the fawn carcass.",
-            "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fawn."
+            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the Vulpix has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The Vulpix, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the Vulpix with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the Vulpix's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the Vulpix bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the Zangoose cub carcass.",
+            "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the Vulpix's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the Vulpix finally collapses and the battered s_c goes back to proudly claim the cub."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the gray fox, which keeps possession of the food. However there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's tripping over their own feet that saves them. They give up, and settle down to wait a safe distance away until the fox leaves of its own accord.",
-            "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The gray fox doesn't follow, happy enough to eat the fawn instead of the foolish cat.",
-            "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the gray fox settles back down to its meal."
+            "unscathed_common": "Your patrol fails to drive away the Vulpix, which keeps possession of the food. However there were no injuries.",
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's tripping over their own feet that saves them. They give up, and settle down to wait a safe distance away until the Vulpix leaves of its own accord.",
+            "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The Vulpix doesn't follow, happy enough to eat the cub instead of the foolish 'Two.",
+            "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the Vulpix manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the Vulpix settles back down to its meal."
         },
         "win_skills": [
             "FIGHTER,2"
@@ -1143,9 +1143,9 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a solo fox fight.",
-            "reg_death": "m_c fell in a solo battle with a fox.",
-            "lead_death": "died while fighting a fox"
+            "scar": "m_c carries a scar from a solo Vulpix fight.",
+            "reg_death": "m_c fell in a solo battle with a Vulpix.",
+            "lead_death": "died while fighting a Vulpix"
         }
     },
     {
@@ -1164,23 +1164,23 @@
             "patrol_to_r_c",
             "clan_to_patrol"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "The red vixen smells of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan. If they don't starve, c_n will hunt them down - they do not share with foxes.",
-            "unscathed_rare": "Your patrol drives away the red fox, seeks out her den, and kills her cubs. It's brutal, but these fluffy small foxes would one day have grown to be kit-killers and thieves.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen out of the territory almost by {PRONOUN/s_c/self}. Now neither the red fox nor her dependent cubs pose a threat to the Clan. It truly proves s_c's place as one of c_n's most talented and skillful fighters.",
-            "stat_trait": "The patrol overcomes the red vixen and drives her off thanks to a brilliant battle move by s_c at a critical moment. {PRONOUN/s_c/poss/CAP} bravery ensures the patrol's success, and the 'Twos arrive back at camp singing {PRONOUN/s_c/poss} praises to make sure the Clan knows it."
+            "unscathed_common": "The blonde vixen smells of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan. If they don't starve, c_n will hunt them down - they do not share with Ninetales.",
+            "unscathed_rare": "Your patrol drives away the Ninetales, seeks out her den, and kills her cubs. It's brutal, but these fluffy small Vulpix would one day have grown to be kit-killers and thieves.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Ninetales out of the territory almost by {PRONOUN/s_c/self}. Now neither the Ninetales nor her dependent cubs pose a threat to the Clan. It truly proves s_c's place as one of c_n's most talented and skillful fighters.",
+            "stat_trait": "The patrol overcomes the Ninetales and drives her off thanks to a brilliant battle move by s_c at a critical moment. {PRONOUN/s_c/poss/CAP} bravery ensures the patrol's success, and the 'Twos arrive back at camp singing {PRONOUN/s_c/poss} praises to make sure the Clan knows it."
         },
         "fail_text": {
-            "unscathed_common": "The mother red fox is vicious and determined, and the small patrol is beaten back. But this forest is c_n's and they haven't given up. They may have lost this battle, but c_n will win this war.",
-            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the rest of the patrol have to rescue them from the red vixen.",
-            "death": "Never threaten a mother's young - the red vixen kills r_c in the skirmish.",
-            "injury": "The mother red fox's snapping jaws leave r_c dripping blood onto the leaf litter, forcing the patrol to back off.",
-            "stat_injury": "s_c is determined to win, but {PRONOUN/s_c/poss} confidence is misplaced. {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} a good fighter, but not a great one, and the red vixen manages to sink her teeth into {PRONOUN/s_c/object}. The patrol rallies around s_c, but they have to give up on the fight.",
-            "leader_death": "As their hunt descends into a full on battle with the red vixen, p_l takes a blow meant for one of {PRONOUN/p_l/poss} Clanmates, losing a life."
+            "unscathed_common": "The mother Ninetales is vicious and determined, and the small patrol is beaten back. But this forest is c_n's and they haven't given up. They may have lost this battle, but c_n will win this war.",
+            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the rest of the patrol have to rescue them from the blonde vixen.",
+            "death": "Never threaten a mother's young - the Ninetales kills r_c in the skirmish.",
+            "injury": "The mother Ninetales' snapping jaws leave r_c dripping blood onto the leaf litter, forcing the patrol to back off.",
+            "stat_injury": "s_c is determined to win, but {PRONOUN/s_c/poss} confidence is misplaced. {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} a good fighter, but not a great one, and the Ninetales manages to sink her teeth into {PRONOUN/s_c/object}. The patrol rallies around s_c, but they have to give up on the fight.",
+            "leader_death": "As their hunt descends into a full on battle with the Ninetales, p_l takes a blow meant for one of {PRONOUN/p_l/poss} Clanmates, losing a life."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1204,9 +1204,9 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight.",
-            "reg_death": "m_c fell in battle with a fox.",
-            "lead_death": "died while fighting a fox"
+            "scar": "m_c carries a scar from a Ninetales fight.",
+            "reg_death": "m_c fell in battle with a Ninetales.",
+            "lead_death": "died while fighting a Ninetales"
         }
     },
     {
@@ -1224,21 +1224,21 @@
             "patrol_to_r_c",
             "clan_to_patrol"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 10,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "Led by p_l, and with a heap of cooperation and teamwork, the patrol drives away the red fox, seeks out her den, and kills her growing cubs. The forest will be safe from both the threat the vixen posed this season, and the threat her cubs would've given c_n in the seasons to come.",
-            "unscathed_rare": "With so many 'Twos working together in tight coordination, they manage to accomplish the near-impossible, killing the red mother vixen and ending the threat to the Clan that she and her cubs pose.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen out of the territory almost by {PRONOUN/s_c/self}. Now neither the red fox nor her dependent cubs pose a threat to the Clan. It truly proves s_c's place as one of c_n's most talented and skillful fighters.",
-            "stat_trait": "The patrol overcomes the red vixen and drives her off thanks to a brilliant battle move by s_c at a critical moment. {PRONOUN/s_c/poss/CAP} bravery ensures the patrol's success, and the 'Twos arrive back at camp singing {PRONOUN/s_c/poss} praises to make sure the Clan knows it."
+            "unscathed_common": "Led by p_l, and with a heap of cooperation and teamwork, the patrol drives away the Ninetales, seeks out her den, and kills her growing cubs. The forest will be safe from both the threat the vixen posed this season, and the threat her cubs would've given c_n in the seasons to come.",
+            "unscathed_rare": "With so many 'Twos working together in tight coordination, they manage to accomplish the near-impossible, killing the mother Ninetales and ending the threat to the Clan that she and her cubs once posed.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Ninetales out of the territory almost by {PRONOUN/s_c/self}. Now neither the Ninetales nor her dependent cubs pose a threat to the Clan. It truly proves s_c's place as one of c_n's most talented and skillful fighters.",
+            "stat_trait": "The patrol overcomes the Ninetales and drives her off thanks to a brilliant battle move by s_c at a critical moment. {PRONOUN/s_c/poss/CAP} bravery ensures the patrol's success, and the 'Twos arrive back at camp singing {PRONOUN/s_c/poss} praises to make sure the Clan knows it."
         },
         "fail_text": {
-            "unscathed_common": "The mother red fox is vicious and determined. Although they lose this battle, through teamwork the 'Twos manage to retreat without injury.",
-            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the rest of the patrol have to rescue them from the red vixen.",
-            "injury": "r_c is left wounded as the patrol and the red mother vixen fight to a stalemate. Hopefully they've given the fox mother a reason not to return to this part of the forest.",
-            "stat_injury": "s_c is determined to win, but {PRONOUN/s_c/poss} confidence is misplaced. {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} a good fighter, but not a great one, and the red vixen manages to sink her teeth into {PRONOUN/s_c/object}. The patrol rallies around s_c, but they have to give up on the fight."
+            "unscathed_common": "The mother Ninetales is vicious and determined. Although they lose this battle, through teamwork the 'Twos manage to retreat without injury.",
+            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the rest of the patrol have to rescue them from the Ninetales.",
+            "injury": "r_c is left wounded as the patrol and the Ninetales fight to a stalemate. Hopefully they've given the Ninetales mother a reason not to return to this part of the forest.",
+            "stat_injury": "s_c is determined to win, but {PRONOUN/s_c/poss} confidence is misplaced. {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} a good fighter, but not a great one, and the Ninetales manages to sink her teeth into {PRONOUN/s_c/object}. The patrol rallies around s_c, but they have to give up on the fight."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1262,7 +1262,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Ninetales fight."
         }
     },
     {
@@ -1282,19 +1282,19 @@
             "clan_to_patrol",
             "no_body"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 10,
         "exp": 50,
         "success_text": {
-            "unscathed_common": "The red vixen smells of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of the forest all by {PRONOUN/s_c/self}. Now neither the red fox nor her dependent cubs pose a threat to the Clan. They swell with pride, feeling the confidence of knowing that they're truly one of the best fighters c_n has ever produced.",
-            "stat_trait": "A brilliant battle move by s_c at a critical moment knocks the red vixen off balance, and s_c manages to drive her out of c_n territory, though it takes every spark of strength in their pelt to do it alone."
+            "unscathed_common": "The Ninetales smells of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Ninetales and her brood out of the forest all by {PRONOUN/s_c/self}. Now neither the Ninetales nor her dependent cubs pose a threat to the Clan. They swell with pride, feeling the confidence of knowing that they're truly one of the best fighters c_n has ever produced.",
+            "stat_trait": "A brilliant battle move by s_c at a critical moment knocks the Ninetales off balance, and s_c manages to drive her out of c_n territory, though it takes every spark of strength in their pelt to do it alone."
         },
         "fail_text": {
-            "death": "Never threaten a mother's young - the red vixen kills r_c in the skirmish, and carries off the body to feed her litter.",
-            "injury": "The mother red fox's snapping jaws leave r_c dripping blood onto the leaf litter, and barely able to escape further injury.",
-            "stat_injury": "s_c is determined to win, but the red vixen is determined to live, and that makes all the difference. s_c ends up pinned in a defensible hiding spot, bleeding and terrified, until the vixen judges them no longer a threat and continues on her way."
+            "death": "Never threaten a mother's young - the Ninetales kills r_c in the skirmish, and carries off the body to feed her litter.",
+            "injury": "The mother Ninetales snapping jaws leave r_c dripping blood onto the leaf litter, and barely able to escape further injury.",
+            "stat_injury": "s_c is determined to win, but the Ninetales is determined to live, and that makes all the difference. s_c ends up pinned in a defensible hiding spot, bleeding and terrified, until the Ninetales judges them no longer a threat and continues on her way."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1318,9 +1318,9 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a solo fight with a vixen.",
-            "reg_death": "m_c fell in a solo battle with a vixen.",
-            "lead_death": "died while fighting a vixen"
+            "scar": "m_c carries a scar from a solo fight with a Ninetales.",
+            "reg_death": "m_c fell in a solo battle with a Ninetales.",
+            "lead_death": "died while fighting a Ninetales"
         }
     },
     {
@@ -1337,21 +1337,21 @@
             "scar",
             "LEFTEAR"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 60,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "The stocky gray vixen they track down smells of milk, and though she's nearly double the weight of any of the patrol and all of it muscle, they meet her eyes squarely, and leap to attack. c_n does not tolerate sharing their territory with foxes, and they work together to drive her off.",
-            "unscathed_rare": "Your patrol drives away the gray fox, seeks out her den, and kills her young cubs. It's brutal, but these fluffy small foxes would one day have grown to be kit-killers and thieves. Better to deal with them now than when they're the height and nearly double the weight of a cat, though a gray fox will always be easier than a bigger red one.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen out of the territory almost by {PRONOUN/s_c/self}. Now neither the gray fox nor her cubs pose a threat to the Clan. It places s_c as one of c_n's most talented and skillful fighters, a gray fox is a dangerous competitor.",
-            "stat_trait": "The patrol overcomes the gray vixen they find and drives her off thanks to a brilliant battle move by s_c. The 'Twos swirl around s_c afterwards, congratulating them on their bravery and skill."
+            "unscathed_common": "The stocky Vulpix they track down smells of milk, and though she's nearly double the weight of any of the patrol and all of it muscle, they meet her eyes squarely, and leap to attack. c_n does not tolerate sharing their territory with Vulpix and Ninetales, and they work together to drive her off.",
+            "unscathed_rare": "Your patrol drives away the Vulpix, seeks out her den, and kills her young cubs. It's brutal, but these fluffy small Vulpix would one day have grown to be kit-killers and thieves. Better to deal with them now than when they're the height and nearly double the weight of a Mew, though a Vulpix will always be easier than a Ninetales.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Vulpix out of the territory almost by {PRONOUN/s_c/self}. Now neither the Vulpix nor her cubs pose a threat to the Clan. It places s_c as one of c_n's most talented and skillful fighters, a Vulpix is a dangerous competitor.",
+            "stat_trait": "The patrol overcomes the Vulpix they find and drives her off thanks to a brilliant battle move by s_c. The 'Twos swirl around s_c afterwards, congratulating them on their bravery and skill."
         },
         "fail_text": {
-            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises the 'Twos. This round goes to the gray fox.",
-            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees further into the forest.",
-            "injury": "The patrol finds a stocky gray vixen wandering their forest, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
-            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
+            "unscathed_common": "The patrol comes across a Vulpix at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises the 'Twos. This round goes to the Vulpix.",
+            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the Vulpix slips past them and flees further into the forest.",
+            "injury": "The patrol finds a stocky Vulpix wandering their forest, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
+            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky Vulpix is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1375,7 +1375,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Vulpix fight."
         }
     },
     {
@@ -1390,21 +1390,21 @@
             "rel_patrol",
             "patrol_to_r_c"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "Led by p_l, and with a heap of cooperation and teamwork, the patrol drives away the gray fox, seeks out her den, and kills her growing cubs. The forest will be safe from both the competition the vixen posed this season, and the threat her cubs would've given c_n in the seasons to come.",
-            "unscathed_rare": "With so many 'Twos working together in tight coordination, they're able to keep the gray vixen they find pinned and distracted as they wear her down. The fox eventually flees for her den, and the patrol follows to take care of the cubs she's raising.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen out of the territory almost by {PRONOUN/s_c/self}. Now neither the gray fox nor her cubs pose a threat to the Clan. It places s_c as one of c_n's most talented and skillful fighters, a gray fox is a dangerous competitor.",
-            "stat_trait": "Bravely, s_c charges the gray fox, yowling threats. The vixen spooks and skitters up a tree, growling and barking in a squeaky tone, and s_c follows her up into the branches. As the rest of the patrol backs them up from the ground, s_c screams until the fox is cowering and afraid, then lets her flee."
+            "unscathed_common": "Led by p_l, and with a heap of cooperation and teamwork, the patrol drives away the Vulpix, seeks out her den, and kills her growing cubs. The forest will be safe from both the competition the vixen posed this season, and the threat her cubs would've given c_n in the seasons to come.",
+            "unscathed_rare": "With so many 'Twos working together in tight coordination, they're able to keep the Vulpix they find pinned and distracted as they wear her down. The Vulpix eventually flees for her den, and the patrol follows to take care of the cubs she's raising.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Vulpix out of the territory almost by {PRONOUN/s_c/self}. Now neither the Vulpix nor her cubs pose a threat to the Clan. It places s_c as one of c_n's most talented and skillful fighters, a Vulpix is a dangerous competitor.",
+            "stat_trait": "Bravely, s_c charges the Vulpix, yowling threats. The vixen spooks and skitters up a tree, growling and barking in a squeaky tone, and s_c follows her up into the branches. As the rest of the patrol backs them up from the ground, s_c screams until the Vulpix is cowering and afraid, then lets her flee."
         },
         "fail_text": {
-            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises the 'Twos. This round goes to the gray fox.",
-            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees further into the forest.",
-            "injury": "The patrol finds a stocky gray vixen wandering their forest, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
-            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
+            "unscathed_common": "The patrol comes across a Vulpix at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises the 'Twos. This round goes to the Vulpix.",
+            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the Vulpix slips past them and flees further into the forest.",
+            "injury": "The patrol finds a stocky Vulpix wandering their forest, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
+            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky Vulpix is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1428,7 +1428,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a fox fight."
+            "scar": "m_c carries a scar from a Vulpix fight."
         }
     },
     {
@@ -1444,20 +1444,20 @@
             "trust",
             "clan_to_patrol"
         ],
-        "intro_text": "Your patrol catches the scent of a fox - but is it red, or gray?",
+        "intro_text": "Your patrol catches the scent of a fox - but is it Ninetales, or Vulpix?",
         "decline_text": "Your patrol decides not to pursue the fox.",
         "chance_of_success": 40,
         "exp": 50,
         "success_text": {
-            "unscathed_common": "r_c finds a gray vixen smelling of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
-            "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of the forest all by {PRONOUN/s_c/self}. Now neither the gray fox nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "unscathed_common": "r_c finds a Vulpix smelling of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
+            "stat_skill": "s_c displays incredible skill, driving the mother Vulpix and her brood out of the forest all by {PRONOUN/s_c/self}. Now neither the Vulpix nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the Vulpix has on them, and the stand off is resolved when s_c charges the Vulpix and she chooses flight over fight."
         },
         "fail_text": {
-            "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises r_c. This round goes to the gray fox.",
-            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees further into the forest.",
-            "injury": "r_c nearly managed to pin the gray vixen they found into a thorn ticket, but snapping jaws leave r_c dripping blood onto the leaf litter. Today this round goes to the gray fox.",
-            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is cunning, sinking her teeth into s_c to distract them as she flees."
+            "unscathed_common": "r_c comes across a Vulpix at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling into the trees in a move that completely surprises r_c. This round goes to the Vulpix.",
+            "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the Vulpix slips past them and flees further into the forest.",
+            "injury": "r_c nearly managed to pin the Vulpix they found into a thorn ticket, but snapping jaws leave r_c dripping blood onto the leaf litter. Today this round goes to the Vulpix.",
+            "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky Vulpix is cunning, sinking her teeth into s_c to distract them as she flees."
         },
         "win_skills": [
             "FIGHTER,3"
@@ -1481,7 +1481,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from a solo fight with a vixen."
+            "scar": "m_c carries a scar from a solo fight with a Vulpix."
         }
     },
     {
@@ -1493,15 +1493,15 @@
             "no_app",
             "medium_prey"
         ],
-        "intro_text": "r_c catches scent of a mouse nearby, and feels themselves drool at the idea of greenleaf fresh-kill. It's a great day for hunting, too, greenleaf bringing life to c_n's woods.",
-        "decline_text": "Your patrol ignores the mouse.",
+        "intro_text": "r_c catches scent of a Pikachu nearby, and feels themselves drool at the idea of greenleaf fresh-kill. It's a great day for hunting, too, greenleaf bringing life to c_n's woods.",
+        "decline_text": "Your patrol ignores the Pikachu.",
         "success_text": {
-            "unscathed_common": "r_c locates the mouse and begins to stalk. The mouse nibbles on a seed, unaware of the hunting cat. r_c waggles their haunches and leaps, pinning the mouse beneath a paw as they make the killing bite.",
-            "unscathed_rare": "r_c pinpoints the location of the prey and begins creeping forward. They're almost within pouncing distance when the mouse suddenly bolts. With a lash of their tail, r_c leaps after the mouse, barely snagging it before it reaches a burrow. They purr in satisfaction as prey-blood hits their tongue.",
-            "stat_skill": "s_c immediately drops into a practised crouch, shimmying flawlessly along the ground and taking the perfectly plump mouse completely by surprise."
+            "unscathed_common": "r_c locates the Pikachu and begins to stalk. The Pikachu nibbles on a seed, unaware of the hunting cat. r_c waggles their haunches and leaps, pinning the Pikachu beneath a paw as they make the killing bite.",
+            "unscathed_rare": "r_c pinpoints the location of the prey and begins creeping forward. They're almost within pouncing distance when the Pikachu suddenly bolts. With a lash of their tail, r_c leaps after the Pikachu, barely snagging it before it reaches a burrow. They purr in satisfaction as prey-blood hits their tongue.",
+            "stat_skill": "s_c immediately drops into a practised crouch, shimmying flawlessly along the ground and taking the perfectly plump Pikachu completely by surprise."
         },
         "fail_text": {
-            "unscathed_common": "r_c narrowly misses the mouse."
+            "unscathed_common": "r_c narrowly misses the Pikachu."
         },
         "chance_of_success": 60,
         "exp": 10,
@@ -1522,16 +1522,16 @@
             "apprentice",
             "medium_prey"
         ],
-        "intro_text": "app1 catches scent of a mouse nearby. Surely greenleaf is the perfect time to try solo-hunting, everyone always says that this is when the prey wanders right into a cat's jaws.",
-        "decline_text": "Your patrol ignores the mouse.",
+        "intro_text": "app1 catches scent of a Pikachu nearby. Surely greenleaf is the perfect time to try solo-hunting, everyone always says that this is when the prey wanders right into a 'Twos jaws.",
+        "decline_text": "Your patrol ignores the Pikachu.",
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "r_c pounces on the mouse, with a squeak of surprise from both prey and apprentice.",
-            "unscathed_rare": "app1 leaps onto the mouse, an easy kill! They're really getting the hang of hunting!"
+            "unscathed_common": "r_c pounces on the Pikachu, with a squeak of surprise from both prey and apprentice.",
+            "unscathed_rare": "app1 leaps onto the Pikachu, an easy kill! They're really getting the hang of hunting!"
         },
         "fail_text": {
-            "unscathed_common": "Your patrol narrowly misses the mouse."
+            "unscathed_common": "Your patrol narrowly misses the Pikachu."
         },
         "min_'Twos": 1,
         "max_'Twos": 1,
