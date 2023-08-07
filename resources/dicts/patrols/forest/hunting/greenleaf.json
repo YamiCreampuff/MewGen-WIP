@@ -383,7 +383,7 @@
         "success_text": {
             "unscathed_common": "r_c seems confused when they come trotting up, responding to p_l's yowls. They thought this was the hunting spot? Situation solved, p_l decides it may as well be, and the patrol disperses to do their actual job. It doesn't turn out to be a particularly bountiful corner of the woods though.",
             "unscathed_rare": "The patrol backtracks and finds r_c at the bottom of a precarious looking embankment, but are encouraged to join them - r_c has found a fallen Swellow's nest, and needs help carting the delicious nestlings back to camp.",
-            "stat_trait": "It's not ideal. s_c apologises - they were too caught up in assessing the prey levels in the clearing, and hadn't realised the patrol couldn't see them. Still, everything is smoothed over nicely and the 'Twos bring home a successful prize of seed-fattened Taillow."
+            "stat_trait": "It's not ideal. s_c apologises - they were too caught up in assessing the prey levels in the clearing, and hadn't realised the patrol couldn't see them. Still, everything is smoothed over nicely and the 'Twos bring home a successful prize of some seed-fattened Taillow."
         },
         "fail_text": {
             "unscathed_common": "The patrol finds where r_c has wandered off to, but it takes too much time, and no one accomplishes much of anything. There's a lot of grumbling as the 'Twos return home.",
@@ -416,14 +416,14 @@
             "medium_prey",
             "no_app"
         ],
-        "intro_text": "p_l hunts near the stream, hoping for an easy hunt to get out of the heat. Their eyes lock onto a large rat drinking from the stream.",
+        "intro_text": "p_l hunts near the stream, hoping for an easy hunt to get out of the heat. Their eyes lock onto a large Electrike drinking from the stream.",
         "success_text": {
-            "unscathed_common": "p_l carefully stalks towards the rat. They pounce onto the edge of the stream, drowning the rat with their paws. p_l, happy with a job well done, takes a well deserved nap in the shade."
+            "unscathed_common": "p_l carefully stalks towards the Electrike. They pounce onto the edge of the stream, drowning the Electrike with their paws. p_l, happy with a job well done, takes a well deserved nap in the shade."
         },
         "fail_text": {
-            "unscathed_common": "p_l lunges after the rat, but the rat quickly skitters away! p_l lands in the stream and gets a faceful of water for their trouble."
+            "unscathed_common": "p_l lunges after the Electrike, but the Electrike quickly skitters away! p_l lands in the stream and gets a faceful of water for their trouble."
         },
-        "decline_text": "One rat? p_l could do way better than just a single rat in greenleaf. They continue on to find more suitable prey.",
+        "decline_text": "One Electrike? p_l could do way better than just a single Electrike in greenleaf. They continue on to find more suitable prey.",
         "chance_of_success": 60,
         "exp": 20,
         "min_'Twos": 1,
@@ -440,14 +440,14 @@
             "medium_prey",
             "apprentice"
         ],
-        "intro_text": "p_l hides themself in a clump of ferns, keeping as far away from the sweltering greenleaf heat as they can. Their ears perk at the soft hiss. Seems someone else had the same idea.",
+        "intro_text": "p_l hides themself in a clump of ferns, keeping as far away from the sweltering greenleaf heat as they can. Their ears perk at the soft growl. Seems someone else had the same idea.",
         "success_text": {
-            "unscathed_common": "p_l quickly switches to a proper hunting crouch and pounces at the hissing stranger. It was a rat! A quick bite is enough to end the battle. app1 spends the rest of their time dozing in the shade."
+            "unscathed_common": "p_l quickly switches to a proper hunting crouch and pounces at the growling stranger. It was a Electrike! A quick bite is enough to end the battle. app1 spends the rest of their time dozing in the shade."
         },
         "fail_text": {
-            "unscathed_common": "p_l can't resist the shady spot, and ignores the hiss for a lovely nap. They'll figure out how to explain it to their mentor later."
+            "unscathed_common": "p_l can't resist the shady spot, and ignores the growl for a lovely nap. They'll figure out how to explain it to their mentor later."
         },
-        "decline_text": "p_l decides that one rat isn't worth missing out on some fun! They instead chase after leaves for the rest of the hunting patrol.",
+        "decline_text": "p_l decides that one Electrike isn't worth missing out on some fun! They instead chase after leaves for the rest of the hunting patrol.",
         "chance_of_success": 60,
         "exp": 20,
         "min_'Twos": 1,
@@ -465,12 +465,12 @@
             "apprentice",
             "warrior"
         ],
-        "intro_text": "p_l and app1 walk in the patches of shade, eager to leave the greenleaf sun to the plants. p_l's nose twitches at rat scent near the stream-stones, seeing two of them attempt to cross.",
+        "intro_text": "p_l and app1 walk in the patches of shade, eager to leave the greenleaf sun to the plants. p_l's nose twitches at Electrike scent near the stream-stones, seeing two of them attempt to cross.",
         "success_text": {
-            "unscathed_common": "p_l and app1 make the hunt quick. Dashing towards the stones, they leap, one after the other, towards the rats, and catch them before they can escape! They spend the rest of the afternoon cooling off in the stream."
+            "unscathed_common": "p_l and app1 make the hunt quick. Dashing towards the stones, they leap, one after the other, towards the Electrike, and catch them before they can escape! They spend the rest of the afternoon cooling off in the stream."
         },
         "fail_text": {
-            "unscathed_common": "app1 and p_l attempt to dash after the rats, but the slippery stones only force them into the water. The two shake off their wet fur, arguing over whose mouse-brained plan this was in the first place."
+            "unscathed_common": "app1 and p_l attempt to dash after the Electrike, but the slippery stones only force them into the water. The two shake off their wet fur, arguing over whose mouse-brained plan this was in the first place."
         },
         "decline_text": "Running water is always a dangerous threat to 'Twos. p_l takes app1 somewhere else to hunt.",
         "chance_of_success": 60,
