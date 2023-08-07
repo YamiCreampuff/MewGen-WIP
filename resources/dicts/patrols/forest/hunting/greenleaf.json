@@ -601,17 +601,17 @@
             "comfort",
             "medium_prey"
         ],
-        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A little lizard!",
-        "decline_text": "Startled by the lizard, the patrol watches it scurry away.",
+        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A little Kecleon!",
+        "decline_text": "Startled by the Kecleon's pattern, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "r_c pounces on the little creature! The nice mouthful is a great start to what turns into a decent hunting patrol, the cicadas buzzing as the canopy shields your cats from the sun.",
-            "unscathed_rare": "The lizard drops its tail, and r_c dives for it, while p_l pounces for the lizard. Surely this counts for two catches? Neither of them cares much, and it's a happy afternoon hunting together.",
-            "stat_skill": "s_c is basically on top of the skittering lizard, and ends up doing a ridiculous hop to come down on it with claws extended. r_c compliments them on the catch with a laugh in their meow, and s_c has to agree with them, purring with amusement."
+            "unscathed_common": "r_c pounces on the creature! The nice mouthful is a great start to what turns into a decent hunting patrol, the Nincada's buzzing as the canopy shields your 'twos from the sun.",
+            "unscathed_rare": "The Kecleon drops its tail, and r_c dives for it, while p_l pounces for the Kecleon. Surely this counts for two catches? Neither of them cares much, and it's a happy afternoon hunting together.",
+            "stat_skill": "s_c is basically on top of the skittering Kecleon, and ends up doing a ridiculous hop to come down on it with claws extended. r_c compliments them on the catch with a laugh in their meow, and s_c has to agree with them, purring with amusement."
         },
         "fail_text": {
-            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little lizard lives another day.",
+            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little Kecleon lives another day.",
             "unscathed_stat": "r_c and p_l go for the prey at the same time, bonking their heads together. Not a bad collision, and both of them are mature enough to let it go, but neither is pleased to have missed an easy catch."
         },
         "win_skills": [
@@ -636,8 +636,8 @@
             "apprentice",
             "no_fail_prey"
         ],
-        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A little lizard!",
-        "decline_text": "Startled by the lizard, the patrol watches it scurry away.",
+        "intro_text": "Something skitters across the grass, catching the patrol's eyes. A purple Kecleon!",
+        "decline_text": "Startled by the Kecleon's odd colouration, the patrol watches it scurry away.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
@@ -645,7 +645,7 @@
             "unscathed_rare": "app1 and app2 go for the prey at the same time, bonking their heads together. It makes both of them laugh while apologizing, and they don't leave each other's side for the rest of the patrol, apologies turning to chatting turning to whispered conversations."
         },
         "fail_text": {
-            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little lizard lives another day."
+            "unscathed_common": "The patrol is unable to catch the small reptile quick enough and the little Kecleon lives another day."
         },
         "win_skills": [],
         "min_cats": 2,
