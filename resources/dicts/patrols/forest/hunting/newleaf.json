@@ -160,7 +160,7 @@
         ],
         "intro_text": "Your patrol comes across a Treecko. It's engrossed in nibbling at a morsel beneath a tree.",
         "success_text": {
-            "unscathed_common": "Stealthily, r_c stalks forward. The Treecko has no idea what's coming as the 'Two pounces on it and breaks its neck. r_c sends a silent thanks to StarClan for this prey.",
+            "unscathed_common": "Stealthily, r_c stalks forward. The Treecko has no idea what's coming as the 'Two pounces on it and breaks its neck. r_c sends a silent thanks to Arceus for this prey.",
             "unscathed_rare": "r_c rapidly pads towards the Treecko, {PRONOUN/r_c/poss} tailtip twitching in excitement. The Treecko is alerted to {PRONOUN/r_c/poss} presence with a Grovyle's alarm call, but r_c launches {PRONOUN/r_c/self} forward and cuts off its escape with a bite to the back of the head."
         },
         "fail_text": {
@@ -515,7 +515,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
@@ -575,7 +575,7 @@
         "chance_of_success": 20,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller but heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until s_c lands a crucial blow, snapping a tendon in one of the fox's hind legs. The fox runs, but there's no way it'll live long with such a crippling injury.",
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
@@ -635,7 +635,7 @@
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to Arceus, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the fawn carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fawn."
         },
@@ -698,7 +698,7 @@
         "chance_of_success": 70,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "The cats are only just smaller and outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "The cats are only just smaller and outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the gray fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and it's snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
@@ -754,7 +754,7 @@
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are only just smaller and heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are only just smaller and heavily outnumber the fox, and it's a prize they're willing to fight for. With a prayer to Arceus they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until s_c lands a crucial blow, snapping a tendon in one of the fox's hind legs. The fox runs, but there's no way it'll live long with such a crippling injury.",
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
@@ -809,7 +809,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c may be smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to Arceus, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already stuffed full of venison and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} {VERB/s_c/pounce/pounces} onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the forest until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/object} the fawn carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fawn."
         },
@@ -1636,7 +1636,7 @@
         "decline_text": "Nope, nope going out in this weather is a bad idea.",
         "success_text": {
             "unscathed_common": "The branches of the pine are slippery with rain, but the bark is rough and steady under r_c's paws. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} only able to pick up two eggs, with a third smashing in {PRONOUN/r_c/poss} jaws as {PRONOUN/r_c/subject} almost fall and recover {PRONOUN/r_c/poss} balance with {PRONOUN/r_c/poss} tail swinging wildly. Still, that's two more than the Clan started the day with.",
-            "unscathed_rare": "r_c finds a nest that the weather has blown out of the tree and takes it as a sign from StarClan. Thanking {PRONOUN/r_c/poss} ancestors for the food of the unbroken eggs within, {PRONOUN/r_c/subject} also {VERB/r_c/murmur/murmurs} thanks for the warning, and {VERB/r_c/return/returns} back to camp, pelt prickling with the thought that {PRONOUN/r_c/subject} might have just as easily been blown out of the treetops as this nest was.",
+            "unscathed_rare": "r_c finds a nest that the weather has blown out of the tree and takes it as a sign from Arceus. Thanking {PRONOUN/r_c/poss} ancestors for the food of the unbroken eggs within, {PRONOUN/r_c/subject} also {VERB/r_c/murmur/murmurs} thanks for the warning, and {VERB/r_c/return/returns} back to camp, pelt prickling with the thought that {PRONOUN/r_c/subject} might have just as easily been blown out of the treetops as this nest was.",
             "stat_skill": "Keeping {PRONOUN/s_c/poss} balance and nerve on branches slicked down with pouring rain requires all of s_c's skill and experience, and {PRONOUN/s_c/subject} {VERB/s_c/return/returns} to camp with eggs, yes, but also with a pelt fluffed out with stress and fright.",
             "stat_trait": "s_c wanders out into the territory to search, but the driving rain and the rustle of the wind through the branches is too much, too obvious a danger, and {PRONOUN/s_c/subject} {VERB/s_c/return/returns} back to camp empty-pawed."
         },
@@ -1804,9 +1804,9 @@
         "fail_text": {
             "unscathed_common": "Step one, find nests, has conclusively failed. At least {PRONOUN/app1/subject}{VERB/app1/'re/'s} alone though - app1 trips over a branch on the forest floor as {PRONOUN/app1/subject} walk with {PRONOUN/app1/poss} eyes pinned skyward, and {PRONOUN/app1/subject}{VERB/app1/'re/'s} grateful no one was here to see it.",
             "unscathed_stat": "It doesn't take long to find a nest, positioned high in the crook between two thin branches of a hazelnut tree. But app1 is confident {PRONOUN/s_c/subject} can safely make that climb! {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} rather less confident once up so high in the air, and eventually {PRONOUN/s_c/subject} {VERB/s_c/retreat/retreats}, shaking.",
-            "death": "Going out by {PRONOUN/app1/self} makes everything much harder, and instead of fishing eggs out, app1 accidentally knocks {PRONOUN/app1/poss} target nest and {PRONOUN/app1/self} out of the tree. {PRONOUN/app1/subject/CAP} {VERB/app1/wake/wakes} up in StarClan, confused and with the lingering sensation of falling.",
+            "death": "Going out by {PRONOUN/app1/self} makes everything much harder, and instead of fishing eggs out, app1 accidentally knocks {PRONOUN/app1/poss} target nest and {PRONOUN/app1/self} out of the tree. {PRONOUN/app1/subject/CAP} {VERB/app1/wake/wakes} up in Arceus, confused and with the lingering sensation of falling.",
             "injury": "Going out by {PRONOUN/app1/self} makes everything much harder, and instead of fishing eggs out, app1 accidentally knocks {PRONOUN/app1/poss} target nest and {PRONOUN/app1/self} out of the tree. {PRONOUN/app1/subject/CAP} {VERB/app1/hit/hits} the ground hard, hearing the crack of something breaking.",
-            "stat_death": "It doesn't take long to find a nest, positioned high in the crook between two thin branches of a hazelnut tree. But app1 is confident {PRONOUN/s_c/subject} can safely make that climb! {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} rather less confident once up so high in the air, and {PRONOUN/s_c/poss} claws slip, sending {PRONOUN/app1/object} plummeting earthwards, where StarClan awaits.",
+            "stat_death": "It doesn't take long to find a nest, positioned high in the crook between two thin branches of a hazelnut tree. But app1 is confident {PRONOUN/s_c/subject} can safely make that climb! {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} rather less confident once up so high in the air, and {PRONOUN/s_c/poss} claws slip, sending {PRONOUN/app1/object} plummeting earthwards, where Arceus awaits.",
             "stat_injury": "It doesn't take long to find a nest, positioned high in the crook between two thin branches of a hazelnut tree. But app1 is confident {PRONOUN/s_c/subject} can safely make that climb! {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} rather less confident once up so high in the air, and {PRONOUN/s_c/poss} claws slip, sending {PRONOUN/app1/object} plummeting earthwards."
         },
         "chance_of_success": 30,

@@ -132,7 +132,7 @@
         "antagonize_fail_text": null
     },
     {
-        "patrol_id": "fst_hunt_twolegplace1",
+        "patrol_id": "fst_hunt_humanplace1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -157,7 +157,7 @@
         "antagonize_fail_text": "The Trainers wandering around are surprised by the patrol and chase the 'Twos, spouting something about a 'Dex' and 'catching'."
     },
     {
-        "patrol_id": "fst_hunt_twolegplace2",
+        "patrol_id": "fst_hunt_humanplace2",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -179,10 +179,10 @@
         "min_cats": 4,
         "max_cats": 6,
         "antagonize_text": "Finding a Trainer wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
-        "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the 'Twos for fun."
+        "antagonize_fail_text": "The human kits wandering around are unimpressed by the patrol and chase the 'Twos for fun."
     },
     {
-        "patrol_id": "fst_hunt_squirrelchase1",
+        "patrol_id": "fst_hunt_plusleminunchase1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -303,7 +303,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl1",
+        "patrol_id": "fst_hunt_mightyenahowl1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -361,7 +361,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl2",
+        "patrol_id": "fst_hunt_absol1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -419,7 +419,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl3",
+        "patrol_id": "fst_hunt_sableye1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -472,7 +472,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl4",
+        "patrol_id": "fst_hunt_houndoom1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -530,7 +530,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl5",
+        "patrol_id": "fst_hunt_zangoose1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -583,7 +583,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_howl6",
+        "patrol_id": "fst_hunt_seviper1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1180,7 +1180,7 @@
         "max_cats": 6
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegden1",
+        "patrol_id": "fst_hunt_gonehumanden1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1235,7 +1235,7 @@
         "max_cats": 1
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegden2",
+        "patrol_id": "fst_hunt_gonehumanden2",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1287,7 +1287,7 @@
         "max_cats": 1
     },
     {
-        "patrol_id": "fst_hunt_twolegdencatdare1",
+        "patrol_id": "fst_hunt_humandencatdare1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1307,7 +1307,7 @@
         "success_text": {
             "unscathed_common": "They're interrupted by Trainers wandering through the woods a couple times, but it's a successful hunt.",
             "unscathed_rare": "A friendly Ranger makes a psspsspss noise, and pours Pokechow on the ground for r_c. They fetch p_l, and both 'Twos investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
-            "stat_skill": "s_c shows the other 'Two all around the outskirts of the Twoleg dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
+            "stat_skill": "s_c shows the other 'Two all around the outskirts of the human dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
             "stat_trait": "It's a strange adventure, odd and weird and a little thrilling. s_c takes the lead, but both s_c and r_c are wide eyed and a little scared, in a fun way."
         },
         "fail_text": {
@@ -1343,7 +1343,7 @@
         "max_cats": 2
     },
     {
-        "patrol_id": "fst_hunt_twolegdenappdare1",
+        "patrol_id": "fst_hunt_humandenappdare1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1370,7 +1370,7 @@
         "fail_text": {
             "unscathed_common": "Carelessly, app2 is seen by Rangers, and is taken hissing and spitting to be locked in a hastily put together box. Overnight, they hear app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses their pelt against app1 as they pad home.",
             "unscathed_stat": "A little carelessly, s_c jumps a fence to hunt in a den's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "death": "Carelessly, app1 is seen by Twolegs, and taken from c_n."
+            "death": "Carelessly, app1 is seen by humans, and taken from c_n."
         },
         "win_trait": [
             "calm",
@@ -1397,7 +1397,7 @@
         "max_cats": 2
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegtrap1",
+        "patrol_id": "fst_hunt_gonehumantrap1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1442,7 +1442,7 @@
         "max_cats": 1
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegtrap2",
+        "patrol_id": "fst_hunt_gonehumantrap2",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1487,7 +1487,7 @@
         "max_cats": 6
     },
     {
-        "patrol_id": "fst_hunt_thunderpath1",
+        "patrol_id": "fst_hunt_road1",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1538,7 +1538,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_thunderpath2",
+        "patrol_id": "fst_hunt_road2",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1590,7 +1590,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_thunderpath3",
+        "patrol_id": "fst_hunt_road3",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1643,7 +1643,7 @@
         }
     },
     {
-        "patrol_id": "fst_hunt_thunderpath4",
+        "patrol_id": "fst_hunt_road4",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1830,7 +1830,7 @@
         "max_cats": 3
     },
     {
-        "patrol_id": "fst_hunt_lillizard2",
+        "patrol_id": "fst_hunt_kecleon2",
         "biome": "forest",
         "season": "Any",
         "tags": [
@@ -1858,7 +1858,7 @@
         "max_cats": 3
     },
     {
-        "patrol_id": "fst_hunt_vole1",
+        "patrol_id": "fst_hunt_wynaut1",
         "biome": "forest",
         "season": "Any",
         "tags": [
