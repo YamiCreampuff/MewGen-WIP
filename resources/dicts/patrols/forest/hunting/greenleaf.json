@@ -494,14 +494,14 @@
             "large_prey2",
             "battle_injury"
         ],
-        "intro_text": "p_l leads the patrol towards the abandoned Twoleg nest, listening to r_c's plan. Rats were seen hiding inside to protect themselves from the sweltering heat. Perhaps it would be a perfect hunting spot?",
+        "intro_text": "p_l leads the patrol towards the abandoned Human nest, listening to r_c's plan. Pikachu were seen hiding inside to protect themselves from the sweltering heat. Perhaps it would be a perfect hunting spot?",
         "success_text": {
-            "unscathed_common": "r_c leads the patrol towards the nest, pushing past the rotting wood blocking the entrance. The patrol gets to work rounding up and piling up the rats, and by nightfall they have so much it takes two trips to bring them back! r_c is congratulated for their ingenious plan.",
-            "unscathed_rare": "r_c leads the patrol towards the nest, and they quickly get to work hunting down the rats cornered near the smooth stones. It's a tough fight, with rats attempting to flee or attack the patrol, but in the end the patrol manages to get a hefty pile of prey for c_n."
+            "unscathed_common": "r_c leads the patrol towards the nest, pushing past the rotting wood blocking the entrance. The patrol gets to work rounding up and piling up the Pikachu, and by nightfall they have so much it takes two trips to bring them back! r_c is congratulated for their ingenious plan.",
+            "unscathed_rare": "r_c leads the patrol towards the nest, and they quickly get to work hunting down the Pikachu cornered near the smooth stones. It's a tough fight, with Pikachu attempting to flee or attack the patrol, but in the end the patrol manages to get a hefty pile of prey for c_n."
         },
         "fail_text": {
-            "unscathed_common": "r_c leads the 'Twos to the abandoned Twoleg nest, but as the 'Twos search and search, all they can find are abandoned rats nests. r_c is scolded for wasting the patrol's valuable time.",
-            "injury": "r_c leads the 'Twos to the abandoned Twoleg nest, but the rats seemed to be more lively than they thought. A harsh battle forces the patrol to retreat, r_c being the most harshly wounded."
+            "unscathed_common": "r_c leads the 'Twos to the abandoned Human nest, but as the 'Twos search and search, all they can find are abandoned Pikachu nests. r_c is scolded for wasting the patrol's valuable time.",
+            "injury": "r_c leads the 'Twos to the abandoned Human nest, but the Pikachu seemed to be more lively than they thought. A harsh battle forces the patrol to retreat, r_c being the most harshly wounded."
         },
         "decline_text": "The other 'Twos disagree with such a risk, and resume their normal hunting patrol.",
         "chance_of_success": 50,
@@ -514,7 +514,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c carries a scar from fighting a swarm of rats."
+            "scar": "m_c carries a scar from fighting a swarm of Pikachu."
         }
     },
     {
@@ -529,19 +529,19 @@
             "rat_bite",
             "injure_all"
         ],
-        "intro_text": "A legend has been sighted. Recently, warriors report a strange mass of rats stuck together by their tails, larger and more dangerous than anything the Clan has seen. Will p_l's patrol look for this legendary monster?",
+        "intro_text": "A legend has been sighted. Recently, warriors report a strange Red and Blue beast roaming around the forests. The 'Twos have no clue what kind of Pokemon this Beast could be other than it being larger and more dangerous than anything the Clan has heard of. Will p_l's patrol look for these legendary monsters?",
         "decline_text": "No. Such a thing can't exist, right? It has to be an elder's imagination. p_l decides to take their patrol elsewhere to hunt.",
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "The rat king's lair is defended heavily by smaller rats. While the patrol doesn't find any sign of the rat king, they manage to defeat and being back a feast of small rats.",
-            "unscathed_rare": "The rats defending the rat king's lair are more numerous than they thought. The patrol catches whatever rats they can, but p_l swears that they saw it - multiple eyes glowing in the dark, watching them.",
-            "stat_skill": "The waves of rats overwhelm the rest of the patrol, but s_c can see the rat king writhing within its nest. They bolt away from the others, trusting their claws to take on the legend. It dies with a horrible shriek, as the rest of the patrol watch in awe."
+            "unscathed_common": "The Red and Blue Beasts lair is defended heavily by a pack of Bagon. While the patrol doesn't find any sign of the Beasts, they manage to defeat and being back a feast of Bagon.",
+            "unscathed_rare": "The Bagon defending the Beasts lair are more numerous than they thought. The patrol catches whatever Bagon they can, but p_l swears that they saw it - red and gold eyes glowing in the dark, watching them.",
+            "stat_skill": "The waves of Bagon overwhelm the rest of the patrol, but s_c can see the Blue Beast watching them, preparing to fire *something* towards them. They bolt away from the others, trusting their claws to take on the legend. The Blue Beast dies with a horrible shriek, as the rest of the patrol watch in awe."
         },
         "fail_text": {
-            "unscathed_common": "There are more rats defending the rat king's lair than they thought. Fighting off waves of them, the patrol retreats back to the Clan with empty paws.",
-            "injury": "The rat king and their minions overwhelm the patrol, biting into fur and limbs. p_l orders a retreat, and they hope the Clan can heal so many wounded.",
-            "stat_injury": "s_c knows they are one of the Clan's greatest hunters. They spot the rat king and charge into its lair. But the King proves too great a foe for a single cat, and it sends s_c back with wounds to tell their tale."
+            "unscathed_common": "There are more Bagon defending the Beasts lair than they thought. Fighting off waves of them, the patrol retreats back to the Clan with empty paws.",
+            "injury": "The Blue and Red Beast and their minions overwhelm the patrol, biting into fur and limbs. p_l orders a retreat, and they hope the Clan can heal so many wounded.",
+            "stat_injury": "s_c knows they are one of the Clan's greatest hunters. They spot the Blue Beast and charge into its lair. But the Beast proves too great a foe for a single 'Two, and it sends s_c back with wounds to tell their tale."
         },
         "win_skills": [
             "HUNTER,3"
@@ -551,7 +551,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "scar": "m_c was scarred fighting a rat king."
+            "scar": "m_c was scarred fighting a Latias and Latios."
         }
     },
     {
@@ -566,19 +566,19 @@
             "multi_deaths",
             "some_lives"
         ],
-        "intro_text": "A legend has been sighted. Recently, warriors report a strange mass of rats stuck together by their tails, larger and more dangerous than anything the Clan has seen. Will p_l's patrol look for this legendary monster?",
-        "decline_text": "No. Such a thing cant exist, right? It has to be an elder's imagination. p_l decides to take their patrol elsewhere to hunt.",
+        "intro_text": "A legend has been sighted. Recently, warriors report a strange Red and Blue beast roaming around the forests. The 'Twos have no clue what kind of Pokemon this Beast could be other than it being larger and more dangerous than anything the Clan has heard of. Will p_l's patrol look for these legendary monsters?",
+        "decline_text": "No. Such creatures cant exist, right? It has to be an elder's imagination. p_l decides to take their patrol elsewhere to hunt.",
         "chance_of_success": 30,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "The rat king's lair is defended heavily by smaller rats. While the patrol doesn't find any sign of the rat king, they manage to defeat and bring back a feast of small rats.",
-            "unscathed_rare": "The rats defending the rat king's lair are more numerous than they thought. The patrol catches whatever rats they can, but p_l swears that they saw it - multiple eyes glowing in the dark, watching them.",
-            "stat_skill": "The waves of rats overwhelm the rest of the patrol, but s_c can see the rat king writhing within its nest. They bolt away from the others, trusting their claws to take on the legend. It dies with a horrible shriek, as the rest of the patrol watch in awe."
+            "unscathed_common": "The Beasts lair is defended heavily by Bagon. While the patrol doesn't find any sign of the Beasts, they manage to defeat and bring back a feast of small Bagon.",
+            "unscathed_rare": "The Bagon defending the Beasts lair are more numerous than they thought. The patrol catches whatever Bagon they can, but p_l swears that they saw it - red and gold eyes glowing in the dark, watching them.",
+            "stat_skill": "The waves of Bagon overwhelm the rest of the patrol, but s_c can see the Red Beast writhing within its nest, it seems to be protecting something as the Blue Beast prepares to launch its own assault. They bolt away from the others, trusting their claws to take on the legend. The Blue Beast dies with a horrible shriek, as the rest of the patrol watch in awe. When they check on the Red one, its gone."
         },
         "fail_text": {
-            "unscathed_common": "There are more rats defending the rat king's lair than they thought. Fighting off waves of them, the patrol retreats back to the Clan with empty paws.",
-            "death": "The rat king's defenses are too powerful, and as wave upon wave of rats poured down onto the patrol, most of them manage to escape.. but not everyone makes it out.",
-            "stat_death": "s_c knows they are one of the Clan's greatest hunters. They spot the rat king and charge into its lair. But the King proves too great a foe for a single cat, and it kills the would-be kingslayer."
+            "unscathed_common": "There are more Bagon defending the Beasts lair than they thought. Fighting off waves of them, the patrol retreats back to the Clan with empty paws.",
+            "death": "The Beasts defenses are too powerful, and as wave upon wave of Bagon poured down onto the patrol, most of them manage to escape.. but not everyone makes it out.",
+            "stat_death": "s_c knows they are one of the Clan's greatest hunters. They spot the Blue Beast and charge into its lair. But the King proves too great a foe for a single 'Two, and it kills the would-be kingslayer."
         },
         "win_skills": [
             "HUNTER,3"
@@ -588,7 +588,7 @@
         "antagonize_text": null,
         "antagonize_fail_text": null,
         "history_text": {
-            "reg_death": "m_c died from {PRONOUN/m_c/poss} wounds after battling the rat king."
+            "reg_death": "m_c died from {PRONOUN/m_c/poss} wounds after battling a Latios protecting its nest."
         }
     },
     {
