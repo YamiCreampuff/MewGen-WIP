@@ -14,16 +14,16 @@
     {
         "id": "gen_deputy",
         "thoughts": [
-            "Is assigning cats to a border patrol",
-            "Is assigning cats to a hunting patrol",
+            "Is assigning 'Twos to a border patrol",
+            "Is assigning 'Twos to a hunting patrol",
             "Is wondering what it would be like to be a leader",
             "Is stressed about organizing patrols",
             "Wonders who will give {PRONOUN/m_c/object} nine lives",
             "Feels overworked",
             "Is hoping for a break",
-            "Is assigning cats to the dawn patrol",
-            "Is assigning cats to the hunting patrol",
-            "Is assigning cats to patrol the borders",
+            "Is assigning 'Twos to the dawn patrol",
+            "Is assigning 'Twos to the hunting patrol",
+            "Is assigning 'Twos to patrol the borders",
             "Can't believe {PRONOUN/m_c/subject} overslept today",
             "Is unsure of what the rest of the Clan thinks of {PRONOUN/m_c/object} as deputy"
         ]
@@ -62,7 +62,6 @@
         "id": "bloodthirsty_deputy_leader",
         "thoughts": [
             "Thinks about killing the leader and staging it as an accident",
-            "Encourages the leader to start a war"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -74,11 +73,11 @@
     {
         "id": "strange_deputy_to_gen",
         "thoughts": [
-            "Accidentally assigns the same cat to three patrols",
-            "Insists a hunting patrol to only bring back mice",
+            "Accidentally assigns the same 'Two to three patrols",
+            "Insists a hunting patrol to only bring back Pikachu",
             "Goes missing and comes back smelling like garlic",
             "Is making odd noises",
-            "Giggles at the thought of a bird trying to swim"
+            "Giggles at the thought of a Taillow trying to swim"
         ],
         "main_trait_constraint": [
             "strange"
@@ -125,7 +124,7 @@
         "id": "playful_deputy",
         "thoughts": [
             "Is inventing a fun game to make patrol assignments more engaging",
-            "Is amused by the antics of the younger cats",
+            "Is amused by the antics of the younger 'Twos",
             "Finds joy in the simple tasks of a deputy's duty"
         ],
         "main_trait_constraint": [
@@ -135,7 +134,7 @@
     {
         "id": "nervous_deputy",
         "thoughts": [
-            "Is fretting over a recent increase in fox sightings near the camp",
+            "Is fretting over a recent increase in Ninetales sightings near the camp",
             "Feels a twinge of worry about an approaching storm",
             "Is overthinking a recent encounter with a rival Clan"
         ],
@@ -218,7 +217,7 @@
         "id": "teacher_deputy",
         "thoughts": [
             "Is devising an effective teaching strategy for new skills",
-            "Encourages the older cats to share their skills and techniques with the younger generations"
+            "Encourages the older 'Twos to share their skills and techniques with the younger generations"
         ],
         "main_skill_constraint": [
             "TEACHER,1"
@@ -276,7 +275,7 @@
         "thoughts": [
             "Helps a Clanmate get a thorn out of their paw while out on patrol",
             "Feels empathy for a sick Clanmate and is thinking of ways to help",
-            "Is sharing knowledge about basic herbs with the Clan"
+            "Is sharing knowledge about basic herbs and berries with the Clan"
         ],
         "main_skill_constraint": [
             "HEALER,1"
@@ -285,7 +284,7 @@
     {
         "id": "healer_deputy_medcat",
         "thoughts": [
-            "Takes a patrol out to gather herbs for the medicine cat"
+            "Takes a patrol out to gather herbs and berries for the healer"
         ],
         "main_skill_constraint": [
             "HEALER,1"
