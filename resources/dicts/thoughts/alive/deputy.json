@@ -61,7 +61,7 @@
     {
         "id": "bloodthirsty_deputy_leader",
         "thoughts": [
-            "Thinks about killing the leader and staging it as an accident",
+            "Thinks about killing the leader and staging it as an accident"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
