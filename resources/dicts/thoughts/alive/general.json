@@ -20,7 +20,7 @@
             "Is feeling gloomy",
             "Is looking around camp",
             "Is feeling happy!",
-            "Is curious about the other Clans",
+            "Is curious about {PRONOUN/m_c/poss} origins",
             "Is feeling sassy today",
             "Wants to spend time alone today",
             "Is eating some fresh-kill",
@@ -30,25 +30,25 @@
             "Is having a good day",
             "Is having a hard day",
             "Is talking to {PRONOUN/m_c/self}",
-            "Regrets not eating the bird on the fresh-kill pile earlier",
+            "Regrets not eating the Taillow on the fresh-kill pile earlier",
             "Is basking in the sun",
             "Feels a sense of dread",
             "Is feeling unappreciated",
             "Is staring off into space",
             "Is worried others are judging {PRONOUN/m_c/object}",
             "Almost choked on {PRONOUN/m_c/poss} prey",
-            "Is chattering at the birds in the trees above",
+            "Is chattering at the Taillow in the trees above",
             "Was recently caught humming to {PRONOUN/m_c/self}",
             "Had a nightmare involving the rushing river nearby",
-            "Had a nightmare involving a Twoleg trap",
+            "Had a nightmare involving the Human scientists..",
             "Wishes {PRONOUN/m_c/subject} {VERB/m_c/were/was} still in {PRONOUN/m_c/poss} nest sleeping",
-            "Is craving the taste of mouse",
-            "Is craving the taste of rabbit",
-            "Is craving the taste of vole",
-            "Is craving the taste of frog",
-            "Is craving the taste of shrew",
-            "Is craving the taste of bird",
-            "Is craving the taste of fish",
+            "Is craving the taste of Pikachu",
+            "Is craving the taste of Zigzagoon",
+            "Is craving the taste of Wynaut",
+            "Is craving the taste of Lombre",
+            "Is craving the taste of Slakoth",
+            "Is craving the taste of Swellow",
+            "Is craving the taste of Magikarp",
             "Is wondering if {PRONOUN/m_c/subject} would be a good swimmer",
             "Is feeling underappreciated...",
             "Is staring off into space",
@@ -58,16 +58,16 @@
             "Can't wait to take a nap later",
             "Is batting at {PRONOUN/m_c/poss} tail",
             "Wants to visit the elders to hear a story",
-            "Daydreams about being a warrior in LionClan",
-            "Daydreams about being a warrior in TigerClan",
-            "Daydreams about being a warrior in LeopardClan",
-            "Saw a yappy little dog today",
-            "Got startled by a squirrel",
-            "Spends time watching fish in the nearby river",
+            "Daydreams about venturing to the Distortion World",
+            "Daydreams about venturing to Arceus' Domain",
+            "Daydreams about venturing to the place their DNA doner came from",
+            "Saw a yappy little Manectric today",
+            "Got startled by a Treecko",
+            "Spends time watching Feebas in the nearby river",
             "Is batting at a beam of sunlight",
-            "Thinks about StarClan",
-            "Saw a kittypet with the fluffiest fur imaginable today",
-            "Saw a big scary dog today",
+            "Thinks about Arceus",
+            "Saw a Skitty with the fluffiest fur imaginable today",
+            "Saw a big scary Mightyena today",
             "Is looking forward to the next Gathering"
         ],
         "main_status_constraint": [
@@ -85,20 +85,20 @@
     {
         "id": "gen_not_kittypet",
         "thoughts": [
-            "Is thinking about how awful kittypet food must taste",
-            "Is wondering what living with Twolegs must be like",
-            "Saw some kittypets playing with colorful mossballs",
-            "Saw a kittypet sitting calmly next to a dog!",
-            "Almost got lost near some Twoleg nests",
-            "Saw some wandering Twolegs today",
-            "Saw a Twoleg kit playing with a dog",
-            "Saw a Twoleg kit playing with a kittypet",
-            "Saw a kittypet rolling around a Twoleg garden",
-            "Is thinking about a strange Twoleg object they saw recently",
-            "Is wondering what the inside of a Twoleg den looks like",
+            "Is thinking about how awful Pokechow must taste",
+            "Is wondering what living with Humans must be like",
+            "Saw some Shuppet playing with colorful mossballs",
+            "Saw a Delcatty sitting calmly next to a Mightyena!",
+            "Almost got lost near some Human nests",
+            "Saw some wandering Trainers today",
+            "Saw a child playing with a Vulpix",
+            "Saw a Child playing with a Azurill",
+            "Saw a Bellosom rolling around a human garden",
+            "Is thinking about a strange Human object they saw recently",
+            "Is wondering what the inside of a Human den looks like",
             "Is complaining about being sent on dawn patrol",
-            "Is wondering if kittypet life is really so bad",
-            "Saw a pair of Twolegs near camp today!"
+            "Is wondering if having a Human companion is really so bad",
+            "Saw a pair of Hunters near camp today!"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -154,7 +154,7 @@
             "Is proud of r_c's growth",
             "Knows r_c will make a great Clanmate someday",
             "Is playing mossball with r_c",
-            "Watches r_c pretend to hunt a mouse",
+            "Watches r_c pretend to hunt a Pikachu",
             "Catches r_c climbing a bit too high"
         ],
         "main_status_constraint": [
@@ -180,8 +180,8 @@
         "id": "gen_to_alive_med_cat_app",
         "thoughts": [
             "Is grateful to r_c for {PRONOUN/m_c/poss} treatment",
-            "Is in awe of r_c's growth as a medicine cat apprentice",
-            "Thinks r_c will make a good medicine cat",
+            "Is in awe of r_c's growth as a healer apprentice",
+            "Thinks r_c will make a good healer",
             "Has doubts about r_c's abilities",
             "Saw r_c almost use the wrong herbs"
         ],
@@ -235,8 +235,8 @@
         "id": "gen_to_alive_med_cat",
         "thoughts": [
             "Is grateful to r_c for {PRONOUN/m_c/poss} treatment",
-            "Wonders if StarClan has given r_c any prophecies lately",
-            "Chats with r_c about what it's like to be a medicine cat"
+            "Wonders if Arceus has given r_c any prophecies lately",
+            "Chats with r_c about what it's like to be a healer"
         ],
         "main_status_constraint": [
             "kitten",
@@ -469,7 +469,7 @@
         "thoughts": [
             "Is listening to stories about r_c",
             "Is hoping r_c will guide {PRONOUN/m_c/object}",
-            "Is wondering if r_c is doing well in StarClan"
+            "Is wondering if r_c is doing well in Arceus' Domain"
         ],
         "main_status_constraint": [
             "any"
@@ -486,7 +486,7 @@
         "thoughts": [
             "Is missing {PRONOUN/m_c/poss} late leader r_c",
             "Is wondering if r_c is proud of {PRONOUN/m_c/object}",
-            "Is wondering if r_c approves from StarClan"
+            "Is wondering if r_c approves from Arceus' Domain"
         ],
         "main_status_constraint": [
             "any"
@@ -550,7 +550,7 @@
     {
         "id": "gen_wandering_healer",
         "thoughts": [
-            "Is wondering how the cats {PRONOUN/m_c/subject} helped in the past are doing"
+            "Is wondering how the Pokemon {PRONOUN/m_c/subject} helped in the past are doing"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -569,7 +569,7 @@
         "id": "gen_tragedy_survivor_to_alive_gen",
         "thoughts": [
             "Leaves a conversation after it reminds {PRONOUN/m_c/object} of things {PRONOUN/m_c/subject}'d rather forget",
-            "A cat says something that reminds {PRONOUN/m_c/object} of {PRONOUN/m_c/poss} lost home",
+            "A 'Two says something that reminds {PRONOUN/m_c/object} of {PRONOUN/m_c/poss} lost home",
             "Spent last night stressing over possible disasters",
             "Hisses at r_c when {PRONOUN/r_c/subject} {VERB/r_c/ask/asks} {PRONOUN/m_c/object} about where {PRONOUN/m_c/subject} used to live",
             "Is ignoring the gossip about {PRONOUN/m_c/poss} past"
@@ -678,7 +678,7 @@
             "Is having a hard time keeping up with {PRONOUN/m_c/poss} training",
             "Was tasked with lining nests with fresh moss today",
             "Is dreaming of someday making {PRONOUN/m_c/poss} Clan proud",
-            "Is thinking about the time {PRONOUN/m_c/subject} caught a huge rabbit",
+            "Is thinking about the time {PRONOUN/m_c/subject} caught a huge Zigzagoon",
             "Practices some battle moves",
             "Is helping to reinforce the camp wall with brambles",
             "Is daydreaming about having a mate and kits someday",
@@ -693,7 +693,7 @@
             "Is playing a prank on r_c",
             "Takes a nap while {PRONOUN/m_c/poss} mentor is busy",
             "Gets lost on patrol",
-            "Caught THE BIGGEST mouse EVER, like, seriously!"
+            "Caught THE BIGGEST Pikachu EVER, like, seriously!"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -814,7 +814,7 @@
         "id": "apprentice_dead_elder",
         "thoughts": [
             "Is wishing r_c was still here to tell {PRONOUN/m_c/object} stories",
-            "Is wondering who helps r_c with {PRONOUN/r_c/poss} ticks in StarClan"
+            "Is wondering who helps r_c with {PRONOUN/r_c/poss} ticks in Arceus' Domain"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -831,7 +831,7 @@
     {
         "id": "apprentice_dead_leader/deputy",
         "thoughts": [
-            "Is wondering if r_c approves of {PRONOUN/m_c/object} from StarClan"
+            "Is wondering if r_c approves of {PRONOUN/m_c/object} from Arceus' Domain"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -896,9 +896,9 @@
             "Goes to teach r_c a new move {PRONOUN/m_c/subject} learned, but remembered r_c is among the stars now",
             "Misses r_c nagging {PRONOUN/m_c/object} about apprentice duties",
             "Is tearing up after finding r_c's old mossball",
-            "Hopes that somehow, someway, the kits in StarClan are learning the hunting crouch",
-            "Wonders if the kits get mossballs in StarClan",
-            "Hopes that the kits in StarClan get time to play games",
+            "Hopes that somehow, someway, the kits in Arceus' Domain are learning the hunting crouch",
+            "Wonders if the kits get mossballs in Arceus' Domain",
+            "Hopes that the kits in Arceus' Domain get time to play games",
             "Looks up at the night sky, and wonders which stars are long-gone kits",
             "Thought {PRONOUN/m_c/subject} saw a stray kit infront of the nursery, but it vanished",
             "Walks in the nursery, hoping to see r_c again, but then realizes that r_c isn't coming back"
@@ -952,7 +952,7 @@
         "thoughts": [
             "Boasts to the other apprentices about how {PRONOUN/m_c/subject} didn't need anyone before",
             "Offers to show r_c the ways of a rogue",
-            "Doesn't understand why r_c brings {PRONOUN/r_c/poss} prey to the older cats before eating",
+            "Doesn't understand why r_c brings {PRONOUN/r_c/poss} prey to the older 'Twos before eating",
             "Finds it hard to befriend {PRONOUN/m_c/poss} new denmates",
             "Slightly embellishes a story about {PRONOUN/m_c/poss} rogue days to other apprentices",
             "Is ignoring the gossip about {PRONOUN/m_c/poss} past"
@@ -1025,7 +1025,8 @@
     {
         "id": "shameless_apprentice",
         "thoughts": [
-            "Was found napping in the warrior's den!"
+            "Was found napping in the warrior's den!",
+            "Was found napping in the leaders's den!"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -1057,7 +1058,7 @@
         "thoughts": [
             "Decides to stare at {PRONOUN/m_c/poss} mentor without blinking",
             "Has found an unorthodox way out of camp",
-            "Asks {PRONOUN/m_c/poss} mentor why snakes don't have legs"
+            "Asks {PRONOUN/m_c/poss} mentor why Seviper don't have legs"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -1102,7 +1103,7 @@
     {
         "id": "responsible_apprentice",
         "thoughts": [
-            "Is licking {PRONOUN/m_c/poss} chest in embarrassment after being praised by {PRONOUN/m_c/poss} mentor",
+            "Is twiddling {PRONOUN/m_c/poss} paws and swishing {PRONOUN/m_c/poss} tail in embarrassment after being praised by {PRONOUN/m_c/poss} mentor",
             "Is asking {PRONOUN/m_c/poss} mentor what {PRONOUN/m_c/subject} can do to be helpful around camp today"
         ],
         "main_status_constraint": [
@@ -1185,7 +1186,7 @@
             "Wishes {PRONOUN/m_c/subject} {VERB/m_c/were/was} back in the nursery",
             "Has agreed to {PRONOUN/m_c/poss} mentor's orders recently, despite {PRONOUN/m_c/poss} own doubts",
             "Managed to conquer a difficult task, despite feeling nervous",
-            "Was startled by a squirrel while training"
+            "Was startled by a Grovyle while training"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -1288,8 +1289,7 @@
     {
         "id": "cold_apprentices",
         "thoughts": [
-            "Is hoping {PRONOUN/m_c/poss} name will end in -claw",
-            "Doesn't react when {PRONOUN/m_c/poss} mentor praises {PRONOUN/m_c/object} for a good catch"
+        "Doesn't react when {PRONOUN/m_c/poss} mentor praises {PRONOUN/m_c/object} for a good catch"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -1339,8 +1339,8 @@
         "id": "faithful_apprentice",
         "thoughts": [
             "Is sending thanks to the stars for a good training session",
-            "Prays to StarClan that the training session goes well",
-            "Has faith that {PRONOUN/m_c/poss} warrior ancestors are leading {PRONOUN/m_c/object} on the right path"
+            "Prays to Arceus that the training session goes well",
+            "Has faith that {PRONOUN/m_c/poss} ancestors are leading {PRONOUN/m_c/object} on the right path"
         ],
         "main_status_constraint": [
             "apprentice",
