@@ -3,7 +3,7 @@
 
 These Mews are from a subplot I have going on in my PMD story which has yet to be finalised :')
 
-The start of the mew story however, can be found here: https://sometimes-banette.tumblr.com/
+The start of the mew story however, can be found here: [redacted for now]
 The blog will essentially go over their creation n whatnot.
 
 These Mews are from a subplot I have going on in my PMD story which has yet to be finalised/published :')
