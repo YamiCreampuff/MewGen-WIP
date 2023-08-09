@@ -378,7 +378,7 @@
             "Is listening to stories about r_c",
             "Is learning more about r_c",
             "Is sad {PRONOUN/m_c/subject} couldn't spend time with r_c",
-            "Is wondering if r_c is doing well in StarColony",
+            "Is wondering if r_c is doing well in Arceus' Domain",
             "Is missing r_c"
         ],
         "main_status_constraint": [
@@ -388,13 +388,13 @@
             "any"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {
         "id": "gen_to_dead_kit",
         "thoughts": [
-            "Is hoping r_c is well in StarColony",
+            "Is hoping r_c is well in Arceus' Domain",
             "Is wishing r_c could've lived to see today",
             "Is listening to stories about r_c",
             "Is learning more about r_c",
@@ -408,7 +408,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -426,7 +426,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -444,7 +444,7 @@
             "apprentice"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -461,7 +461,7 @@
             "warrior"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -478,7 +478,7 @@
             "medicine cat"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -495,7 +495,7 @@
             "leader"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -512,7 +512,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -529,7 +529,7 @@
             "elder"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -544,7 +544,7 @@
             "mediator"
         ],
         "random_living_status": [
-            "starColony"
+            "Arceus' Domain"
         ]
     },
     {
@@ -825,7 +825,7 @@
             "elder"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {
@@ -843,7 +843,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {
@@ -860,7 +860,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {
@@ -885,11 +885,11 @@
             "adolescent"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {
-        "id": "apprentice_to_dead_StarColony_kits",
+        "id": "apprentice_to_dead_Arceus' Domain_kits",
         "thoughts": [
             "Wonders if one of the stars in the sky is r_c",
             "Remembers fondly when r_c would beg to be taught a new fighting move",
@@ -912,7 +912,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starColony"
+            "starclan"
         ]
     },
     {

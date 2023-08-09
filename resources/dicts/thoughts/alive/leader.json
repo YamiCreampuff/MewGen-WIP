@@ -3,11 +3,11 @@
         "id": "leader_alive_kits",
         "thoughts": [
             "Has recently picked up the scent of mischievous kits in {PRONOUN/m_c/poss} den...",
-            "Is pondering the next mentors for the kits of the Clan",
+            "Is pondering the next mentors for the kits of the Colony",
             "Thinks about who should mentor new apprentices",
             "Bats a mossball back to r_c when it hits {PRONOUN/m_c/object}, chuckling at the wide-eyed kit",
-            "Is looking over the kits, pleased the Clan is thriving",
-            "Is visiting the nursery to check on the kits, the future of the Clan"
+            "Is looking over the kits, pleased the Colony is thriving",
+            "Is visiting the nursery to check on the kits, the future of the Colony"
         ],  
         "random_status_constraint": [
             "kitten"
@@ -19,27 +19,28 @@
     {
         "id": "gen_leader",
         "thoughts": [
-            "Is hoping for a sign from StarClan",
-            "Is hoping that {PRONOUN/m_c/subject} {VERB/m_c/are/is} leading {PRONOUN/m_c/poss} Clan well",
-            "Is worried about Clan relations",
+            "Is hoping for a sign from Arceus",
+            "Is hoping that {PRONOUN/m_c/subject} {VERB/m_c/are/is} leading {PRONOUN/m_c/poss} Colony well",
+            "Is worried about Colony relations",
             "Is thinking about battle strategies",
             "Almost lost a life recently",
             "Is counting how many lives {PRONOUN/m_c/subject} {VERB/m_c/have/has} left",
             "Is thinking about what to say at the Gathering",
             "Is questioning {PRONOUN/m_c/poss} ability to lead",
-            "Is dreading the Clan meeting {PRONOUN/m_c/subject} must call later today",
+            "Is dreading the Colony meeting {PRONOUN/m_c/subject} must call later today",
             "Is finding the responsibility of leadership to be quite the heavy burden",
-            "Is feeling blessed by StarClan this moon",
+            "Is feeling blessed by Arceus this moon",
             "Is thinking about forming an alliance",
-            "Is making a solemn vow to protect {PRONOUN/m_c/poss} Clanmates",
-            "Called an important Clan meeting recently",
-            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the voices of StarClan cats...",
-            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from StarClan?",
-            "Recently called a Clan meeting, but forgot what to say",
-            "Is thinking about new ways to care for the Clan",
-            "Is wondering what the Clan thinks of {PRONOUN/m_c/poss} leadership",
-            "Is proud of the way the Clan is handling things lately",
-            "Is promising to take care of the Clan with {PRONOUN/m_c/poss} lives",
+            "Is making a solemn vow to protect {PRONOUN/m_c/poss} Colony members",
+            "Called an important Colony meeting recently",
+            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the voices of dead 'Twos...",
+            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from Arceus?",
+            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from Giratina?",
+            "Recently called a Colony meeting, but forgot what to say",
+            "Is thinking about new ways to care for the Colony",
+            "Is wondering what the Colony thinks of {PRONOUN/m_c/poss} leadership",
+            "Is proud of the way the Colony is handling things lately",
+            "Is promising to take care of the Colony with {PRONOUN/m_c/poss} lives",
             "Is busy planning out priorities for the day"
         ]
     },
@@ -82,8 +83,8 @@
     {
         "id": "leader_DF",
         "thoughts": [
-            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the voices of Dark Forest cats...",
-            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from the Dark Forest?"
+            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the whispers of ghost Pokemon...",
+            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from Giratina?"
         ],
         "random_living_status": [
             "darkforest"
@@ -93,7 +94,7 @@
         "id": "ambitious_leader",
         "thoughts": [
             "Considers expanding the borders",
-            "Makes sure all cats are battle ready"
+            "Makes sure all 'Twos are battle ready"
         ],
         "main_trait_constraint": [
             "ambitious"
@@ -103,7 +104,7 @@
         "id": "bold_leader",
         "thoughts": [
             "Considers expanding the borders",
-            "Feels confident that the Clan admires {PRONOUN/m_c/object}"
+            "Feels confident that the Colony admires {PRONOUN/m_c/object}"
         ],
         "main_trait_constraint": [
             "bold"
@@ -113,19 +114,19 @@
         "id": "bloodthirsty_leader",
         "thoughts": [
             "Encourages warriors to start fights on border patrols",
-            "Is debating if {PRONOUN/m_c/subject} should declare a war with another Clan",
+            "Is debating if {PRONOUN/m_c/subject} should declare a war with another Colony",
             "Is wondering if {PRONOUN/m_c/subject} could hold apprentice ceremonies at 4 moons old instead",
-            "Is hoping to postpone the retirement of {PRONOUN/m_c/poss} clanmates",
-            "Is asking the medicine cats to have a stock of deathberries at {PRONOUN/m_c/poss} disposal",
-            "Doesn't understand StarClan's resentment towards {PRONOUN/m_c/object}",
-            "Is thinking about taking kits from another Clan",
-            "Encourages warriors to destroy other Clan's herb supplies",
+            "Is hoping to postpone the retirement of {PRONOUN/m_c/poss} Colony members",
+            "Is asking the healer to have a stock of Oren Berries at {PRONOUN/m_c/poss} disposal",
+            "Doesn't understand Arceus''s resentment towards {PRONOUN/m_c/object}",
+            "Is thinking about taking kits from the Lab",
+            "Encourages warriors to destroy Hunters supplies",
             "Demands the warriors train with their claws unsheathed",
             "Is thinking about exiling elders from now on",
-            "Is thinking about driving out an opposing Clan",
-            "Is glaring over the Clan from the leader's den",
+            "Is thinking about driving out humans",
+            "Is glaring over the Colony from the leader's den",
             "Is slashing at a 'disloyal' warrior",
-            "Is swearing the Clan is plotting against {PRONOUN/m_c/object}"
+            "Is swearing the Colony is plotting against {PRONOUN/m_c/object}"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -134,8 +135,8 @@
     {
         "id": "calm_leader",
         "thoughts": [
-            "Stays composed when a cat comes to them in a panic",
-            "Watches over all the cats"
+            "Stays composed when a 'Two comes to them in a panic",
+            "Watches over all the 'Twos"
         ],
         "main_trait_constraint": [
             "calm"
@@ -153,8 +154,8 @@
     {
         "id": "charismatic_leader",
         "thoughts": [
-            "Gives a particularly rousing speech at a Clan meeting",
-            "Feels confident that the Clan admires {PRONOUN/m_c/object}"
+            "Gives a particularly rousing speech at a Colony meeting",
+            "Feels confident that the Colony admires {PRONOUN/m_c/object}"
         ],
         "main_trait_constraint": [
             "charismatic"
@@ -163,7 +164,7 @@
     {
         "id": "childish_leader",
         "thoughts": [
-            "Pranks r_c by switching their fresh-kill with crowfood"
+            "Pranks r_c by switching their fresh-kill with mouldy food"
         ],
         "main_trait_constraint": [
             "childish"
@@ -172,7 +173,7 @@
     {
         "id": "cold_leader",
         "thoughts": [
-            "Rolls {PRONOUN/m_c/poss} eyes as r_c suggests sharing their fresh-kill with other clans"
+            "Rolls {PRONOUN/m_c/poss} eyes as r_c suggests sharing their fresh-kill with wild Pokemon"
         ],
         "main_trait_constraint": [
             "cold"
@@ -181,8 +182,8 @@
     {
         "id": "insecure_leader",
         "thoughts": [
-            "Thinks they don't deserve StarClan's blessing of 9 lives",
-            "Wonders if cats like {PRONOUN/m_c/object} as a leader"
+            "Thinks they don't deserve Arceus' blessing of 9 lives",
+            "Wonders if 'Twos like {PRONOUN/m_c/object} as a leader"
         ],
         "main_trait_constraint": [
             "insecure"
@@ -195,7 +196,7 @@
             "No thoughts, head empty",
             "Insists that {PRONOUN/m_c/subject} received ten lives instead of nine",
             "Has a crazed look in {PRONOUN/m_c/poss} eyes",
-            "Is wondering how many cats would agree to changing the Clan's name..."
+            "Is wondering how many 'Twos would agree to changing the Colony's name..."
         ],
         "main_trait_constraint": [
             "strange"
@@ -204,8 +205,8 @@
     {
         "id": "charismatic_leader",
         "thoughts": [
-            "Gives a particularly rousing speech at a Clan meeting",
-            "Feels confident that the Clan admires {PRONOUN/m_c/object}"
+            "Gives a particularly rousing speech at a Colony meeting",
+            "Feels confident that the Colony admires {PRONOUN/m_c/object}"
         ],
         "main_trait_constraint": [
             "charismatic"
@@ -218,8 +219,8 @@
             "Is sparring violently with r_c, both drawing blood",
             "Is showing r_c how to lead by fear and not worry about respect",
             "Is asking r_c to take care of any disloyal warriors",
-            "Trusts r_c to continue to keep the Clan in line",
-            "Is threatening to drag r_c to the dark forest with {PRONOUN/m_c/object}",
+            "Trusts r_c to continue to keep the Colony in line",
+            "Is threatening to drag r_c to the Distortion World with {PRONOUN/m_c/object}",
             "Is teaching r_c how to rat out spies and dissenting warriors",
             "Is showing r_c how to lead by pain and suffering"
         ],
@@ -245,12 +246,12 @@
     {
         "id":"leader_meanie_med_meanie",
         "thoughts":[
-            "Is pleased that r_c is withholding herbs from the weaker cats",
-            "Is instructing r_c to let a sick cat die",
-            "Is telling r_c to make a poultice with deathberries",
-            "Is asking r_c to fake a sign from StarClan to prepare the Clan for war",
-            "Is pleased with having a like-minded medicine cat like r_c",
-            "Is listening to r_c explain the pointlessness of treating weak or old cats"
+            "Is pleased that r_c is withholding herbs from the weaker 'Twos",
+            "Is instructing r_c to let a sick 'Two die",
+            "Is telling r_c to make a poultice with Oren Berries",
+            "Is asking r_c to fake a sign from Arceus to prepare the Colony for war",
+            "Is pleased with having a like-minded healer like r_c",
+            "Is listening to r_c explain the pointlessness of treating weak or old 'Twos"
         ],
         "random_status_constraint": [
             "medicine cat"
@@ -276,9 +277,9 @@
         "thoughts":[
             "Is wondering if {PRONOUN/m_c/subject} made a mistake by appointing r_c",
             "Is trying to teach r_c to lead with kindness",
-            "Is doing all {PRONOUN/m_c/subject} can to make r_c a better cat",
+            "Is doing all {PRONOUN/m_c/subject} can to make r_c a better 'Two",
             "Is startled by r_c's aggressiveness",
-            "Is arguing with r_c about how to treat 'weaker' members of the Clan",
+            "Is arguing with r_c about how to treat 'weaker' members of the Colony",
             "Is wondering if r_c has been sneaking around",
             "Is afraid r_c might be plotting against {PRONOUN/m_c/object}",
             "Is shaken after catching r_c teaching the warriors a killing blow"

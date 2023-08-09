@@ -25,7 +25,7 @@
             "Fell into the nearby creek yesterday and is still feeling damp",
             "Is having a hard time keeping up with {PRONOUN/m_c/poss} training",
             "Was tasked with lining nests with fresh moss today",
-            "Is dreaming of someday making {PRONOUN/m_c/poss} Clan proud",
+            "Is dreaming of someday making {PRONOUN/m_c/poss} Colony proud",
             "Is thinking about the time {PRONOUN/m_c/subject} caught a huge Zigzagoon",
             "Practices some battle moves",
             "Is helping to reinforce the camp wall with brambles",
@@ -188,7 +188,7 @@
             "Got scolded for eating what {PRONOUN/m_c/subject} caught",
             "Has some trouble adjusting",
             "Forgets the Warrior Code sometimes",
-            "Wants to prove to the Clan that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} going to be a good warrior",
+            "Wants to prove to the Colony that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} going to be a good warrior",
             "Doesn't want to run into any rogues while on patrol",
             "Doesn't miss being a rogue",
             "Is happy to be training as a warrior instead of living as a rogue"
@@ -287,7 +287,7 @@
     {
         "id": "bold_warrior_apprentice",
         "thoughts": [
-            "Taunted a rival Clan's apprentice at the border",
+            "Taunted a rival Colony's apprentice at the border",
             "Took the biggest piece of prey from the pile",
             "Is claiming to be ready for {PRONOUN/m_c/poss} assessment early",
             "Assigns {PRONOUN/m_c/self} to a patrol",
