@@ -592,7 +592,7 @@
         "thoughts": [
             "Is observing r_c's actions closely",
             "Is nervous about some of r_c's choices recently",
-            "Is disapproving of r_c's leadership recently"
+            "Is disapproving of r_c's leadership recently",
             "Leaves a conversation after it reminds {PRONOUN/m_c/object} of things {PRONOUN/m_c/subject}'d rather forget",
             "A 'Two says something that reminds {PRONOUN/m_c/object} of {PRONOUN/m_c/poss} lost home",
             "Spent last night stressing over possible disasters",
@@ -621,7 +621,7 @@
         "id": "gen_tragedy_survivor",
         "thoughts": [
             "Spent last night stressing over possible disasters",
-            "Is thankful for the safety of the camp"
+            "Is thankful for the safety of the camp",
             "Is wondering how well the Colony would fare a distater under l_n's leadership"
         ],
         "main_status_constraint": [
