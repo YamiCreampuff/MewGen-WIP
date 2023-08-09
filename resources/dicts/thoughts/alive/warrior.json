@@ -10,9 +10,9 @@
             "Is being begged by r_c to teach {PRONOUN/r_c/object} a few moves, despite r_c being a kit",
             "Somehow got roped up in watching r_c for the day",
             "Theatrically dies after r_c slays {PRONOUN/m_c/object}",
-            "Has to pretend to be a captured warrior for r_c's games",
-            "Is pretending to be a big, evil warrior for r_c",
-            "Gave a badger ride to r_c, and is now begged by more kittens to do the same"
+            "Has to pretend to be a Trainer for r_c's games",
+            "Is pretending to be a big, evil scientist for r_c",
+            "Gave a Zangoose ride to r_c, and is now begged by more kittens to do the same"
         ],
         "random_status_constraint": [
             "kitten"
@@ -58,7 +58,7 @@
             "wonders what type of apprentice r_c would've been",
             "Listens to other kits sadly talk about r_c's death",
             "Sadly remembers when r_c would play games with {PRONOUN/m_c/object}",
-            "Hopes the kits in StarClan are safe"
+            "Hopes the kits in Arceus' Domain are safe"
         ],
         "random_status_constraint": [
             "kitten"
@@ -70,9 +70,9 @@
     {
         "id": "warrior_gen_dead_df_kits",
         "thoughts": [
-            "Wonders how r_c deals with being in the Dark Forest",
+            "Wonders how r_c deals with being in the Giratina's Domain",
             "Wishes that r_c may walk among the stars",
-            "Is surprised of StarClan's cruelty towards r_c"
+            "Is surprised of Arceus' cruelty towards r_c"
         ],
         "random_status_constraint": [
             "kitten"
@@ -126,7 +126,7 @@
     {
         "id": "gen_older_warrior",
         "thoughts": [
-            "Tries to set a good example for younger cats"
+            "Tries to set a good example for younger 'Twos"
         ],
         "main_age_constraint": [
             "senior adult",
@@ -139,8 +139,8 @@
     {
         "id": "warrior_gen_medicine_cat",
         "thoughts": [
-            "Plans to visit the medicine cat",
-            "Is helping to escort the medicine cat to gather herbs"
+            "Plans to visit the healer",
+            "Is helping to escort the healer gather herbs"
         ],
         "random_status_constraint": [
             "medicine cat"
@@ -152,7 +152,7 @@
     {
         "id": "warrior_gen_warrior",
         "thoughts": [
-            "Is sparring with some Clanmates",
+            "Is sparring with some Colony members",
             "Wants to critique r_c's fighting techniques",
             "Wants to compliment r_c's fighting techniques"
         ],
@@ -169,7 +169,7 @@
             "forest"
         ],
         "thoughts": [
-            "Wishes {PRONOUN/m_c/poss} pelt would turn silver like the moon just like the wolves"
+            "Wishes {PRONOUN/m_c/poss} pelt would turn silver like the moon just like the Mightyena"
         ],
         "main_trait_constraint": [
             "ambitious"
@@ -191,7 +191,9 @@
         "Wants to go on a journey",
         "Wishes {PRONOUN/m_c/poss} leader would choose {PRONOUN/m_c/object} to go on a quest",
         "Disappeared the whole day to explore the territory",
-        "Promises {PRONOUN/m_c/poss} Clanmates {PRONOUN/m_c/subject} won't do anything dangerous while out"
+        "Promises {PRONOUN/m_c/poss} Clanmates {PRONOUN/m_c/subject} won't do anything dangerous while out",
+        "Wonders if other Pokemon yearn the same kind of journeys too..?",
+        "Is interested in making {PRONOUN/m_c/poss} own team of explorers"
     ],
     "main_trait_constraint": [
         "adventurous"
@@ -217,23 +219,23 @@
     {
         "id": "ambitious_warrior",
         "thoughts": [
-            "Is being admired by many Clanmates for {PRONOUN/m_c/poss} recent feats",
-            "Is boasting loudly about having defeated an enemy warrior on patrol the other day",
-            "Seems to be ordering {PRONOUN/m_c/poss} fellow Clanmates around",
-            "Tries to put on a brave face for {PRONOUN/m_c/poss} Clanmates",
+            "Is being admired by many Colony members for {PRONOUN/m_c/poss} recent feats",
+            "Is boasting loudly about having defeated a Trainer's Swampert on patrol the other day",
+            "Seems to be ordering {PRONOUN/m_c/poss} fellow Colony members around",
+            "Tries to put on a brave face for {PRONOUN/m_c/poss} Colony members",
             "Is feeling proud of {PRONOUN/m_c/self}",
             "Made sure to wake up early to volunteer for the dawn patrol",
             "Has been catching the most prey on the latest hunting patrols",
-            "Is daydreaming about a Clan celebration in {PRONOUN/m_c/poss} honor",
-            "Is asking the Clan leader what {PRONOUN/m_c/subject} can do to help out around camp",
-            "Has been imitating the Clan leader's behaviour recently",
+            "Is daydreaming about a Colony celebration in {PRONOUN/m_c/poss} honor",
+            "Is asking the Colony leader what {PRONOUN/m_c/subject} can do to help out around camp",
+            "Has been imitating the Colony leader's behaviour recently",
             "Envies the deputy's position",
             "Has been taking on extra patrols lately",
-            "Wonders how {PRONOUN/m_c/subject} would run the Clan better",
+            "Wonders how {PRONOUN/m_c/subject} would run the Colony better",
             "Sucks up to the leader and deputy by offering to lead every patrol",
             "Sets out to catch five pieces of fresh-kill today",
             "Evaluates how {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} going to sharpen up {PRONOUN/m_c/poss} battle skills",
-            "Tries to emulate the leader's body language when talking to younger cats",
+            "Tries to emulate the leader's body language when talking to younger 'Twos",
             "Feels inadequate about being nothing more than an ordinary warrior"
         ],
         "main_trait_constraint": [
@@ -250,15 +252,14 @@
             "Is practicing forbidden battle moves",
             "Tells the warriors to get ready for a battle",
             "Yearns to fight",
-            "Daydreams about killing a certain cat",
-            "Wonders if {PRONOUN/m_c/subject} could kill a fox all by {PRONOUN/m_c/self}",
+            "Daydreams about killing a certain 'Two",
+            "Wonders if {PRONOUN/m_c/subject} could kill a Ninetales all by {PRONOUN/m_c/self}",
             "Started a fight with a fellow Clanmate",
             "Wonders how {PRONOUN/m_c/subject} would run the Clan better",
-            "Licks fresh-kill blood off {PRONOUN/m_c/poss} lips a little too intently",
-            "Has been glaring at a certain cat in camp with an odd look in {PRONOUN/m_c/poss} eye",
+            "Has been glaring at a certain 'Two in camp with an odd look in {PRONOUN/m_c/poss} eye",
             "Draws blood when training with another warrior and coldly says it was an accident",
             "Wonders how easy it'd be to attack the leader from where they lay",
-            "Daydreams about slaughtering every cat {PRONOUN/m_c/subject} {VERB/m_c/despise/despises}"
+            "Daydreams about slaughtering every 'Two {PRONOUN/m_c/subject} {VERB/m_c/despise/despises}"
         ],
         "main_trait_constraint": [
             "bloodthirsty"
@@ -267,8 +268,8 @@
     {
         "id": "bold_warrior",
         "thoughts": [
-            "Is getting some looks after speaking out of turn at the last Clan meeting",
-            "Spoke out of turn at the last Clan meeting",
+            "Is getting some looks after speaking out of turn at the last Colony meeting",
+            "Spoke out of turn at the last Colony meeting",
             "Bravely offers to help the medicine cat pick herbs from a dangerous spot",
             "Runs out of {PRONOUN/m_c/poss} den into 'battle', only to find that it was just a storm",
             "Prances around with {PRONOUN/m_c/poss} tail up high, ready for anything",
