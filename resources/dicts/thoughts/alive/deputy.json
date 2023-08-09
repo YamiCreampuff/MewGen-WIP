@@ -8,7 +8,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -25,13 +25,13 @@
             "Is assigning 'Twos to the hunting patrol",
             "Is assigning 'Twos to patrol the borders",
             "Can't believe {PRONOUN/m_c/subject} overslept today",
-            "Is unsure of what the rest of the Clan thinks of {PRONOUN/m_c/object} as deputy"
+            "Is unsure of what the rest of the Colony thinks of {PRONOUN/m_c/object} as deputy"
         ]
     },
     {
         "id": "deputy_alive_leader",
         "thoughts": [
-            "Is doing {PRONOUN/m_c/poss} best to honor {PRONOUN/m_c/poss} Clan and {PRONOUN/m_c/poss} leader",
+            "Is doing {PRONOUN/m_c/poss} best to honor {PRONOUN/m_c/poss} Colony and {PRONOUN/m_c/poss} leader",
             "Must speak with the leader soon about something {PRONOUN/m_c/subject} found while out on patrol"
         ],
         "random_status_constraint": [
@@ -50,7 +50,7 @@
     {
         "id": "bloodthirsty_deputy_to_gen",
         "thoughts": [
-            "Is fantasizing about leading the Clan into a victorious battle",
+            "Is fantasizing about leading the Colony into a victorious battle",
             "Feels a thrill imagining the chaos of a large-scale battle",
             "Tells the border patrol not to let any intruders go free without a scar to remember them by"
         ],
@@ -90,8 +90,8 @@
             "Hopes {PRONOUN/m_c/subject}'ll make a decent leader someday",
             "Wonders how {PRONOUN/m_c/subject} became deputy in the first place",
             "Feels a pang of self-doubt when a patrol returns late",
-            "Questions whether they're respected or just tolerated by the Clan",
-            "Worries that their mistakes will lead to the Clan's downfall"
+            "Questions whether they're respected or just tolerated by the Colony",
+            "Worries that their mistakes will lead to the Colony's downfall"
         ],
         "main_trait_constraint":[
             "insecure"
@@ -112,9 +112,9 @@
     {
         "id": "fierce_deputy",
         "thoughts": [
-            "Is sternly instructing a patrol about the importance of strength in defending the Clan",
+            "Is sternly instructing a patrol about the importance of strength in defending the Colony",
             "Feels a rush of adrenaline at the thought of an upcoming battle",
-            "Impressed {PRONOUN/m_c/poss} Clanmates by scaring off an intruder"
+            "Impressed {PRONOUN/m_c/poss} Colony members by scaring off an intruder"
         ],
         "main_trait_constraint": [
             "fierce"
@@ -136,7 +136,7 @@
         "thoughts": [
             "Is fretting over a recent increase in Ninetales sightings near the camp",
             "Feels a twinge of worry about an approaching storm",
-            "Is overthinking a recent encounter with a rival Clan"
+            "Is overthinking a recent encounter with a rival Colony"
         ],
         "main_trait_constraint": [
             "nervous"
@@ -145,7 +145,7 @@
     {
         "id": "ambitious_deputy",
         "thoughts": [
-            "Is imagining the respect {PRONOUN/m_c/subject}'d command as the leader of the Clan",
+            "Is imagining the respect {PRONOUN/m_c/subject}'d command as the leader of the Colony",
             "Is considering innovative strategies to earn more recognition",
             "Feels a burning desire to prove {PRONOUN/m_c/self} worthy of leadership"
         ],
@@ -172,7 +172,7 @@
         "id": "wise_deputy",
         "thoughts": [
             "Is reflecting on a past lesson to make a crucial decision",
-            "Ponders how their decisions will impact the Clan in the long term",
+            "Ponders how their decisions will impact the Colony in the long term",
             "Feels a sense of understanding after meditating on an issue"
         ],
         "main_trait_constraint": [
@@ -203,7 +203,7 @@
     {
         "id": "rebellious_deputy_leader",
         "thoughts": [
-            "Feels an urge to challenge the leader's decision for the betterment of the Clan",
+            "Feels an urge to challenge the leader's decision for the betterment of the Colony",
             "Decided to change patrol routes on their own, hoping the leader will see the benefits"
         ],
         "main_trait_constraint": [
@@ -251,9 +251,9 @@
         "id": "fighter_deputy",
         "thoughts": [
             "Is instructing a group of warriors in advanced combat techniques",
-            "Feels a sense of protection for the Clan, ready to defend them at any moment",
-            "Is assessing the Clan's physical strength and readiness for potential threats",
-            "Organizes a mock battle to keep the Clan's skills sharp"
+            "Feels a sense of protection for the Colony, ready to defend them at any moment",
+            "Is assessing the Colony's physical strength and readiness for potential threats",
+            "Organizes a mock battle to keep the Colony's skills sharp"
         ],
         "main_skill_constraint": [
             "FIGHTER,1"
@@ -262,7 +262,7 @@
     {
         "id": "clever_deputy",
         "thoughts": [
-            "Is solving a complex problem that has been troubling the Clan",
+            "Is solving a complex problem that has been troubling the Colony",
             "Feels intrigued by a recent challenge and is strategizing solutions",
             "Is considering a unique approach to organizing the patrols"
         ],
@@ -273,9 +273,9 @@
     {
         "id": "healer_deputy",
         "thoughts": [
-            "Helps a Clanmate get a thorn out of their paw while out on patrol",
-            "Feels empathy for a sick Clanmate and is thinking of ways to help",
-            "Is sharing knowledge about basic herbs and berries with the Clan"
+            "Helps a Colony member get a thorn out of their paw while out on patrol",
+            "Feels empathy for a sick Colony member and is thinking of ways to help",
+            "Is sharing knowledge about basic herbs and berries with the Colony"
         ],
         "main_skill_constraint": [
             "HEALER,1"
@@ -284,7 +284,7 @@
     {
         "id": "healer_deputy_medcat",
         "thoughts": [
-            "Takes a patrol out to gather herbs and berries for the healer"
+            "Takes a patrol out to gather herbs, seeds and berries for the healer"
         ],
         "main_skill_constraint": [
             "HEALER,1"
@@ -296,7 +296,7 @@
     {
         "id": "story_deputy",
         "thoughts": [
-            "Is recalling an old story that might inspire the Clan in tough times",
+            "Is recalling an old story that might inspire the Colony in tough times",
             "Feels inspired to craft a new legend based on recent events",
             "Uses the stories of old to help guide their decisions"
         ],
@@ -307,10 +307,10 @@
     {
         "id": "story_deputy_apprentice",
         "thoughts": [
-            "Is recalling an old story that might inspire the Clan in tough times",
+            "Is recalling an old story that might inspire the Colony in tough times",
             "Feels inspired to craft a new legend based on recent events",
             "Uses the stories of old to help guide their decisions",
-            "Is sharing tales of the Clan's legacy with wide-eyed apprentices"
+            "Is sharing tales of the Colony's legacy with wide-eyed apprentices"
         ],
         "main_skill_constraint": [
             "STORY,1"

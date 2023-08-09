@@ -112,8 +112,8 @@
             "elder"
         ],
         "main_backstory_constraint": [
-            "clan_founder", "clanborn", "halfclan1", "halfclan2", "outsider_roots1", "outsider_roots2","loner1", "loner2", "rogue1", "rogue2", "rogue3", "abandoned1", "abandoned2", "abandoned3", "abandoned4",
-            "otherclan1", "otherclan2", "otherclan3", "otherclan4","disgraced1", "disgraced2", "disgraced3", "retired_leader", "medicine_cat", "ostracized_warrior", "refugee1", "refugee2", "refugee4", "refugee5",
+            "Colony_founder", "Colonyborn", "halfColony1", "halfColony2", "outsider_roots1", "outsider_roots2","loner1", "loner2", "rogue1", "rogue2", "rogue3", "abandoned1", "abandoned2", "abandoned3", "abandoned4",
+            "otherColony1", "otherColony2", "otherColony3", "otherColony4","disgraced1", "disgraced2", "disgraced3", "retired_leader", "medicine_cat", "ostracized_warrior", "refugee1", "refugee2", "refugee4", "refugee5",
             "tragedy_survivor1", "tragedy_survivor2", "tragedy_survivor4","wandering_healer1", "wandering_healer2", "guided2", "guided3", "guided4", "orphaned1", "orphaned2", "orphaned3", "orphaned4", "orphaned5", "orphaned6"
         ]
     },
@@ -152,7 +152,7 @@
             "Is wishing r_c would play more quietly",
             "Is worried about r_c",
             "Is proud of r_c's growth",
-            "Knows r_c will make a great Clanmate someday",
+            "Knows r_c will make a great Colony member someday",
             "Is playing mossball with r_c",
             "Watches r_c pretend to hunt a Pikachu",
             "Catches r_c climbing a bit too high"
@@ -263,7 +263,7 @@
             "Is wondering what r_c is thinking",
             "Is hoping r_c notices {PRONOUN/m_c/poss} improvement",
             "Is in awe of r_c's leadership",
-            "Thinks r_c could be leading the Clan better",
+            "Thinks r_c could be leading the Colony better",
             "Has a list of complaints for r_c",
             "Is hoping r_c doesn't assign {PRONOUN/m_c/object} to  dawn patrol tomorrow"
         ],
@@ -378,7 +378,7 @@
             "Is listening to stories about r_c",
             "Is learning more about r_c",
             "Is sad {PRONOUN/m_c/subject} couldn't spend time with r_c",
-            "Is wondering if r_c is doing well in StarClan",
+            "Is wondering if r_c is doing well in StarColony",
             "Is missing r_c"
         ],
         "main_status_constraint": [
@@ -388,13 +388,13 @@
             "any"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
         "id": "gen_to_dead_kit",
         "thoughts": [
-            "Is hoping r_c is well in StarClan",
+            "Is hoping r_c is well in StarColony",
             "Is wishing r_c could've lived to see today",
             "Is listening to stories about r_c",
             "Is learning more about r_c",
@@ -408,7 +408,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -426,7 +426,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -444,7 +444,7 @@
             "apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -461,7 +461,7 @@
             "warrior"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -478,7 +478,7 @@
             "medicine cat"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -495,7 +495,7 @@
             "leader"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -512,7 +512,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -529,13 +529,13 @@
             "elder"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
         "id": "gen_to_dead_mediator",
         "thoughts": [
-            "Is wondering what r_c would think of current conflicts in the Clan"
+            "Is wondering what r_c would think of current conflicts in the Colony"
         ],
         "main_status_constraint": [
             "any"
@@ -544,7 +544,7 @@
             "mediator"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -596,7 +596,7 @@
     {
         "id": "gen_tragedy_survivor_to_alive_leader",
         "thoughts": [
-            "Is wondering how well the Clan would fare a distater under r_c's leadership"
+            "Is wondering how well the Colony would fare a distater under r_c's leadership"
         ],
         "main_status_constraint": [
             "apprentice",
@@ -677,7 +677,7 @@
             "Fell into the nearby creek yesterday and is still feeling damp",
             "Is having a hard time keeping up with {PRONOUN/m_c/poss} training",
             "Was tasked with lining nests with fresh moss today",
-            "Is dreaming of someday making {PRONOUN/m_c/poss} Clan proud",
+            "Is dreaming of someday making {PRONOUN/m_c/poss} Colony proud",
             "Is thinking about the time {PRONOUN/m_c/subject} caught a huge Zigzagoon",
             "Practices some battle moves",
             "Is helping to reinforce the camp wall with brambles",
@@ -825,7 +825,7 @@
             "elder"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -843,7 +843,7 @@
             "deputy"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -860,7 +860,7 @@
             "medicine cat apprentice"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -885,11 +885,11 @@
             "adolescent"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
-        "id": "apprentice_to_dead_StarClan_kits",
+        "id": "apprentice_to_dead_StarColony_kits",
         "thoughts": [
             "Wonders if one of the stars in the sky is r_c",
             "Remembers fondly when r_c would beg to be taught a new fighting move",
@@ -912,7 +912,7 @@
             "kitten"
         ],
         "random_living_status": [
-            "starclan"
+            "starColony"
         ]
     },
     {
@@ -1403,8 +1403,8 @@
             "Has been asking {PRONOUN/m_c/poss} mentor for more training",
             "Is feeling proud of {PRONOUN/m_c/self}",
             "Made sure to wake up early to train",
-            "Is daydreaming about a Clan celebration in {PRONOUN/m_c/poss} honor",
-            "Is asking the Clan leader how {PRONOUN/m_c/subject} can help out around camp",
+            "Is daydreaming about a Colony celebration in {PRONOUN/m_c/poss} honor",
+            "Is asking the Colony leader how {PRONOUN/m_c/subject} can help out around camp",
             "Has been asking {PRONOUN/m_c/poss} mentor for more training",
             "Tries to put on a brave face for {PRONOUN/m_c/poss} fellow apprentices",
             "Seems to be ordering {PRONOUN/m_c/poss} fellow apprentices around"
@@ -1542,14 +1542,14 @@
     {
         "id": "blind_gen_to_alive_gen",
         "thoughts": [
-            "Wonders what {PRONOUN/m_c/poss} Clanmates look like",
+            "Wonders what {PRONOUN/m_c/poss} Colony members look like",
             "Smiles as r_c tries to describe different colors to {PRONOUN/m_c/object}",
             "Listened to bird songs all morning",
             "Just heard a frog croaking in camp!",
             "Knows r_c is nearby from the sound of {PRONOUN/r_c/poss} pawsteps",
             "Jumps as {PRONOUN/m_c/subject} {VERB/m_c/hit/hits} a large rock with {PRONOUN/m_c/poss} paw",
-            "Is annoyed that a Clanmate keeps pitying {PRONOUN/m_c/object}",
-            "Confused {PRONOUN/m_c/poss} Clanmates when {PRONOUN/m_c/subject} said it was a beautiful day",
+            "Is annoyed that a Colony member keeps pitying {PRONOUN/m_c/object}",
+            "Confused {PRONOUN/m_c/poss} Colony members when {PRONOUN/m_c/subject} said it was a beautiful day",
             "Wonders if {PRONOUN/m_c/poss} mental image of r_c matches real life"
         ],
         "perm_conditions": {
@@ -1694,14 +1694,14 @@
         "id": "deaf_gen_to_alive_gen",
         "thoughts": [
             "Wishes {PRONOUN/m_c/subject} could hear the sounds of camp",
-            "Teaches a new Clanmate how to do tail signals",
+            "Teaches a new Colony member how to do tail signals",
             "Nearly hits the den's ceiling when r_c suddenly enters {PRONOUN/m_c/poss} line of sight",
-            "Can identify {PRONOUN/m_c/poss} Clanmates just by the feel of their pawsteps",
+            "Can identify {PRONOUN/m_c/poss} Colony members just by the feel of their pawsteps",
             "Recently discovered that {PRONOUN/m_c/subject} {VERB/m_c/have/has} a stomping habit",
             "Is confused when r_c indicates birdsong",
             "Wonders what r_c sounds like",
             "Knows what r_c is saying from {PRONOUN/r_c/poss} mouth movement",
-            "Teases a Clanmate for trying to call {PRONOUN/m_c/object} out loud"
+            "Teases a Colony member for trying to call {PRONOUN/m_c/object} out loud"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1722,7 +1722,7 @@
             "Is frustrated that other cats don't understand {PRONOUN/m_c/poss} signals",
             "Wishes {PRONOUN/m_c/subject} could talk to other cats",
             "Feels thunder boom and watches the others flinch",
-            "Curiously feels the thumps of {PRONOUN/m_c/poss} Clanmates' pawsteps on the ground"
+            "Curiously feels the thumps of {PRONOUN/m_c/poss} Colony members' pawsteps on the ground"
         ],
         "perm_conditions": {
             "m_c": [
@@ -1919,7 +1919,7 @@
         "thoughts": [
             "Points to something with a forepaw",
             "Flicks {PRONOUN/m_c/poss} tail stub in annoyance",
-            "Rolls {PRONOUN/m_c/poss} eyes when a Clanmate says they feel bad for {PRONOUN/m_c/object}"
+            "Rolls {PRONOUN/m_c/poss} eyes when a Colony member says they feel bad for {PRONOUN/m_c/object}"
         ],
         "perm_conditions": {
             "m_c": [
