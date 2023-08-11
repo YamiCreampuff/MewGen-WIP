@@ -17,7 +17,8 @@
         "thoughts":[
             "Snuggles closer to r_c",
             "Smells r_c and immediately perks up",
-            "Mews at r_c as {PRONOUN/r_c/subject} {VERB/r_c/shift/shifts} in the nest"
+            "Mews at r_c as {PRONOUN/r_c/subject} {VERB/r_c/shift/shifts} in the nest",
+            "Floats out of the pouch of r_c"
         ],
         "main_age_constraint": [
             "newborn"

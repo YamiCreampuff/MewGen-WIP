@@ -192,9 +192,9 @@
         "m_c's eyes are no longer damaged.",
         "m_c's eyes have recovered from {PRONOUN/m_c/poss} injury."
     ],
-    "quilled by a porcupine": [
-        "The porcupine quills stuck in m_c's pelt have finally been removed.",
-        "m_c has recovered from the wounds {PRONOUN/m_c/subject} got from the porcupine.",
+    "quilled by a Shiftry": [
+        "The Shiftry quills stuck in m_c's pelt have finally been removed.",
+        "m_c has recovered from the wounds {PRONOUN/m_c/subject} got from the Shiftry.",
         "The barbed quills were no fun to remove, but at least m_c is feeling better now."
     ],
     "poisoned": [
