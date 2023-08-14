@@ -1,4 +1,29 @@
 {
+    "Berserk Gene": {
+        "severity": "minor",
+        "congenital": "always",
+        "moons_until": 3,
+        "mortality": {
+            "kitten": 0,
+            "adolescent": 0,
+            "young adult": 0,
+            "adult": 0,
+            "senior adult": 0,
+            "elder": 0
+        },
+        "illness_infectiousness": [
+        ],
+        "risks": [
+            {
+                "name": "phantom pain",
+                "chance": 20
+            },
+            {
+                "name": "headache",
+                "chance": 20
+            }
+        ]
+     },
     "crooked jaw": {
         "severity": "major",
         "congenital": "never",
