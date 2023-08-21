@@ -1,4 +1,4 @@
-# Welcome to MewGen! Look over a small Colony of strange Mews as they try their hardest to keep out of harms way, and away from the Humans who are after them.
+# Welcome to MewGen! Look over a small Colony of strange Mews as they try their hardest to keep out of harms way, and away from the hunters who are after them.
 
 
 These Mews are from a subplot I have going on in my PMD story which has yet to be finalised :')
@@ -7,9 +7,6 @@ The start of the mew story however, can be found here: [redacted for now]
 The blog will essentially go over their creation n whatnot.
 
 These Mews are from a subplot I have going on in my PMD story which has yet to be finalised/published :')
-
-The start of the mew story however, can be found here: [redacted for now, though the blog will essentially go over their creation n whatnot.]
-
 
 I should also note! I am not a coder, so this project will be a fun learning experience :3
 
