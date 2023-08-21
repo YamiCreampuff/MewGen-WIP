@@ -267,7 +267,7 @@
             "Is in awe of r_c's leadership",
             "Thinks r_c could be leading the Colony better",
             "Has a list of complaints for r_c",
-            "Is hoping r_c doesn't assign {PRONOUN/m_c/object} to  dawn patrol tomorrow"
+            "Is hoping r_c doesn't assign {PRONOUN/m_c/object} to dawn patrol tomorrow"
         ],
         "main_status_constraint": [
             "apprentice",
