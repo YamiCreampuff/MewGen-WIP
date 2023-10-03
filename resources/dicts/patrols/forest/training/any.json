@@ -434,7 +434,7 @@
                 ]
             },
             {
-                "text": "Creeping in as close as possible, s_c purrs to r_c, keeping them calm as the patrol carefully works to remove the branches pinning them down. r_c blinks up at them, holding on to their presence in the scary situation.",
+                "text": "Creeping in as close as possible, s_c purrs to r_c, keeping {PRONOUN/r_c/object} calm as the patrol carefully works to remove the branches pinning {PRONOUN/r_c/object} down. r_c blinks up at {PRONOUN/s_c/object}, holding on to {PRONOUN/s_c/poss} presence in the scary situation.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -575,7 +575,7 @@
                 ]
             },
             {
-                "text": "Even though s_c made it out, they swear someone pushed them, and blame r_c. r_c denies it and says they should get s_c back to camp to get their injury looked at.",
+                "text": "Even though r_c made it out, they swear someone pushed them, and blame s_c. s_c denies it and says they should get r_c back to camp to get their injury looked at.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -590,7 +590,7 @@
                 ],
                 "injury": [
                     {
-                        "cats": ["s_c"],
+                        "cats": ["r_c"],
                         "injuries": ["blunt_force_injury"],
                         "scars": ["SIDE"]
                     }
