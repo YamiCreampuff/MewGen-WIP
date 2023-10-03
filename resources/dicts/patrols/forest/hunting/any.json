@@ -1,38 +1,38 @@
 [
     {
-        "patrol_id": "fst_hunt_porcupine1",
+        "patrol_id": "fst_hunt_shiftry1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "fst_hunt_porcupine",
+        "patrol_art": "fst_hunt_shiftry",
         "min_cats": 3,
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c encounters a porcupine, bristling with quills.",
-        "decline_text": "The patrol steers clear of the porcupine.",
+        "intro_text": "r_c encounters a Shiftry, bristling with quills.",
+        "decline_text": "The patrol steers clear of the Shiftry.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
+                "text": "The patrol examines the Shiftry, eventually deciding that they shouldn't risk the potential injury it could cause.",
                 "exp": 10,
                 "weight": 20
             },
             {
-                "text": "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
+                "text": "The Shiftry rattles its fans viciously, the patrol heeds its warning and gives it space.",
                 "exp": 10,
                 "weight": 5
             },
             {
-                "text": "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": ["HUNTER,2", "CLEVER,2"],
                 "prey": ["huge"]
             },
             {
-                "text": "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Clan's defenses to strengthen them.",
+                "text": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Colony's defenses to strengthen them.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": ["calm", "careful", "strange", "thoughtful", "wise"]
@@ -40,80 +40,80 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c leaps back just as the porcupine whips its tail towards them! That was close! The patrol gives the porcupine a wide berth.",
+                "text": "r_c leaps back just as the Shiftry whips its mane towards them! That was close! The patrol gives the Shiftry a wide berth.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c gets closer to the porcupine, intending to impress the rest of the patrol with their bravery. All the cats recoil as a horrible smell comes from the porcupine and they back off before it can charge at them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
+                "text": "s_c gets closer to the Shiftry, intending to impress the rest of the patrol with their bravery. All the 'Twos recoil as a horrible smell comes from the Shiftry and they back off before it can charge at them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": ["bold", "daring", "confident", "adventurous"]
             },
             {
-                "text": "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
+                "text": "r_c doesn't react quickly enough to the Shiftry's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
                 "history_text": {
-                    "scar": "m_c was scarred by a porcupine while on patrol.",
-                    "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-                    "lead_death": "killed by a porcupine"
+                    "scar": "m_c was scarred by a Shiftry while on patrol.",
+                    "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+                    "lead_death": "killed by a Shiftry"
                 }
             },
             {
-                "text": "The porcupine whips around, digging the quills of its tail into r_c! The patrol bolts away and returns to camp, r_c with a nose full of quills.",
+                "text": "The Shiftry whips around, digging the quills of its mane into r_c! The patrol bolts away and returns to camp, r_c with a nose full of quills.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
                     {
                         "cats": ["r_c"],
-                        "injuries": ["quilled by a porcupine"],
+                        "injuries": ["quilled by a Shiftry"],
                         "scars": ["QUILLSCRATCH"]
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by a porcupine while on patrol.",
-                    "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-                    "lead_death": "killed by a porcupine"
+                    "scar": "m_c was scarred by a Shiftry while on patrol.",
+                    "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+                    "lead_death": "killed by a Shiftry"
                 }
             }
         ]
     },
     {
-        "patrol_id": "fst_hunt_porcupine2",
+        "patrol_id": "fst_hunt_shiftry2",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "fst_hunt_porcupine",
+        "patrol_art": "fst_hunt_shiftry",
         "min_cats": 1,
         "max_cats": 2,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c encounters a porcupine, bristling with quills.",
-        "decline_text": "The patrol steers clear of the porcupine, they don't have enough cats to confront this creature safely.",
+        "intro_text": "r_c encounters a Shiftry, bristling with quills.",
+        "decline_text": "The patrol steers clear of the Shiftry, they don't have enough cats to confront this creature safely.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
+                "text": "The patrol examines the Shiftry, eventually deciding that they shouldn't risk the potential injury it could cause.",
                 "exp": 30,
                 "weight": 20
             },
             {
-                "text": "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
+                "text": "The Shiftry rattles its quills viciously, the patrol heeds its warning and gives it space.",
                 "exp": 30,
                 "weight": 5
             },
             {
-                "text": "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": ["HUNTER,3", "CLEVER,3"],
                 "prey": ["huge"]
             },
             {
-                "text": "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them.",
+                "text": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": ["calm", "careful", "strange", "thoughtful", "wise"]
@@ -121,36 +121,36 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c leaps back just as the porcupine whips its tail towards them! That was close! They decide to give the porcupine a wide berth.",
+                "text": "r_c leaps back just as the Shiftry whips its tail towards them! That was close! They decide to give the Shiftry a wide berth.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
+                "text": "r_c doesn't react quickly enough to the Shiftry's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
                 "history_text": {
-                    "scar": "m_c was scarred by a porcupine while on patrol.",
-                    "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-                    "lead_death": "killed by a porcupine"
+                    "scar": "m_c was scarred by a Shiftry while on patrol.",
+                    "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+                    "lead_death": "killed by a Shiftry"
                 }
             },
             {
-                "text": "The porcupine whips around, digging the quills of its tail into r_c! r_c returns to camp with a nose full of quills and a wounded pride.",
+                "text": "The Shiftry whips around, digging the quills of its tail into r_c! r_c returns to camp with a nose full of quills and a wounded pride.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
                     {
                         "cats": ["r_c"],
-                        "injuries": ["quilled by a porcupine"],
+                        "injuries": ["quilled by a Shiftry"],
                         "scars": ["QUILLSCRATCH"]
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by a porcupine while on patrol.",
-                    "reg_death": "m_c was killed by an angry porcupine while on patrol.",
-                    "lead_death": "killed by a porcupine"
+                    "scar": "m_c was scarred by a Shiftry while on patrol.",
+                    "reg_death": "m_c was killed by an angry Shiftry while on patrol.",
+                    "lead_death": "killed by a Shiftry"
                 }
             }
         ]
