@@ -25,7 +25,7 @@
                 "weight": 5
             },
             {
-                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Colony will be impressed by this hefty fresh-kill.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": ["HUNTER,2", "CLEVER,2"],
@@ -106,14 +106,14 @@
                 "weight": 5
             },
             {
-                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
+                "text": "s_c sets up an ambush, devising a clever plan to take the Shiftry by surprise and attack it before it can whip its quills into anyone's pelt.  The Colony will be impressed by this hefty fresh-kill.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": ["HUNTER,3", "CLEVER,3"],
                 "prey": ["huge"]
             },
             {
-                "text": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them.",
+                "text": "s_c has the ingenious idea to follow the Shiftry from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Colony's defenses to strengthen them.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": ["calm", "careful", "strange", "thoughtful", "wise"]
@@ -121,7 +121,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c leaps back just as the Shiftry whips its tail towards them! That was close! They decide to give the Shiftry a wide berth.",
+                "text": "r_c leaps back just as the Shiftry whips its leaves towards them! That was close! They decide to give the Shiftry a wide berth.",
                 "exp": 0,
                 "weight": 20
             },
@@ -166,12 +166,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While hunting, r_c comes across a rabbit burrow.",
+        "intro_text": "While hunting, r_c comes across a Raichu burrow.",
         "decline_text": "r_c decides to ignore the burrow.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "r_c catches the rabbit hiding in its burrow.",
+                "text": "r_c catches the Raichu hiding in its burrow.",
                 "exp": 10,
                 "weight": 20,
                 "prey": ["large"]
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_twolegplace1",
+        "patrol_id": "fst_hunt_humanplace1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
@@ -196,18 +196,18 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+        "intro_text": "The patrol approaches a human nest in the woods while hunting.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The patrol has a successful hunt, avoiding any Twolegs.",
+                "text": "The patrol has a successful hunt, avoiding any humans.",
                 "exp": 10,
                 "weight": 20,
                 "prey": ["medium"]
             },
             {
-                "text": "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to one.",
+                "text": "The patrol finds some astonishingly fat Torchic running around the human nest, and helps themselves to one.",
                 "exp": 10,
                 "weight": 5,
                 "prey": ["large"]
@@ -215,7 +215,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Twoleg kits scare the patrol away.",
+                "text": "Rangers scare the patrol away.",
                 "exp": 0,
                 "weight": 20,
                 "prey": ["very_small"]
@@ -223,21 +223,21 @@
         ],
         "antag_fail_outcomes": [
             {
-                "text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun.",
+                "text": "The Trainers wandering around are surprised by the patrol and chase the 'Twos, spouting something about a 'Dex' and 'catching'.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "antag_success_outcomes": [
             {
-                "text": "A Twoleg kit approaches the patrol, and they send it away squawking with it's blood on their claws.",
+                "text": "A Hunter approaches the patrol, and they send it away squawking with it's blood on their claws.",
                 "exp": 10,
                 "weight": 20
             }
         ]
     },
     {
-        "patrol_id": "fst_hunt_twolegplace2",
+        "patrol_id": "fst_hunt_humanplace2",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
@@ -247,18 +247,18 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+        "intro_text": "The patrol approaches a human nest in the woods while hunting.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol cats split up, using sentries to ensure that the Twolegs don't disturb their hunts.",
+                "text": "The patrol split up, using sentries to ensure that the humans don't disturb their hunts.",
                 "exp": 10,
                 "weight": 20,
                 "prey": ["medium"]
             },
             {
-                "text": "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to as many as they can carry.",
+                "text": "The patrol finds some astonishingly fat Torchic running around the human nest, and helps themselves to as many as they can carry.",
                 "exp": 10,
                 "weight": 5,
                 "prey": ["large"]
@@ -266,7 +266,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Twoleg kits stomp through the woods, scaring away prey and ruining the hunt.",
+                "text": "Trainers stomp through the woods, scaring away prey and ruining the hunt.",
                 "exp": 0,
                 "weight": 20,
                 "prey": ["very_small"]
@@ -274,26 +274,26 @@
         ],
         "antag_fail_outcomes": [
             {
-                "text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun.",
+                "text": "The human kits wandering around are unimpressed by the patrol and chase the 'Twos for fun.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "antag_success_outcomes": [
             {
-                "text": "Finding a Twoleg kit wandering alone, the cats harass it until it flees squawking, it's blood on their claws.",
+                "text": "Finding a Trainer wandering alone, the 'Twos harass it until it flees squawking, it's blood on their claws.",
                 "exp": 10,
                 "weight": 20
             }
         ]
     },
     {
-        "patrol_id": "fst_hunt_squirrelchase1",
+        "patrol_id": "fst_hunt_plusleminunchase1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "fst_hunt_squirrelchase",
+        "patrol_art": "fst_hunt_plusleminunchase",
         "min_cats": 1,
         "max_cats": 6,
         "min_max_status": {},
@@ -376,7 +376,7 @@
                 "prey": ["medium"]
             },
             {
-                "text": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now.",
+                "text": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Colony now.",
                 "exp": 10,
                 "weight": 5,
                 "prey": ["medium"]
@@ -436,7 +436,7 @@
                 "prey": ["medium"]
             },
             {
-                "text": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now.",
+                "text": "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Colony now.",
                 "exp": 10,
                 "weight": 5,
                 "prey": ["medium"]
@@ -524,7 +524,7 @@
                 "weight": 20
             },
             {
-                "text": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
+                "text": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Colonymate while a coyote is about.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": ["nervous", "insecure"]
@@ -541,7 +541,7 @@
                 }
             },
             {
-                "text": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate.",
+                "text": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Colonymate.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -617,7 +617,7 @@
                 "weight": 20
             },
             {
-                "text": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
+                "text": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Colonymate while a coyote is about.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": ["nervous", "insecure"]
@@ -634,7 +634,7 @@
                 }
             },
             {
-                "text": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate.",
+                "text": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Colonymate.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -716,7 +716,7 @@
                 "stat_trait": ["nervous", "insecure"]
             },
             {
-                "text": "r_c finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cat, proves to be fiercely protective of its meal.  They doesn't move fast enough and with no Clanmates to save them, r_c is quickly killed.",
+                "text": "r_c finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cat, proves to be fiercely protective of its meal.  They doesn't move fast enough and with no Colonymates to save them, r_c is quickly killed.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
@@ -785,7 +785,7 @@
                 "weight": 20
             },
             {
-                "text": "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away. The patrol follows anxiously, not wanting to lose sight of their Clanmate while a wolf is about.",
+                "text": "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away. The patrol follows anxiously, not wanting to lose sight of their Colonymate while a wolf is about.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": ["nervous", "insecure"]
@@ -802,7 +802,7 @@
                 }
             },
             {
-                "text": "The sound leads them to a wolf, scavenging from a carcass. The wolf notices them before they can hide and lunges, making it clear that this food has been claimed. r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate.",
+                "text": "The sound leads them to a wolf, scavenging from a carcass. The wolf notices them before they can hide and lunges, making it clear that this food has been claimed. r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Colonymate.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -878,7 +878,7 @@
                 "weight": 20
             },
             {
-                "text": "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a wolf is about.",
+                "text": "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Colonymate while a wolf is about.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": ["nervous", "insecure"]
@@ -959,7 +959,7 @@
                 "stat_trait": ["nervous", "insecure"]
             },
             {
-                "text": "r_c finds a wolf pack at the source of the noise. The pack is tearing into a deer carcass and upon seeing the cat, prove to be fiercely protective of their meal. r_c doesn't move fast enough and with no Clanmates to save them, is quickly killed.",
+                "text": "r_c finds a wolf pack at the source of the noise. The pack is tearing into a deer carcass and upon seeing the cat, prove to be fiercely protective of their meal. r_c doesn't move fast enough and with no Colonymates to save them, is quickly killed.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
@@ -1181,7 +1181,7 @@
                 "prey": ["medium"]
             },
             {
-                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Clanmates.",
+                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Colonymates.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["large"]
@@ -1194,7 +1194,7 @@
                 "prey": ["large"]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Colony's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1251,7 +1251,7 @@
                 "prey": ["medium"]
             },
             {
-                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Clanmates. Purring, they take the opportunity for a small moment of peace, relaxing with their friends.",
+                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Colonymates. Purring, they take the opportunity for a small moment of peace, relaxing with their friends.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["large"]
@@ -1264,7 +1264,7 @@
                 "prey": ["large"]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Colony's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1321,7 +1321,7 @@
                 "prey": ["medium"]
             },
             {
-                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Clanmates. Purring, they take the opportunity for a small moment of peace, relaxing with their friends.",
+                "text": "r_c finds a fat, dumb, slow rabbit, and they can barely drag the thing back to camp, but by the stars it's juicy when they sit down to eat it with their Colonymates. Purring, they take the opportunity for a small moment of peace, relaxing with their friends.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["large"]
@@ -1334,7 +1334,7 @@
                 "prey": ["large"]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Colony's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1506,7 +1506,7 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "Your patrol encounters a clearing where a lot of Twolegs linger.",
+        "intro_text": "Your patrol encounters a clearing where a lot of humans linger.",
         "decline_text": "Your patrol decides to hunt elsewhere.",
         "chance_of_success": 60,
         "success_outcomes": [
@@ -1523,13 +1523,13 @@
                 "prey": ["medium"]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
+                "text": "s_c spots the humans unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,3"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c hisses and flees.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1546,13 +1546,13 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
+                "text": "The patrol mostly ignores the humans. As they hunt they hear a yelp from r_c. They've crawled into a metal humans box, and there's nothing they or the rest of the patrol can do to get them out - eventually the humans notice, and r_c is taken by them.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the humans take them away in the monster.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -1581,12 +1581,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "Your patrol encounters a clearing where a lot of Twolegs linger.",
+        "intro_text": "Your patrol encounters a clearing where a lot of humans linger.",
         "decline_text": "Your patrol decides to hunt elsewhere.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "They continue hunting undetected, using the presence of the Twolegs startling the local wildlife to bring back a good haul.",
+                "text": "They continue hunting undetected, using the presence of the humans startling the local wildlife to bring back a good haul.",
                 "exp": 20,
                 "weight": 20,
                 "prey": ["medium"]
@@ -1598,13 +1598,13 @@
                 "prey": ["large"]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
+                "text": "s_c spots the humans unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,3"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c hisses and flees.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1621,13 +1621,13 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
+                "text": "The patrol mostly ignores the humans. As they hunt they hear a yelp from r_c. They've crawled into a metal humans box, and there's nothing they or the rest of the patrol can do to get them out - eventually the humans notice, and r_c is taken by them.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the humans take them away in the monster.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -1656,7 +1656,7 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "Your patrol encounters a clearing where a lot of Twolegs linger.",
+        "intro_text": "Your patrol encounters a clearing where a lot of humans linger.",
         "decline_text": "Your patrol decides to hunt elsewhere.",
         "chance_of_success": 10,
         "success_outcomes": [
@@ -1673,13 +1673,13 @@
                 "prey": ["small"]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
+                "text": "s_c spots the humans unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,3"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c hisses and flees.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1696,13 +1696,13 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol mostly ignores the Twolegs. But as they hunt, the cats encounter appealing, delicious smelling mush in little burrows. Some of the patrol investigates, and doors slam down behind them. There's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and the trapped cats are taken.",
+                "text": "The patrol mostly ignores the humans. But as they hunt, the cats encounter appealing, delicious smelling mush in little burrows. Some of the patrol investigates, and doors slam down behind them. There's nothing they or the rest of the patrol can do to get them out - eventually the humans notice, and the trapped cats are taken.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["multi"]
             },
             {
-                "text": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? They wander closer, drawing more of the patrol in with them. Before they can decide whether to step away, there's a swoosh, and a net falls around the cats. They fight desperately, but the Twolegs take them away in the monster.",
+                "text": "A human spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? They wander closer, drawing more of the patrol in with them. Before they can decide whether to step away, there's a swoosh, and a net falls around the cats. They fight desperately, but the humans take them away in the monster.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -1721,7 +1721,7 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegden1",
+        "patrol_id": "fst_hunt_gonehumanden1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
@@ -1731,30 +1731,30 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c decides to hunt out near the Twoleg dens.",
+        "intro_text": "r_c decides to hunt out near the human dens.",
         "decline_text": "On second thought, they decide to reline their nest today instead.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
+                "text": "They're interrupted by humans wandering through the woods a couple times, but it's a successful hunt.",
                 "exp": 20,
                 "weight": 20,
                 "prey": ["medium"]
             },
             {
-                "text": "A friendly Twoleg makes a psspsspss noise, and pours kittypet food on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
+                "text": "A friendly human makes a psspsspss noise, and pours kittypet food on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
+                "text": "s_c gets distracted from hunting by strange human activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"],
                 "prey": ["medium"]
             },
             {
-                "text": "Calmly, s_c weaves around the Twoleg dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt.",
+                "text": "Calmly, s_c weaves around the human dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1772,7 +1772,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+                "text": "The humans here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1788,13 +1788,13 @@
                 ]
             },
             {
-                "text": "Carelessly, r_c is seen by Twolegs, and taken from c_n.",
+                "text": "Carelessly, r_c is seen by humans, and taken from c_n.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
             },
             {
-                "text": "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n.",
+                "text": "Carelessly, r_c is seen by humans, and is taken hissing and spitting to be locked in a monster's den. Overnight, they discover that a broken window is just wide enough to push themselves out to safety through, but the glass leaves them bleeding as they run back to c_n.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1808,7 +1808,7 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegden2",
+        "patrol_id": "fst_hunt_gonehumanden2",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
@@ -1820,18 +1820,18 @@
             "apprentice": [1, 6]
         },
         "weight": 20,
-        "intro_text": "app1 decides to hunt out near the Twoleg dens.",
+        "intro_text": "app1 decides to hunt out near the human dens.",
         "decline_text": "On second thought, they decide to reline their nest today instead.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+                "text": "They're interrupted by humans wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
                 "exp": 20,
                 "weight": 20,
                 "prey": ["small", "medium"]
             },
             {
-                "text": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app1. They've always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
+                "text": "A friendly humans makes a psspsspss noise, and pours kittypet food on the ground for app1. They've always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["small"]
@@ -1873,7 +1873,7 @@
                 "can_have_stat": ["app"]
             },
             {
-                "text": "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
+                "text": "Carelessly, app1 is seen by humans, and taken from c_n.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
@@ -1881,24 +1881,24 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_twolegdencatdare1",
+        "patrol_id": "fst_hunt_humandencatdare1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": ["romantic"],
-        "patrol_art": "gen_hunt_twolegdencatdare",
+        "patrol_art": "gen_hunt_humandencatdare",
         "min_cats": 2,
         "max_cats": 2,
         "min_max_status": {
             "all apprentices": [-1, -1]
         },
         "weight": 20,
-        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the Twoleg dens.",
+        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the human dens.",
         "decline_text": "On second thought, they decide to reline their nests today instead.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
+                "text": "They're interrupted by humans wandering through the woods a couple times, but it's a successful hunt.",
                 "exp": 20,
                 "weight": 20,
                 "prey": ["small", "medium"],
@@ -1913,7 +1913,7 @@
                 ]
             },
             {
-                "text": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for r_c. They fetch p_l, and both cats investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
+                "text": "A friendly humans makes a psspsspss noise, and pours kittypet food on the ground for r_c. They fetch p_l, and both cats investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["small"],
@@ -1928,7 +1928,7 @@
                 ]
             },
             {
-                "text": "s_c shows the other cat all around the outskirts of the Twoleg dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
+                "text": "s_c shows the other cat all around the outskirts of the human dens, showing off how much they know about the strange animals and their weird behavior, and enjoying getting to feel clever.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"],
@@ -1971,7 +1971,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear p_l yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, r_c presses their pelt against p_l on the way back to c_n.",
+                "text": "Carelessly, r_c is seen by humans, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear p_l yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, r_c presses their pelt against p_l on the way back to c_n.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1985,7 +1985,7 @@
                 ]
             },
             {
-                "text": "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+                "text": "The humans here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2010,7 +2010,7 @@
                 ]
             },
             {
-                "text": "Carelessly, r_c is seen by Twolegs, and taken from c_n.",
+                "text": "Carelessly, r_c is seen by humans, and taken from c_n.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"],
@@ -2027,12 +2027,12 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_twolegdenappdare1",
+        "patrol_id": "fst_hunt_humandenappdare1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": ["rom_two_apps", "romantic"],
-        "patrol_art": "gen_hunt_twolegdenappdare",
+        "patrol_art": "gen_hunt_humandenappdare",
         "min_cats": 2,
         "max_cats": 2,
         "min_max_status": {
@@ -2040,12 +2040,12 @@
             "all apprentices": [2, 2]
         },
         "weight": 20,
-        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the Twoleg dens. Where apprentices are definitely not allowed.",
+        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the human dens. Where apprentices are definitely not allowed.",
         "decline_text": "On second thought, they decide to reline their nests today instead.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+                "text": "They're interrupted by humans wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
                 "exp": 20,
                 "weight": 20,
                 "prey": ["small", "medium"],
@@ -2060,7 +2060,7 @@
                 ]
             },
             {
-                "text": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
+                "text": "A friendly humans makes a psspsspss noise, and pours kittypet food on the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
                 "exp": 20,
                 "weight": 5,
                 "prey": ["small"],
@@ -2103,7 +2103,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Carelessly, app2 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses their pelt against app1 as they pad home.",
+                "text": "Carelessly, app2 is seen by humans, and is taken hissing and spitting to be locked in a monster's den. Overnight, they hear app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses their pelt against app1 as they pad home.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2143,7 +2143,7 @@
                 ]
             },
             {
-                "text": "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
+                "text": "Carelessly, app1 is seen by humans, and taken from c_n.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"],
@@ -2160,12 +2160,12 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegtrap1",
+        "patrol_id": "fst_hunt_gonehumantrap1",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "fst_hunt_gonetwolegtrap",
+        "patrol_art": "fst_hunt_gonehumantrap",
         "min_cats": 1,
         "max_cats": 1,
         "min_max_status": {},
@@ -2175,17 +2175,17 @@
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "Darting through quickly, they see that the lovely smell is Twoleg mush, and keep running.",
+                "text": "Darting through quickly, they see that the lovely smell is human mush, and keep running.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
+                "text": "The lovely smell leads to human mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever human restocked the bait might still be around. They leave quickly.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the bushes away from a Twoleg trap underneath.",
+                "text": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the bushes away from a human trap underneath.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
@@ -2214,7 +2214,7 @@
                 "stat_trait": ["adventurous", "bold", "confident", "daring", "playful"]
             },
             {
-                "text": "r_c is caught in a trap hidden in the bushes and is taken by Twolegs shortly after.",
+                "text": "r_c is caught in a trap hidden in the bushes and is taken by humans shortly after.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
@@ -2222,12 +2222,12 @@
         ]
     },
     {
-        "patrol_id": "fst_hunt_gonetwolegtrap2",
+        "patrol_id": "fst_hunt_gonehumantrap2",
         "biome": ["forest"],
         "season": ["Any"],
         "types": ["hunting"],
         "tags": [],
-        "patrol_art": "fst_hunt_gonetwolegtrap",
+        "patrol_art": "fst_hunt_gonehumantrap",
         "min_cats": 2,
         "max_cats": 6,
         "min_max_status": {},
@@ -2237,17 +2237,17 @@
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "Darting through quickly, r_c sees that the lovely smell is Twoleg mush, and keeps running.",
+                "text": "Darting through quickly, r_c sees that the lovely smell is human mush, and keeps running.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
+                "text": "The lovely smell leads to human mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever human restocked the bait might still be around. They leave quickly.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the bushes away from a Twoleg trap underneath.",
+                "text": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the bushes away from a human trap underneath.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": ["CLEVER,1"]
@@ -2276,7 +2276,7 @@
                 "stat_trait": ["adventurous", "bold", "confident", "daring", "playful"]
             },
             {
-                "text": "r_c is caught in a trap hidden in the bushes! There's nothing the patrol is able to do to help them, and r_c is taken by Twolegs shortly after.",
+                "text": "r_c is caught in a trap hidden in the bushes! There's nothing the patrol is able to do to help them, and r_c is taken by humans shortly after.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": ["r_c"]
