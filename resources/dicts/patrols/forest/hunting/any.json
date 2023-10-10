@@ -298,18 +298,18 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol notices a commotion and finds two squirrels chasing each other across the forest floor.",
+        "intro_text": "The patrol notices a commotion and finds a Plusle and Minun chasing each other across the forest floor.",
         "decline_text": "The patrol decides there's probably easier prey to find elsewhere.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "The squirrels are so distracted that the patrol is able to quickly catch them both.",
+                "text": "The duo are so distracted that the patrol is able to quickly catch them both.",
                 "exp": 10,
                 "weight": 20,
                 "prey": ["medium"]
             },
             {
-                "text": "The patrol springs onto the squirrels without a second thought, easily dispatching them.",
+                "text": "The patrol springs onto the little guys without a second thought, easily dispatching them.",
                 "exp": 10,
                 "weight": 5,
                 "prey": ["medium"]

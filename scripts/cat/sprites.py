@@ -99,8 +99,8 @@ class Sprites():
         # if anyone changes lineart for whatever reason update this
         if isinstance(self.size, int):
             pass
-        elif width / 6 == height / 8:
-            self.size = width / 6
+        elif width / 4 == height / 8:
+            self.size = width / 4
         else:
             self.size = 50 # default, what base clangen uses
             print(f"lineart.png is not 3x7, falling back to {self.size}")
