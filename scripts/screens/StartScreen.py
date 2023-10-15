@@ -16,6 +16,7 @@ import os
 import platform
 import subprocess
 import traceback
+import random
 from html import escape
 
 import pygame
@@ -45,7 +46,8 @@ class StartScreen(Screens):
     def __init__(self, name=None):
         super().__init__(name)
         self.warning_label = None
-        self.bg = pygame.image.load("resources/images/menu.png").convert()
+        bg = random.randint(1, 50)
+        self.bg = pygame.image.load("resources/images/menu" + str(bg) + ".png").convert()
         self.bg = pygame.transform.scale(self.bg, (screen_x, screen_y))
         self.social_buttons = {}
 
